@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "641196757f6e755fa8a07602"
+  },
+  "album_name": "Endless Summer Vacation",
+  "album_img": "/img/db_img/album_img/endless-summer-vacation.jpg",
+  "artist_name": "Miley Cyrus",
+  "songs_id": [
+    {
+      "$oid": "641e8031f3ab6c85f074d5b2"
+    },
+    {
+      "$oid": "641e8056f3ab6c85f074d5be"
+    },
+    {
+      "$oid": "641e80b4f3ab6c85f074d5d8"
+    },
+    {
+      "$oid": "641e812ef3ab6c85f074d5fd"
+    },
+    {
+      "$oid": "641e81b6f3ab6c85f074d623"
+    },
+    {
+      "$oid": "641e81bdf3ab6c85f074d625"
+    },
+    {
+      "$oid": "641e82c7f3ab6c85f074d650"
+    },
+    {
+      "$oid": "641e8305f3ab6c85f074d65d"
+    },
+    {
+      "$oid": "641e8339f3ab6c85f074d66a"
+    },
+    {
+      "$oid": "641e8345f3ab6c85f074d66e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e938903007793749e74b8"
+  },
+  "album_name": "Melodrama",
+  "album_img": "/img/db_img/album_img/melodrama.jpg",
+  "artist_name": "Lorde",
+  "songs_id": [
+    {
+      "$oid": "641e804df3ab6c85f074d5bb"
+    },
+    {
+      "$oid": "641e8065f3ab6c85f074d5c0"
+    },
+    {
+      "$oid": "641e8086f3ab6c85f074d5ca"
+    },
+    {
+      "$oid": "641e80e8f3ab6c85f074d5e8"
+    },
+    {
+      "$oid": "641e818ef3ab6c85f074d617"
+    },
+    {
+      "$oid": "641e8282f3ab6c85f074d63b"
+    },
+    {
+      "$oid": "641e82a0f3ab6c85f074d644"
+    },
+    {
+      "$oid": "641e82c0f3ab6c85f074d64e"
+    },
+    {
+      "$oid": "641e8349f3ab6c85f074d66f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e93b603007793749e74b9"
+  },
+  "album_name": "Harry's House",
+  "album_img": "/img/db_img/album_img/harrys-house.jpg",
+  "artist_name": "Harry Styles",
+  "songs_id": [
+    {
+      "$oid": "641e7f6ff3ab6c85f074d57a"
+    },
+    {
+      "$oid": "641e7fa7f3ab6c85f074d588"
+    },
+    {
+      "$oid": "641e7fd3f3ab6c85f074d595"
+    },
+    {
+      "$oid": "641e7ff7f3ab6c85f074d59f"
+    },
+    {
+      "$oid": "641e8021f3ab6c85f074d5ad"
+    },
+    {
+      "$oid": "641e804af3ab6c85f074d5ba"
+    },
+    {
+      "$oid": "641e80e2f3ab6c85f074d5e6"
+    },
+    {
+      "$oid": "641e80f2f3ab6c85f074d5eb"
+    },
+    {
+      "$oid": "641e811af3ab6c85f074d5f7"
+    },
+    {
+      "$oid": "641e8132f3ab6c85f074d5fe"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e93c903007793749e74ba"
+  },
+  "album_name": "Planet Her",
+  "album_img": "/img/db_img/album_img/planet-her.jpg",
+  "artist_name": "Doja Cat",
+  "songs_id": [
+    {
+      "$oid": "641e771cf3ab6c85f074d572"
+    },
+    {
+      "$oid": "641e7727f3ab6c85f074d575"
+    },
+    {
+      "$oid": "641e7f88f3ab6c85f074d581"
+    },
+    {
+      "$oid": "641e80abf3ab6c85f074d5d5"
+    },
+    {
+      "$oid": "641e80c8f3ab6c85f074d5de"
+    },
+    {
+      "$oid": "641e8105f3ab6c85f074d5f1"
+    },
+    {
+      "$oid": "641e8146f3ab6c85f074d603"
+    },
+    {
+      "$oid": "641e8154f3ab6c85f074d606"
+    },
+    {
+      "$oid": "641e8342f3ab6c85f074d66d"
+    },
+    {
+      "$oid": "641e8355f3ab6c85f074d673"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e93df03007793749e74bb"
+  },
+  "album_name": "After Hours",
+  "album_img": "/img/db_img/album_img/after-hours.jpg",
+  "artist_name": "The Weeknd",
+  "songs_id": [
+    {
+      "$oid": "641e7704f3ab6c85f074d571"
+    },
+    {
+      "$oid": "641e772bf3ab6c85f074d576"
+    },
+    {
+      "$oid": "641e7fe9f3ab6c85f074d59b"
+    },
+    {
+      "$oid": "641e8000f3ab6c85f074d5a2"
+    },
+    {
+      "$oid": "641e806cf3ab6c85f074d5c2"
+    },
+    {
+      "$oid": "641e8076f3ab6c85f074d5c5"
+    },
+    {
+      "$oid": "641e80adf3ab6c85f074d5d6"
+    },
+    {
+      "$oid": "641e824af3ab6c85f074d62b"
+    },
+    {
+      "$oid": "641e8251f3ab6c85f074d62d"
+    },
+    {
+      "$oid": "641e8278f3ab6c85f074d638"
+    },
+    {
+      "$oid": "641e8288f3ab6c85f074d63d"
+    },
+    {
+      "$oid": "641e82d4f3ab6c85f074d654"
+    },
+    {
+      "$oid": "641e82e5f3ab6c85f074d659"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e93f103007793749e74bc"
+  },
+  "album_name": "Love Goes",
+  "album_img": "/img/db_img/album_img/love-goes.jpg",
+  "artist_name": "Sam Smith",
+  "songs_id": [
+    {
+      "$oid": "641e7732f3ab6c85f074d578"
+    },
+    {
+      "$oid": "641e7ff3f3ab6c85f074d59e"
+    },
+    {
+      "$oid": "641e7ffdf3ab6c85f074d5a1"
+    },
+    {
+      "$oid": "641e8028f3ab6c85f074d5af"
+    },
+    {
+      "$oid": "641e808cf3ab6c85f074d5cc"
+    },
+    {
+      "$oid": "641e80a7f3ab6c85f074d5d4"
+    },
+    {
+      "$oid": "641e80fbf3ab6c85f074d5ee"
+    },
+    {
+      "$oid": "641e813bf3ab6c85f074d601"
+    },
+    {
+      "$oid": "641e827ff3ab6c85f074d63a"
+    },
+    {
+      "$oid": "641e82cbf3ab6c85f074d651"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "643ce8398a0c9e7e89f2d4b0"
+  },
+  "album_name": "Me",
+  "album_img": "/img/db_img/album_img/me.jpg",
+  "artist_name": "Jisoo",
+  "songs_id": [
+    {
+      "$oid": "64435fe795a9449080cd514e"
+    },
+    {
+      "$oid": "6443606a95a9449080cd514f"
+    }
+  ]
+}]

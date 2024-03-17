@@ -1,0 +1,5559 @@
+[{
+  "_id": {
+    "$oid": "641e7fadf3ab6c85f074d58a"
+  },
+  "song_name": "Break Free",
+  "song_path": "/song_mp3/break-free.mp3",
+  "song_img": "/img/db_img/song_img/break-free.jpg",
+  "song_lyric": "/song_lyrics/break-free.txt",
+  "song_duration": "3:35",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e728cf3ab6c85f074d4a9"
+    },
+    {
+      "$oid": "641e76b1f3ab6c85f074d56c"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e771cf3ab6c85f074d572"
+  },
+  "song_name": "Ain't Shit",
+  "song_path": "/song_mp3/aint-shit.mp3",
+  "song_img": "/img/db_img/song_img/aint-shit.jpg",
+  "song_lyric": "/song_lyrics/aint-shit.txt",
+  "song_duration": "2:55",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fb1f3ab6c85f074d58b"
+  },
+  "song_name": "Brooklyn Baby",
+  "song_path": "/song_mp3/brooklyn-baby.mp3",
+  "song_img": "/img/db_img/song_img/brooklyn-baby.jpg",
+  "song_lyric": "/song_lyrics/brooklyn-baby.txt",
+  "song_duration": "5:54",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7552f3ab6c85f074d50c"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e966203007793749e74c4"
+    },
+    {
+      "$oid": "6424fda15e56cf0f4fda215e"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fbff3ab6c85f074d58f"
+  },
+  "song_name": "Call You Mine",
+  "song_path": "/song_mp3/call-you-mine.mp3",
+  "song_img": "/img/db_img/song_img/call-you-mine.jpg",
+  "song_lyric": "/song_lyrics/call-you-mine.txt",
+  "song_duration": "3:54",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7677f3ab6c85f074d55c"
+    },
+    {
+      "$oid": "641e7311f3ab6c85f074d4ba"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fc2f3ab6c85f074d590"
+  },
+  "song_name": "Can't Buy Me Loving",
+  "song_path": "/song_mp3/cant-buy-me-loving.mp3",
+  "song_img": "/img/db_img/song_img/cant-buy-me-loving.jpg",
+  "song_lyric": "/song_lyrics/cant-buy-me-loving.txt",
+  "song_duration": "3:26",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75f3f3ab6c85f074d53a"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e803af3ab6c85f074d5b5"
+  },
+  "song_name": "Fractures",
+  "song_path": "/song_mp3/fractures.mp3",
+  "song_img": "/img/db_img/song_img/fractures.jpg",
+  "song_lyric": "/song_lyrics/fractures.txt",
+  "song_duration": "4:05",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7516f3ab6c85f074d4fc"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    },
+    {
+      "$oid": "6424feb65e56cf0f4fda2163"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8093f3ab6c85f074d5ce"
+  },
+  "song_name": "I Don't Wanna Be Like You",
+  "song_path": "/song_mp3/i-dont-wanna-be-like-you.mp3",
+  "song_img": "/img/db_img/song_img/i-dont-wanna-be-like-you.jpg",
+  "song_lyric": "/song_lyrics/i-dont-wanna-be-like-you.txt",
+  "song_duration": "2:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e761df3ab6c85f074d545"
+    }
+  ],
+  "playlists_id": [
+    "6424ff3f5e56cf0f4fda2165"
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80b4f3ab6c85f074d5d8"
+  },
+  "song_name": "Jaded",
+  "song_path": "/song_mp3/jaded.mp3",
+  "song_img": "/img/db_img/song_img/jaded.jpg",
+  "song_lyric": "/song_lyrics/jaded.txt",
+  "song_duration": "3:06",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80c2f3ab6c85f074d5dc"
+  },
+  "song_name": "Kill Bill",
+  "song_path": "/song_mp3/kill-bill.mp3",
+  "song_img": "/img/db_img/song_img/kill-bill.jpg",
+  "song_lyric": "/song_lyrics/kill-bill.txt",
+  "song_duration": "2:34",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e765df3ab6c85f074d555"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    },
+    {
+      "$oid": "6424ff3f5e56cf0f4fda2165"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80e2f3ab6c85f074d5e6"
+  },
+  "song_name": "Late Night Talking",
+  "song_path": "/song_mp3/late-night-talking.mp3",
+  "song_img": "/img/db_img/song_img/late-night-talking.jpg",
+  "song_lyric": "/song_lyrics/late-night-talking.txt",
+  "song_duration": "2:57",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80e5f3ab6c85f074d5e7"
+  },
+  "song_name": "Leave The Door Open",
+  "song_path": "/song_mp3/leave-the-door-open.mp3",
+  "song_img": "/img/db_img/song_img/leave-the-door-open.jpg",
+  "song_lyric": "/song_lyrics/leave-the-door-open.txt",
+  "song_duration": "4:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7280f3ab6c85f074d4a6"
+    },
+    {
+      "$oid": "641e7334f3ab6c85f074d4c4"
+    },
+    {
+      "$oid": "641e7647f3ab6c85f074d54f"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Funk",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8102f3ab6c85f074d5f0"
+  },
+  "song_name": "Love The Way You Lie",
+  "song_path": "/song_mp3/love-the-way-you-lie.mp3",
+  "song_img": "/img/db_img/song_img/love-the-way-you-lie.jpg",
+  "song_lyric": "/song_lyrics/love-the-way-you-lie.txt",
+  "song_duration": "4:27",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74b1f3ab6c85f074d4e8"
+    },
+    {
+      "$oid": "641e7606f3ab6c85f074d53f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6420240770c78a4cc8f0da1b"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e811df3ab6c85f074d5f8"
+  },
+  "song_name": "May Be You're The Problem",
+  "song_path": "/song_mp3/may-be-youre-the-problem.mp3",
+  "song_img": "/img/db_img/song_img/may-be-youre-the-problem.jpg",
+  "song_lyric": "/song_lyrics/may-be-youre-the-problem.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e729cf3ab6c85f074d4ac"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e815bf3ab6c85f074d608"
+  },
+  "song_name": "NEW PR!",
+  "song_path": "/song_mp3/new-pr.mp3",
+  "song_img": "/img/db_img/song_img/new-pr.jpg",
+  "song_lyric": "/song_lyrics/new-pr.txt",
+  "song_duration": "2:19",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7275f3ab6c85f074d4a3"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e819bf3ab6c85f074d61b"
+  },
+  "song_name": "Rain",
+  "song_path": "/song_mp3/rain.mp3",
+  "song_img": "/img/db_img/song_img/rain.jpg",
+  "song_lyric": "/song_lyrics/rain.txt",
+  "song_duration": "3:42",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7660f3ab6c85f074d556"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e819ff3ab6c85f074d61c"
+  },
+  "song_name": "Rain On Me",
+  "song_path": "/song_mp3/rain-on-me.mp3",
+  "song_img": "/img/db_img/song_img/rain-on-me.jpg",
+  "song_lyric": "/song_lyrics/rain-on-me.txt",
+  "song_duration": "3:02",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e754df3ab6c85f074d50b"
+    },
+    {
+      "$oid": "641e7290f3ab6c85f074d4aa"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c1370c78a4cc8f0da1d"
+    },
+    {
+      "$oid": "6424fe695e56cf0f4fda2161"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e832df3ab6c85f074d666"
+  },
+  "song_name": "What Now",
+  "song_path": "/song_mp3/what-now.mp3",
+  "song_img": "/img/db_img/song_img/what-now.jpg",
+  "song_lyric": "/song_lyrics/what-now.txt",
+  "song_duration": "3:21",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e750bf3ab6c85f074d4f9"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8339f3ab6c85f074d66a"
+  },
+  "song_name": "Wildcard",
+  "song_path": "/song_mp3/wildcard.mp3",
+  "song_img": "/img/db_img/song_img/wildcard.jpg",
+  "song_lyric": "/song_lyrics/wildcard.txt",
+  "song_duration": "3:13",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f77f3ab6c85f074d57c"
+  },
+  "song_name": "Back To December",
+  "song_path": "/song_mp3/back-to-december.mp3",
+  "song_img": "/img/db_img/song_img/back-to-december.jpg",
+  "song_lyric": "/song_lyrics/back-to-december.txt",
+  "song_duration": "4:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766ff3ab6c85f074d55a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6420240770c78a4cc8f0da1b"
+    }
+  ],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8000f3ab6c85f074d5a2"
+  },
+  "song_name": "Die For You",
+  "song_path": "/song_mp3/die-for-you.mp3",
+  "song_img": "/img/db_img/song_img/die-for-you.jpg",
+  "song_lyric": "/song_lyrics/die-for-you.txt",
+  "song_duration": "4:21",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8009f3ab6c85f074d5a5"
+  },
+  "song_name": "Don't Look Back In Anger",
+  "song_path": "/song_mp3/dont-look-back-in-anger.mp3",
+  "song_img": "/img/db_img/song_img/dont-look-back-in-anger.jpg",
+  "song_lyric": "/song_lyrics/dont-look-back-in-anger.txt",
+  "song_duration": "4:48",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75d4f3ab6c85f074d532"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fda15e56cf0f4fda215e"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e806ff3ab6c85f074d5c3"
+  },
+  "song_name": "Havana",
+  "song_path": "/song_mp3/havana.mp3",
+  "song_img": "/img/db_img/song_img/havana.jpg",
+  "song_lyric": "/song_lyrics/havana.txt",
+  "song_duration": "3:39",
+  "song_rating_star_total": 5,
+  "artists_id": [
+    {
+      "$oid": "641e733ef3ab6c85f074d4c7"
+    },
+    {
+      "$oid": "641e76aaf3ab6c85f074d56a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c1370c78a4cc8f0da1d"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8073f3ab6c85f074d5c4"
+  },
+  "song_name": "heart",
+  "song_path": "/song_mp3/heart.mp3",
+  "song_img": "/img/db_img/song_img/heart.jpg",
+  "song_lyric": "/song_lyrics/heart.txt",
+  "song_duration": "3:47",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74c4f3ab6c85f074d4ee"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80a0f3ab6c85f074d5d2"
+  },
+  "song_name": "If He Want To He Would",
+  "song_path": "/song_mp3/if-he-want-to-he-would.mp3",
+  "song_img": "/img/db_img/song_img/if-he-want-to-he-would.jpg",
+  "song_lyric": "/song_lyrics/if-he-want-to-he-would.txt",
+  "song_duration": "2:58",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7546f3ab6c85f074d509"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80a4f3ab6c85f074d5d3"
+  },
+  "song_name": "I'm Good",
+  "song_path": "/song_mp3/im-good.mp3",
+  "song_img": "/img/db_img/song_img/im-good.jpg",
+  "song_lyric": "/song_lyrics/im-good.txt",
+  "song_duration": "2:55",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7311f3ab6c85f074d4ba"
+    },
+    {
+      "$oid": "641e736ff3ab6c85f074d4d5"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80d5f3ab6c85f074d5e2"
+  },
+  "song_name": "La La La",
+  "song_path": "/song_mp3/la-la-la.mp3",
+  "song_img": "/img/db_img/song_img/la-la-la.jpg",
+  "song_lyric": "/song_lyrics/la-la-la.txt",
+  "song_duration": "3:37",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    },
+    {
+      "$oid": "641e75c0f3ab6c85f074d52c"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e812bf3ab6c85f074d5fc"
+  },
+  "song_name": "Moment 4 Life",
+  "song_path": "/song_mp3/moment-4-life.mp3",
+  "song_img": "/img/db_img/song_img/moment-4-life.jpg",
+  "song_lyric": "/song_lyrics/moment-4-life.txt",
+  "song_duration": "4:39",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75caf3ab6c85f074d52f"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81a9f3ab6c85f074d61f"
+  },
+  "song_name": "Replay",
+  "song_path": "/song_mp3/replay.mp3",
+  "song_img": "/img/db_img/song_img/replay.jpg",
+  "song_lyric": "/song_lyrics/replay.txt",
+  "song_duration": "4:07",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e751ef3ab6c85f074d4fe"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6420240770c78a4cc8f0da1b"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8266f3ab6c85f074d632"
+  },
+  "song_name": "She's so High",
+  "song_path": "/song_mp3/shes-so-high.mp3",
+  "song_img": "/img/db_img/song_img/shes-so-high.jpg",
+  "song_lyric": "/song_lyrics/hes-so-high.txt",
+  "song_duration": "3:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7664f3ab6c85f074d557"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023d870c78a4cc8f0da19"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8291f3ab6c85f074d63f"
+  },
+  "song_name": "Still Life",
+  "song_path": "/song_mp3/still-life.mp3",
+  "song_img": "/img/db_img/song_img/still-life.jpg",
+  "song_lyric": "/song_lyrics/still-life.txt",
+  "song_duration": "3:07",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e731cf3ab6c85f074d4bd"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82b0f3ab6c85f074d649"
+  },
+  "song_name": "Tarzan Boy",
+  "song_path": "/song_mp3/tarzan-boy.mp3",
+  "song_img": "/img/db_img/song_img/tarzan-boy.jpg",
+  "song_lyric": "/song_lyrics/tarzan-boy.txt",
+  "song_duration": "3:40",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e730ef3ab6c85f074d4b9"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e96bf03007793749e74c7"
+    },
+    {
+      "$oid": "6424fe185e56cf0f4fda2160"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82c7f3ab6c85f074d650"
+  },
+  "song_name": "Thousand Miles",
+  "song_path": "/song_mp3/thousand-miles.mp3",
+  "song_img": "/img/db_img/song_img/thousand-miles.jpg",
+  "song_lyric": "/song_lyrics/thousand-miles.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    },
+    {
+      "$oid": "641e7330f3ab6c85f074d4c3"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7724f3ab6c85f074d574"
+  },
+  "song_name": "All You Had To Do Was Stay",
+  "song_path": "/song_mp3/all-you-had-to-do-was-stay.mp3",
+  "song_img": "/img/db_img/song_img/all-you-had-to-do-was-stay.jpg",
+  "song_lyric": "/song_lyrics/all-you-had-to-do-was-stay.txt",
+  "song_duration": "3:13",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766ff3ab6c85f074d55a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fa0f3ab6c85f074d586"
+  },
+  "song_name": "Better Now",
+  "song_path": "/song_mp3/better-now.mp3",
+  "song_img": "/img/db_img/song_img/better-now.jpg",
+  "song_lyric": "/song_lyrics/better-now.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75ebf3ab6c85f074d538"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fa7f3ab6c85f074d588"
+  },
+  "song_name": "Boyfriends",
+  "song_path": "/song_mp3/boyfriends.mp3",
+  "song_img": "/img/db_img/song_img/boyfriends.jpg",
+  "song_lyric": "/song_lyrics/boyfriends.txt",
+  "song_duration": "3:14",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7faaf3ab6c85f074d589"
+  },
+  "song_name": "Boy's A Liar, Pt.2",
+  "song_path": "/song_mp3/boys-a-liar-pt2.mp3",
+  "song_img": "/img/db_img/song_img/boys-a-liar-pt2.jpg",
+  "song_lyric": "/song_lyrics/boys-a-liar-pt2.txt",
+  "song_duration": "2:11",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75e4f3ab6c85f074d536"
+    },
+    {
+      "$oid": "641e7512f3ab6c85f074d4fb"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    },
+    {
+      "$oid": "6424fe7a5e56cf0f4fda2162"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fd0f3ab6c85f074d594"
+  },
+  "song_name": "Cherry",
+  "song_path": "/song_mp3/cherry.mp3",
+  "song_img": "/img/db_img/song_img/cherry.jpg",
+  "song_lyric": "/song_lyrics/cherry.txt",
+  "song_duration": "3:30",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e760af3ab6c85f074d540"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424ff3f5e56cf0f4fda2165"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fd6f3ab6c85f074d596"
+  },
+  "song_name": "Circles",
+  "song_path": "/song_mp3/circles.mp3",
+  "song_img": "/img/db_img/song_img/circles.jpg",
+  "song_lyric": "/song_lyrics/circles.txt",
+  "song_duration": "3:33",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75ebf3ab6c85f074d538"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8056f3ab6c85f074d5be"
+  },
+  "song_name": "Handstand",
+  "song_path": "/song_mp3/handstand.mp3",
+  "song_img": "/img/db_img/song_img/handstand.jpg",
+  "song_lyric": "/song_lyrics/handstand.txt",
+  "song_duration": "3:25",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8068f3ab6c85f074d5c1"
+  },
+  "song_name": "Hard Sometimes",
+  "song_path": "/song_mp3/hard-sometimes.mp3",
+  "song_img": "/img/db_img/song_img/hard-sometimes.jpg",
+  "song_lyric": "/song_lyrics/hard-sometimes.txt",
+  "song_duration": "4:28",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e761df3ab6c85f074d545"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c5970c78a4cc8f0da1e"
+    }
+  ],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e806cf3ab6c85f074d5c2"
+  },
+  "song_name": "Hardest To Love",
+  "song_path": "/song_mp3/hardest-to-love.mp3",
+  "song_img": "/img/db_img/song_img/hardest-to-love.jpg",
+  "song_lyric": "/song_lyrics/hardest-to-love.txt",
+  "song_duration": "3:32",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8089f3ab6c85f074d5cb"
+  },
+  "song_name": "How Deep Is Your Love",
+  "song_path": "/song_mp3/how-deep-is-your-love.mp3",
+  "song_img": "/img/db_img/song_img/how-deep-is-your-love.jpg",
+  "song_lyric": "/song_lyrics/how-deep-is-your-love.txt",
+  "song_duration": "3:33",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7315f3ab6c85f074d4bb"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e968e03007793749e74c6"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80dbf3ab6c85f074d5e4"
+  },
+  "song_name": "Last Friday Night",
+  "song_path": "/song_mp3/last-friday-night.mp3",
+  "song_img": "/img/db_img/song_img/last-friday-night.jpg",
+  "song_lyric": "/song_lyrics/last-friday-night.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7534f3ab6c85f074d504"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80def3ab6c85f074d5e5"
+  },
+  "song_name": "Last Night",
+  "song_path": "/song_mp3/last-night.mp3",
+  "song_img": "/img/db_img/song_img/last-night.jpg",
+  "song_lyric": "/song_lyrics/last-night.txt",
+  "song_duration": "2:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75b1f3ab6c85f074d528"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8105f3ab6c85f074d5f1"
+  },
+  "song_name": "Love To Dream",
+  "song_path": "/song_mp3/love-to-dream.mp3",
+  "song_img": "/img/db_img/song_img/love-to-dream.jpg",
+  "song_lyric": "/song_lyrics/love-to-dream.txt",
+  "song_duration": "3:37",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e810ef3ab6c85f074d5f4"
+  },
+  "song_name": "Made You Look",
+  "song_path": "/song_mp3/make-you-look.mp3",
+  "song_img": "/img/db_img/song_img/make-you-look.jpg",
+  "song_lyric": "/song_lyrics/make-you-look.txt",
+  "song_duration": "2:16",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7595f3ab6c85f074d520"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642026f570c78a4cc8f0da1c"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8146f3ab6c85f074d603"
+  },
+  "song_name": "Naked",
+  "song_path": "/song_mp3/naked.mp3",
+  "song_img": "/img/db_img/song_img/naked.jpg",
+  "song_lyric": "/song_lyrics/naked.txt",
+  "song_duration": "3:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e818bf3ab6c85f074d616"
+  },
+  "song_name": "Party In The U.S.A",
+  "song_path": "/song_mp3/party-in-the-usa.mp3",
+  "song_img": "/img/db_img/song_img/party-in-the-usa.jpg",
+  "song_lyric": "/song_lyrics/party-in-the-usa.txt",
+  "song_duration": "3:27",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8198f3ab6c85f074d61a"
+  },
+  "song_name": "POSE",
+  "song_path": "/song_mp3/pose.mp3",
+  "song_img": "/img/db_img/song_img/pose.jpg",
+  "song_lyric": "/song_lyrics/pose.txt",
+  "song_duration": "4:17",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e759bf3ab6c85f074d522"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Funk",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81caf3ab6c85f074d629"
+  },
+  "song_name": "Running Up That Hill",
+  "song_path": "/song_mp3/running-up-that-hill.mp3",
+  "song_img": "/img/db_img/song_img/running-up-that-hill.jpg",
+  "song_lyric": "/song_lyrics/running-up-that-hill.txt",
+  "song_duration": "4:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7530f3ab6c85f074d503"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8320f3ab6c85f074d662"
+  },
+  "song_name": "Water Under The Bridge",
+  "song_path": "/song_mp3/water-under-the-bridge.mp3",
+  "song_img": "/img/db_img/song_img/water-under-the-bridge.jpg",
+  "song_lyric": "/song_lyrics/water-under-the-bridge.txt",
+  "song_duration": "2:50",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7625f3ab6c85f074d547"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e832af3ab6c85f074d665"
+  },
+  "song_name": "Welcome to Wonderland",
+  "song_path": "/song_mp3/welcome-to-wonderland.mp3",
+  "song_img": "/img/db_img/song_img/welcome-to-wonderland.jpg",
+  "song_lyric": "/song_lyrics/welcome-to-wonderland.txt",
+  "song_duration": "3:21",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7283f3ab6c85f074d4a7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e772bf3ab6c85f074d576"
+  },
+  "song_name": "Alone Again",
+  "song_path": "/song_mp3/alone-again.mp3",
+  "song_img": "/img/db_img/song_img/alone-again.jpg",
+  "song_lyric": "/song_lyrics/alone-again.txt",
+  "song_duration": "4:11",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e809df3ab6c85f074d5d1"
+  },
+  "song_name": "IDGAF",
+  "song_path": "/song_mp3/idgaf.mp3",
+  "song_img": "/img/db_img/song_img/idgaf.jpg",
+  "song_lyric": "/song_lyrics/idgaf.txt",
+  "song_duration": "3:36",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7498f3ab6c85f074d4e1"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80abf3ab6c85f074d5d5"
+  },
+  "song_name": "Imagine",
+  "song_path": "/song_mp3/imagine.mp3",
+  "song_img": "/img/db_img/song_img/imagine.jpg",
+  "song_lyric": "/song_lyrics/imagine.txt",
+  "song_duration": "2:29",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80bbf3ab6c85f074d5da"
+  },
+  "song_name": "Just the Way Your Are",
+  "song_path": "/song_mp3/just-the-way-your-are.mp3",
+  "song_img": "/img/db_img/song_img/just-the-way-your-are.jpg",
+  "song_lyric": "/song_lyrics/just-the-way-your-are.txt",
+  "song_duration": "3:42",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7334f3ab6c85f074d4c4"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6420240770c78a4cc8f0da1b"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8187f3ab6c85f074d615"
+  },
+  "song_name": "Paper Mache World",
+  "song_path": "/song_mp3/paper-mache-world.mp3",
+  "song_img": "/img/db_img/song_img/paper-mache-world.jpg",
+  "song_lyric": "/song_lyrics/paper-mache-world.txt",
+  "song_duration": "2:59",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e758ef3ab6c85f074d51e"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    },
+    {
+      "$oid": "6424fda15e56cf0f4fda215e"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81b6f3ab6c85f074d623"
+  },
+  "song_name": "River",
+  "song_path": "/song_mp3/river.mp3",
+  "song_img": "/img/db_img/song_img/river.jpg",
+  "song_lyric": "/song_lyrics/river.txt",
+  "song_duration": "2:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e827cf3ab6c85f074d639"
+  },
+  "song_name": "Snowman",
+  "song_path": "/song_mp3/snowman.mp3",
+  "song_img": "/img/db_img/song_img/snowman.jpg",
+  "song_lyric": "/song_lyrics/snowman.txt",
+  "song_duration": "2:48",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7640f3ab6c85f074d54d"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642026f570c78a4cc8f0da1c"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82daf3ab6c85f074d656"
+  },
+  "song_name": "Try Sleeping with a Broken Heart",
+  "song_path": "/song_mp3/try-sleeping-with-a-broken-heart.mp3",
+  "song_img": "/img/db_img/song_img/try-sleeping-with-a-broken-heart.jpg",
+  "song_lyric": "/song_lyrics/try-sleeping-with-a-broken-heart.txt",
+  "song_duration": "4:09",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7272f3ab6c85f074d4a2"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6420240770c78a4cc8f0da1b"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82e1f3ab6c85f074d658"
+  },
+  "song_name": "Unholy",
+  "song_path": "/song_mp3/unholy.mp3",
+  "song_img": "/img/db_img/song_img/unholy.jpg",
+  "song_lyric": "/song_lyrics/unholy.txt",
+  "song_duration": "3:38",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    },
+    {
+      "$oid": "641e753bf3ab6c85f074d506"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    },
+    {
+      "$oid": "6424fe7a5e56cf0f4fda2162"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e772ef3ab6c85f074d577"
+  },
+  "song_name": "Angel",
+  "song_path": "/song_mp3/angel.mp3",
+  "song_img": "/img/db_img/song_img/angel.jpg",
+  "song_lyric": "/song_lyrics/angel.txt",
+  "song_duration": "3:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7555f3ab6c85f074d50d"
+    },
+    {
+      "$oid": "641e7482f3ab6c85f074d4db"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8015f3ab6c85f074d5a9"
+  },
+  "song_name": "Every Breath You Take",
+  "song_path": "/song_mp3/every-breath-you-take.mp3",
+  "song_img": "/img/db_img/song_img/every-breath-you-take.jpg",
+  "song_lyric": "/song_lyrics/every-breath-you-take.txt",
+  "song_duration": "3:49",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e767ff3ab6c85f074d55e"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e96bf03007793749e74c7"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8024f3ab6c85f074d5ae"
+  },
+  "song_name": "Falling In Love",
+  "song_path": "/song_mp3/falling-in-love.mp3",
+  "song_img": "/img/db_img/song_img/falling-in-love.jpg",
+  "song_lyric": "/song_lyrics/falling-in-love.txt",
+  "song_duration": "4:06",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7357f3ab6c85f074d4ce"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8034f3ab6c85f074d5b3"
+  },
+  "song_name": "Forever",
+  "song_path": "/song_mp3/forever.mp3",
+  "song_img": "/img/db_img/song_img/forever.jpg",
+  "song_lyric": "/song_lyrics/forever.txt",
+  "song_duration": "3:23",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e754af3ab6c85f074d50a"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e807cf3ab6c85f074d5c7"
+  },
+  "song_name": "Here Comes The Sun",
+  "song_path": "/song_mp3/here-comes-the-sun.mp3",
+  "song_img": "/img/db_img/song_img/here-comes-the-sun.jpg",
+  "song_lyric": "/song_lyrics/here-comes-the-sun.txt",
+  "song_duration": "3:10",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7673f3ab6c85f074d55b"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e967b03007793749e74c5"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e808ff3ab6c85f074d5cd"
+  },
+  "song_name": "I Am You, You Are Me",
+  "song_path": "/song_mp3/i-am-you-you-are-me.mp3",
+  "song_img": "/img/db_img/song_img/i-am-you-you-are-me.jpg",
+  "song_lyric": "/song_lyrics/i-am-you-you-are-me.txt",
+  "song_duration": "3:36",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e76b5f3ab6c85f074d56d"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80c8f3ab6c85f074d5de"
+  },
+  "song_name": "Kiss Me More",
+  "song_path": "/song_mp3/kiss-me-more.mp3",
+  "song_img": "/img/db_img/song_img/kiss-me-more.jpg",
+  "song_lyric": "/song_lyrics/kiss-me-more.txt",
+  "song_duration": "2:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e729cf3ab6c85f074d4ac"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8150f3ab6c85f074d605"
+  },
+  "song_name": "Need A Favor",
+  "song_path": "/song_mp3/need-a-favor.mp3",
+  "song_img": "/img/db_img/song_img/need-a-favor.jpg",
+  "song_lyric": "/song_lyrics/need-a-favor.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7521f3ab6c85f074d4ff"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e815ef3ab6c85f074d609"
+  },
+  "song_name": "New Rules",
+  "song_path": "/song_mp3/new-rules.mp3",
+  "song_img": "/img/db_img/song_img/new-rules.jpg",
+  "song_lyric": "/song_lyrics/new-rules.txt",
+  "song_duration": "3:29",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7498f3ab6c85f074d4e1"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8178f3ab6c85f074d611"
+  },
+  "song_name": "On The Floor",
+  "song_path": "/song_mp3/on-the-floor.mp3",
+  "song_img": "/img/db_img/song_img/on-the-floor.jpg",
+  "song_lyric": "/song_lyrics/on-the-floor.txt",
+  "song_duration": "4:45",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7524f3ab6c85f074d500"
+    },
+    {
+      "$oid": "641e75e7f3ab6c85f074d537"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    },
+    {
+      "$oid": "64202c5970c78a4cc8f0da1e"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81bdf3ab6c85f074d625"
+  },
+  "song_name": "Rose Colored Lenses",
+  "song_path": "/song_mp3/rose-colored-lenses.mp3",
+  "song_img": "/img/db_img/song_img/rose-colored-lenses.jpg",
+  "song_lyric": "/song_lyrics/rose-colored-lenses.txt",
+  "song_duration": "3:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8274f3ab6c85f074d637"
+  },
+  "song_name": "Six Feet Under",
+  "song_path": "/song_mp3/six-feet-under.mp3",
+  "song_img": "/img/db_img/song_img/six-feet-under.jpg",
+  "song_lyric": "/song_lyrics/six-feet-under.txt",
+  "song_duration": "3:01",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e731ff3ab6c85f074d4be"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8282f3ab6c85f074d63b"
+  },
+  "song_name": "Sober",
+  "song_path": "/song_mp3/sober.mp3",
+  "song_img": "/img/db_img/song_img/sober.jpg",
+  "song_lyric": "/song_lyrics/sober.txt",
+  "song_duration": "3:17",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82a0f3ab6c85f074d644"
+  },
+  "song_name": "Supercut",
+  "song_path": "/song_mp3/supercut.mp3",
+  "song_img": "/img/db_img/song_img/supercut.jpg",
+  "song_lyric": "/song_lyrics/supercut.txt",
+  "song_duration": "4:38",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82a3f3ab6c85f074d645"
+  },
+  "song_name": "Take It Easy",
+  "song_path": "/song_mp3/take-it-easy.mp3",
+  "song_img": "/img/db_img/song_img/take-it-easy.jpg",
+  "song_lyric": "/song_lyrics/take-it-easy.txt",
+  "song_duration": "3:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e749cf3ab6c85f074d4e2"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e968e03007793749e74c6"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82a9f3ab6c85f074d647"
+  },
+  "song_name": "Talia",
+  "song_path": "/song_mp3/talia.mp3",
+  "song_img": "/img/db_img/song_img/talia.jpg",
+  "song_lyric": "/song_lyrics/talia.txt",
+  "song_duration": "3:29",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e753ff3ab6c85f074d507"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82b9f3ab6c85f074d64c"
+  },
+  "song_name": "Telepath",
+  "song_path": "/song_mp3/telepath.mp3",
+  "song_img": "/img/db_img/song_img/telepath.jpg",
+  "song_lyric": "/song_lyrics/telepath.txt",
+  "song_duration": "3:15",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e735ef3ab6c85f074d4d0"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    },
+    {
+      "$oid": "6421767d17e951bf32d8847e"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": [
+    {
+      "$oid": "643c34db694eda9f56dd5900"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e82bcf3ab6c85f074d64d"
+  },
+  "song_name": "The Bottom",
+  "song_path": "/song_mp3/the-bottom.mp3",
+  "song_img": "/img/db_img/song_img/the-bottom.jpg",
+  "song_lyric": "/song_lyrics/the-bottom.txt",
+  "song_duration": "3:01",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74d5f3ab6c85f074d4f3"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    },
+    {
+      "$oid": "6424fecb5e56cf0f4fda2164"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e831af3ab6c85f074d660"
+  },
+  "song_name": "Want Me",
+  "song_path": "/song_mp3/want-me.mp3",
+  "song_img": "/img/db_img/song_img/want-me.jpg",
+  "song_lyric": "/song_lyrics/want-me.txt",
+  "song_duration": "4:19",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7304f3ab6c85f074d4b6"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424ff3f5e56cf0f4fda2165"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8349f3ab6c85f074d66f"
+  },
+  "song_name": "Writer In The Dark",
+  "song_path": "/song_mp3/writer-in-the-dark.mp3",
+  "song_img": "/img/db_img/song_img/writer-in-the-dark.jpg",
+  "song_lyric": "/song_lyrics/writer-in-the-dark.txt",
+  "song_duration": "3:37",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e834cf3ab6c85f074d670"
+  },
+  "song_name": "Yandel 150",
+  "song_path": "/song_mp3/yandel-150.mp3",
+  "song_img": "/img/db_img/song_img/yandel-150.jpg",
+  "song_lyric": "/song_lyrics/yandel-150.txt",
+  "song_duration": "3:36",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e76a7f3ab6c85f074d569"
+    },
+    {
+      "$oid": "641e74bdf3ab6c85f074d4ec"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f93f3ab6c85f074d584"
+  },
+  "song_name": "Believer",
+  "song_path": "/song_mp3/believe.mp3",
+  "song_img": "/img/db_img/song_img/believe.jpg",
+  "song_lyric": "/song_lyrics/believe.txt",
+  "song_duration": "4:00",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7350f3ab6c85f074d4cc"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e96bf03007793749e74c7"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fedf3ab6c85f074d59c"
+  },
+  "song_name": "Cuff It",
+  "song_path": "/song_mp3/cuff-it.mp3",
+  "song_img": "/img/db_img/song_img/cuff-it.jpg",
+  "song_lyric": "/song_lyrics/cuff-it.txt",
+  "song_duration": "3:47",
+  "song_rating_star_total": 4,
+  "artists_id": [
+    {
+      "$oid": "641e7318f3ab6c85f074d4bc"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    },
+    {
+      "$oid": "642026f570c78a4cc8f0da1c"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8053f3ab6c85f074d5bd"
+  },
+  "song_name": "Half A Man",
+  "song_path": "/song_mp3/half-a-man.mp3",
+  "song_img": "/img/db_img/song_img/half-a-man.jpg",
+  "song_lyric": "/song_lyrics/half-a-man.txt",
+  "song_duration": "2:52",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e747af3ab6c85f074d4da"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8076f3ab6c85f074d5c5"
+  },
+  "song_name": "Heartless",
+  "song_path": "/song_mp3/heartless.mp3",
+  "song_img": "/img/db_img/song_img/heartless.jpg",
+  "song_lyric": "/song_lyrics/heartless.txt",
+  "song_duration": "4:10",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80a7f3ab6c85f074d5d4"
+  },
+  "song_name": "I'm Ready",
+  "song_path": "/song_mp3/im-ready.mp3",
+  "song_img": "/img/db_img/song_img/im-ready.jpg",
+  "song_lyric": "/song_lyrics/im-ready.txt",
+  "song_duration": "3:26",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    },
+    {
+      "$oid": "641e7486f3ab6c85f074d4dc"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80b7f3ab6c85f074d5d9"
+  },
+  "song_name": "Just A Little Bit Of Your Heart",
+  "song_path": "/song_mp3/just-a-little-bit-of-your-heart.mp3",
+  "song_img": "/img/db_img/song_img/just-a-little-bit-of-your-heart.jpg",
+  "song_lyric": "/song_lyrics/just-a-little-bit-of-your-heart.txt",
+  "song_duration": "3:57",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e728cf3ab6c85f074d4a9"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8120f3ab6c85f074d5f9"
+  },
+  "song_name": "Mayonaka no Door",
+  "song_path": "/song_mp3/mayonaka-no-door.mp3",
+  "song_img": "/img/db_img/song_img/mayonaka-no-door.jpg",
+  "song_lyric": "/song_lyrics/mayonaka-no-door.txt",
+  "song_duration": "5:13",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a3f3ab6c85f074d524"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Funk",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8174f3ab6c85f074d610"
+  },
+  "song_name": "On & On",
+  "song_path": "/song_mp3/on-and-on.mp3",
+  "song_img": "/img/db_img/song_img/on-and-on.jpg",
+  "song_lyric": "/song_lyrics/on-and-on.txt",
+  "song_duration": "3:28",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7349f3ab6c85f074d4ca"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    },
+    {
+      "$oid": "6424feb65e56cf0f4fda2163"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81cef3ab6c85f074d62a"
+  },
+  "song_name": "Sadness is a pretty girl",
+  "song_path": "/song_mp3/sadness-is-a-pretty-girl.mp3",
+  "song_img": "/img/db_img/song_img/sadness-is-a-pretty-girl.jpg",
+  "song_lyric": "/song_lyrics/sadness-is-a-pretty-girl.txt",
+  "song_duration": "3:20",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7683f3ab6c85f074d55f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e966203007793749e74c4"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8285f3ab6c85f074d63c"
+  },
+  "song_name": "Speak Now",
+  "song_path": "/song_mp3/speak-now.mp3",
+  "song_img": "/img/db_img/song_img/speak-now.jpg",
+  "song_lyric": "/song_lyrics/speak-now.txt",
+  "song_duration": "3:55",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766ff3ab6c85f074d55a"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e829af3ab6c85f074d642"
+  },
+  "song_name": "Sundown Somewhere",
+  "song_path": "/song_mp3/sundown-somewhere.mp3",
+  "song_img": "/img/db_img/song_img/sundown-somewhere.jpg",
+  "song_lyric": "/song_lyrics/sundown-somewhere.txt",
+  "song_duration": "2:53",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75fff3ab6c85f074d53d"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82cbf3ab6c85f074d651"
+  },
+  "song_name": "To Die For",
+  "song_path": "/song_mp3/to-die-for.mp3",
+  "song_img": "/img/db_img/song_img/to-die-for.jpg",
+  "song_lyric": "/song_lyrics/to-die-for.txt",
+  "song_duration": "3:34",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82d7f3ab6c85f074d655"
+  },
+  "song_name": "Touch My Body",
+  "song_path": "/song_mp3/touch-my-body.mp3",
+  "song_img": "/img/db_img/song_img/touch-my-body.jpg",
+  "song_lyric": "/song_lyrics/touch-my-body.txt",
+  "song_duration": "3:25",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7587f3ab6c85f074d51c"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023f770c78a4cc8f0da1a"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8317f3ab6c85f074d65f"
+  },
+  "song_name": "WANDA",
+  "song_path": "/song_mp3/wanda.mp3",
+  "song_img": "/img/db_img/song_img/wanda.jpg",
+  "song_lyric": "/song_lyrics/wanda.txt",
+  "song_duration": "2:41",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75eff3ab6c85f074d539"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e831df3ab6c85f074d661"
+  },
+  "song_name": "WAP",
+  "song_path": "/song_mp3/wap.mp3",
+  "song_img": "/img/db_img/song_img/wap.jpg",
+  "song_lyric": "/song_lyrics/wap.txt",
+  "song_duration": "3:08",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7342f3ab6c85f074d4c8"
+    },
+    {
+      "$oid": "641e7591f3ab6c85f074d51f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c1370c78a4cc8f0da1d"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7720f3ab6c85f074d573"
+  },
+  "song_name": "All I Ever Need",
+  "song_path": "/song_mp3/all-i-ever-need.mp3",
+  "song_img": "/img/db_img/song_img/all-i-ever-need.jpg",
+  "song_lyric": "/song_lyrics/all-i-ever-need.txt",
+  "song_duration": "2:16",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7298f3ab6c85f074d4ab"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fc5f3ab6c85f074d591"
+  },
+  "song_name": "Can't Help Falling in Love",
+  "song_path": "/song_mp3/cant-help-falling-in-love.mp3",
+  "song_img": "/img/db_img/song_img/cant-help-falling-in-love.jpg",
+  "song_lyric": "/song_lyrics/cant-help-falling-in-love.txt",
+  "song_duration": "3:01",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74aaf3ab6c85f074d4e6"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e967b03007793749e74c5"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e804af3ab6c85f074d5ba"
+  },
+  "song_name": "Grapejuice",
+  "song_path": "/song_mp3/grapejuice.mp3",
+  "song_img": "/img/db_img/song_img/grapejuice.jpg",
+  "song_lyric": "/song_lyrics/grapejuice.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fda15e56cf0f4fda215e"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80b1f3ab6c85f074d5d7"
+  },
+  "song_name": "It's Not Right but It's Okay",
+  "song_path": "/song_mp3/its-not-right-but-its-okay.mp3",
+  "song_img": "/img/db_img/song_img/its-not-right-but-its-okay.jpg",
+  "song_lyric": "/song_lyrics/its-not-right-but-its-okay.txt",
+  "song_duration": "4:53",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e76a0f3ab6c85f074d567"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023d870c78a4cc8f0da19"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80f4f3ab6c85f074d5ec"
+  },
+  "song_name": "LLYLM",
+  "song_path": "/song_mp3/llylm.mp3",
+  "song_img": "/img/db_img/song_img/llylm.jpg",
+  "song_lyric": "/song_lyrics/llylm.txt",
+  "song_duration": "2:53",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7612f3ab6c85f074d542"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e811af3ab6c85f074d5f7"
+  },
+  "song_name": "Matilda",
+  "song_path": "/song_mp3/matilda.mp3",
+  "song_img": "/img/db_img/song_img/matilda.jpg",
+  "song_lyric": "/song_lyrics/matilda.txt",
+  "song_duration": "4:06",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8123f3ab6c85f074d5fa"
+  },
+  "song_name": "Memory Lane",
+  "song_path": "/song_mp3/memory-lane.mp3",
+  "song_img": "/img/db_img/song_img/memory-lane.jpg",
+  "song_lyric": "/song_lyrics/memory-lane.txt",
+  "song_duration": "2:52",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75d9f3ab6c85f074d533"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fecb5e56cf0f4fda2164"
+    }
+  ],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8154f3ab6c85f074d606"
+  },
+  "song_name": "Need to Know",
+  "song_path": "/song_mp3/need-to-know.mp3",
+  "song_img": "/img/db_img/song_img/need-to-know.jpg",
+  "song_lyric": "/song_lyrics/need-to-know.txt",
+  "song_duration": "3:30",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8162f3ab6c85f074d60a"
+  },
+  "song_name": "Next Level",
+  "song_path": "/song_mp3/next-level.mp3",
+  "song_img": "/img/db_img/song_img/next-level.jpg",
+  "song_lyric": "/song_lyrics/next-level.txt",
+  "song_duration": "3:41",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e6e24f3ab6c85f074d490"
+    }
+  ],
+  "playlists_id": [
+    "6424fecb5e56cf0f4fda2164"
+  ],
+  "genre_name": "Kpop",
+  "comment_id": [
+    {
+      "$oid": "6442a6fc9b6de3723b344933"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8171f3ab6c85f074d60f"
+  },
+  "song_name": "Oh, Pretty Woman",
+  "song_path": "/song_mp3/oh-pretty-woman.mp3",
+  "song_img": "/img/db_img/song_img/oh-pretty-woman.jpg",
+  "song_lyric": "/song_lyrics/oh-pretty-woman.txt",
+  "song_duration": "2:57",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7615f3ab6c85f074d543"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e967b03007793749e74c5"
+    }
+  ],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e818ef3ab6c85f074d617"
+  },
+  "song_name": "Perfect Places",
+  "song_path": "/song_mp3/perfect-places.mp3",
+  "song_img": "/img/db_img/song_img/perfect-places.jpg",
+  "song_lyric": "/song_lyrics/perfect-places.txt",
+  "song_duration": "3:42",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81a2f3ab6c85f074d61d"
+  },
+  "song_name": "Realize",
+  "song_path": "/song_mp3/realize.mp3",
+  "song_img": "/img/db_img/song_img/realize.jpg",
+  "song_lyric": "/song_lyrics/realize.txt",
+  "song_duration": "3:47",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e735af3ab6c85f074d4cf"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023f770c78a4cc8f0da1a"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e824df3ab6c85f074d62c"
+  },
+  "song_name": "Say It Right",
+  "song_path": "/song_mp3/say-it-right.mp3",
+  "song_img": "/img/db_img/song_img/say-it-right.jpg",
+  "song_lyric": "/song_lyrics/say-it-right.txt",
+  "song_duration": "4:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75c3f3ab6c85f074d52d"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e826cf3ab6c85f074d634"
+  },
+  "song_name": "Showed Me",
+  "song_path": "/song_mp3/show-me.mp3",
+  "song_img": "/img/db_img/song_img/show-me.jpg",
+  "song_lyric": "/song_lyrics/show-me.txt",
+  "song_duration": "3:15",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7573f3ab6c85f074d516"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8294f3ab6c85f074d640"
+  },
+  "song_name": "Summertime",
+  "song_path": "/song_mp3/summertime.mp3",
+  "song_img": "/img/db_img/song_img/summertime.jpg",
+  "song_lyric": "/song_lyrics/summertime.txt",
+  "song_duration": "4:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7528f3ab6c85f074d501"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    },
+    {
+      "$oid": "6424feb65e56cf0f4fda2163"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82a6f3ab6c85f074d646"
+  },
+  "song_name": "Take Me To Church",
+  "song_path": "/song_mp3/take-me-to-church.mp3",
+  "song_img": "/img/db_img/song_img/take-me-to-church.jpg",
+  "song_lyric": "/song_lyrics/take-me-to-church.txt",
+  "song_duration": "4:02",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e750ff3ab6c85f074d4fa"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82e5f3ab6c85f074d659"
+  },
+  "song_name": "Until I Bleed Out",
+  "song_path": "/song_mp3/until-i-bleed-out.mp3",
+  "song_img": "/img/db_img/song_img/until-i-bleed-out.jpg",
+  "song_lyric": "/song_lyrics/until-i-bleed-out.txt",
+  "song_duration": "3:11",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82f2f3ab6c85f074d65b"
+  },
+  "song_name": "UrbanAngel1999",
+  "song_path": "/song_mp3/urbanangel1999.mp3",
+  "song_img": "/img/db_img/song_img/urbanangel1999.jpg",
+  "song_lyric": "/song_lyrics/urbanangel1999.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7691f3ab6c85f074d563"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8305f3ab6c85f074d65d"
+  },
+  "song_name": "Violet Chemistry",
+  "song_path": "/song_mp3/violet-chemistry.mp3",
+  "song_img": "/img/db_img/song_img/violet-chemistry.jpg",
+  "song_lyric": "/song_lyrics/violet-chemistry.txt",
+  "song_duration": "4:06",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8355f3ab6c85f074d673"
+  },
+  "song_name": "You Right",
+  "song_path": "/song_mp3/you-right.mp3",
+  "song_img": "/img/db_img/song_img/you-right.jpg",
+  "song_lyric": "/song_lyrics/you-right.txt",
+  "song_duration": "3:04",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8358f3ab6c85f074d674"
+  },
+  "song_name": "Yours",
+  "song_path": "/song_mp3/yours.mp3",
+  "song_img": "/img/db_img/song_img/yours.jpg",
+  "song_lyric": "/song_lyrics/yours.txt",
+  "song_duration": "3:40",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75b8f3ab6c85f074d52a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8324f3ab6c85f074d663"
+  },
+  "song_name": "we fell in love in october",
+  "song_path": "/song_mp3/we-fell-in-love-in-october.mp3",
+  "song_img": "/img/db_img/song_img/we-fell-in-love-in-october.jpg",
+  "song_lyric": "/song_lyrics/we-fell-in-love-in-october.txt",
+  "song_duration": "3:07",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74d1f3ab6c85f074d4f2"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8327f3ab6c85f074d664"
+  },
+  "song_name": "Weekend",
+  "song_path": "/song_mp3/weekend.mp3",
+  "song_img": "/img/db_img/song_img/weekend.jpg",
+  "song_lyric": "/song_lyrics/weekend.txt",
+  "song_duration": "3:54",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7660f3ab6c85f074d556"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e833ff3ab6c85f074d66c"
+  },
+  "song_name": "Wolves",
+  "song_path": "/song_mp3/wolves.mp3",
+  "song_img": "/img/db_img/song_img/wolves.jpg",
+  "song_lyric": "/song_lyrics/wolves.txt",
+  "song_duration": "3:33",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e762ff3ab6c85f074d54a"
+    },
+    {
+      "$oid": "641e758af3ab6c85f074d51d"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f73f3ab6c85f074d57b"
+  },
+  "song_name": "Baby I'm Yours",
+  "song_path": "/song_mp3/baby-im-yours.mp3",
+  "song_img": "/img/db_img/song_img/baby-im-yours.jpg",
+  "song_lyric": "/song_lyrics/baby-im-yours.txt",
+  "song_duration": "2:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e732df3ab6c85f074d4c2"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Funk",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fd3f3ab6c85f074d595"
+  },
+  "song_name": "Cinema",
+  "song_path": "/song_mp3/cinema.mp3",
+  "song_img": "/img/db_img/song_img/cinema.jpg",
+  "song_lyric": "/song_lyrics/cinema.txt",
+  "song_duration": "4:03",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e800cf3ab6c85f074d5a6"
+  },
+  "song_name": "Duchess",
+  "song_path": "/song_mp3/duchess.mp3",
+  "song_img": "/img/db_img/song_img/duchess.jpg",
+  "song_lyric": "/song_lyrics/duchess.txt",
+  "song_duration": "3:05",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7364f3ab6c85f074d4d2"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e968e03007793749e74c6"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8037f3ab6c85f074d5b4"
+  },
+  "song_name": "Formula",
+  "song_path": "/song_mp3/formula.mp3",
+  "song_img": "/img/db_img/song_img/formula.jpg",
+  "song_lyric": "/song_lyrics/formula.txt",
+  "song_duration": "1:32",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e754af3ab6c85f074d50a"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8043f3ab6c85f074d5b8"
+  },
+  "song_name": "Ghost",
+  "song_path": "/song_mp3/ghost.mp3",
+  "song_img": "/img/db_img/song_img/ghost.jpg",
+  "song_lyric": "/song_lyrics/ghost.txt",
+  "song_duration": "4:05",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7279f3ab6c85f074d4a4"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8065f3ab6c85f074d5c0"
+  },
+  "song_name": "Hard Feelings",
+  "song_path": "/song_mp3/hard-feelings.mp3",
+  "song_img": "/img/db_img/song_img/hard-feelings.jpg",
+  "song_lyric": "/song_lyrics/hard-feelings.txt",
+  "song_duration": "6:08",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80bef3ab6c85f074d5db"
+  },
+  "song_name": "Kaikai Kitan",
+  "song_path": "/song_mp3/kaikai-kitan.mp3",
+  "song_img": "/img/db_img/song_img/kaikai-kitan.jpg",
+  "song_lyric": "/song_lyrics/kaikai-kitan.txt",
+  "song_duration": "3:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74b4f3ab6c85f074d4e9"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe185e56cf0f4fda2160"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e813bf3ab6c85f074d601"
+  },
+  "song_name": "My Oasis",
+  "song_path": "/song_mp3/my-oasis.mp3",
+  "song_img": "/img/db_img/song_img/my-oasis.jpg",
+  "song_lyric": "/song_lyrics/my-oasis.txt",
+  "song_duration": "3:01",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    },
+    {
+      "$oid": "641e7337f3ab6c85f074d4c5"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e814af3ab6c85f074d604"
+  },
+  "song_name": "Nasty Dancer",
+  "song_path": "/song_mp3/nasty-dancer.mp3",
+  "song_img": "/img/db_img/song_img/nasty-dancer.jpg",
+  "song_lyric": "/song_lyrics/nasty-dancer.txt",
+  "song_duration": "2:18",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74c1f3ab6c85f074d4ed"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe7a5e56cf0f4fda2162"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8167f3ab6c85f074d60c"
+  },
+  "song_name": "No Time To Die",
+  "song_path": "/song_mp3/no-time-to-die.mp3",
+  "song_img": "/img/db_img/song_img/no-time-to-die.jpg",
+  "song_lyric": "/song_lyrics/no-time-to-die.txt",
+  "song_duration": "4:03",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e731ff3ab6c85f074d4be"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8184f3ab6c85f074d614"
+  },
+  "song_name": "Over",
+  "song_path": "/song_mp3/over.mp3",
+  "song_img": "/img/db_img/song_img/over.jpg",
+  "song_lyric": "/song_lyrics/over.txt",
+  "song_duration": "3:36",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7354f3ab6c85f074d4cd"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8254f3ab6c85f074d62e"
+  },
+  "song_name": "Second Nature",
+  "song_path": "/song_mp3/second-nature.mp3",
+  "song_img": "/img/db_img/song_img/second-nature.jpg",
+  "song_lyric": "/song_lyrics/second-nature.txt",
+  "song_duration": "6:21",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7372f3ab6c85f074d4d6"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6421767d17e951bf32d8847e"
+    },
+    {
+      "$oid": "6424ff525e56cf0f4fda2166"
+    }
+  ],
+  "genre_name": "Funk",
+  "comment_id": [
+    {
+      "$oid": "6442569e80fa9c06c7e04515"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8271f3ab6c85f074d636"
+  },
+  "song_name": "Sign",
+  "song_path": "/song_mp3/sign.mp3",
+  "song_img": "/img/db_img/song_img/sign.jpg",
+  "song_lyric": "/song_lyrics/sign.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7376f3ab6c85f074d4d7"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82cef3ab6c85f074d652"
+  },
+  "song_name": "To The Moon",
+  "song_path": "/song_mp3/to-the-moon.mp3",
+  "song_img": "/img/db_img/song_img/to-the-moon.jpg",
+  "song_lyric": "/song_lyrics/to-the-moon.txt",
+  "song_duration": "3:25",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74fcf3ab6c85f074d4f8"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8313f3ab6c85f074d65e"
+  },
+  "song_name": "Wait For Me",
+  "song_path": "/song_mp3/wait-for-me.mp3",
+  "song_img": "/img/db_img/song_img/wait-for-me.jpg",
+  "song_lyric": "/song_lyrics/wait-for-me.txt",
+  "song_duration": "3:57",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e736bf3ab6c85f074d4d4"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f85f3ab6c85f074d580"
+  },
+  "song_name": "BBIBBI",
+  "song_path": "/song_mp3/bbibbi.mp3",
+  "song_img": "/img/db_img/song_img/bbibbi.jpg",
+  "song_lyric": "/song_lyrics/bbibbi.txt",
+  "song_duration": "3:16",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e751af3ab6c85f074d4fd"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7ffdf3ab6c85f074d5a1"
+  },
+  "song_name": "Diamonds",
+  "song_path": "/song_mp3/diamonds.mp3",
+  "song_img": "/img/db_img/song_img/diamonds.jpg",
+  "song_lyric": "/song_lyrics/diamonds.txt",
+  "song_duration": "3:47",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe695e56cf0f4fda2161"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8018f3ab6c85f074d5aa"
+  },
+  "song_name": "exile",
+  "song_path": "/song_mp3/exile.mp3",
+  "song_img": "/img/db_img/song_img/exile.jpg",
+  "song_lyric": "/song_lyrics/exile.txt",
+  "song_duration": "4:47",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766ff3ab6c85f074d55a"
+    },
+    {
+      "$oid": "641e732af3ab6c85f074d4c1"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e801ef3ab6c85f074d5ac"
+  },
+  "song_name": "Fairytale",
+  "song_path": "/song_mp3/fairytale.mp3",
+  "song_img": "/img/db_img/song_img/fairytale.jpg",
+  "song_lyric": "/song_lyrics/fairytale.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7495f3ab6c85f074d4e0"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8097f3ab6c85f074d5cf"
+  },
+  "song_name": "I See You",
+  "song_path": "/song_mp3/i-see-you.mp3",
+  "song_img": "/img/db_img/song_img/i-see-you.jpg",
+  "song_lyric": "/song_lyrics/i-see-you.txt",
+  "song_duration": "3:50",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75aaf3ab6c85f074d526"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fecb5e56cf0f4fda2164"
+    },
+    {
+      "$oid": "6424ff525e56cf0f4fda2166"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8111f3ab6c85f074d5f5"
+  },
+  "song_name": "Malas Decisiones",
+  "song_path": "/song_mp3/malas-decisiones.mp3",
+  "song_img": "/img/db_img/song_img/malas-decisiones.jpg",
+  "song_lyric": "/song_lyrics/malas-decisiones.txt",
+  "song_duration": "2:20",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7538f3ab6c85f074d505"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    },
+    {
+      "$oid": "64202c1370c78a4cc8f0da1d"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e828cf3ab6c85f074d63e"
+  },
+  "song_name": "Stay the Night",
+  "song_path": "/song_mp3/stay-the-night.mp3",
+  "song_img": "/img/db_img/song_img/stay-the-night.jpg",
+  "song_lyric": "/song_lyrics/stay-the-night.txt",
+  "song_duration": "2:52",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7644f3ab6c85f074d54e"
+    },
+    {
+      "$oid": "641e7667f3ab6c85f074d558"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82b3f3ab6c85f074d64a"
+  },
+  "song_name": "Tattoo",
+  "song_path": "/song_mp3/tattoo.mp3",
+  "song_img": "/img/db_img/song_img/tattoo.jpg",
+  "song_lyric": "/song_lyrics/tattoo.txt",
+  "song_duration": "3:03",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7565f3ab6c85f074d512"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    },
+    {
+      "$oid": "64202c1370c78a4cc8f0da1d"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": [
+    {
+      "$oid": "643d0008d2fa21d5030039d1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e82c0f3ab6c85f074d64e"
+  },
+  "song_name": "The Louvre",
+  "song_path": "/song_mp3/the-louvre.mp3",
+  "song_img": "/img/db_img/song_img/the-louvre.jpg",
+  "song_lyric": "/song_lyrics/the-louvre.txt",
+  "song_duration": "4:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82eff3ab6c85f074d65a"
+  },
+  "song_name": "Up & Down",
+  "song_path": "/song_mp3/up-and-down.mp3",
+  "song_img": "/img/db_img/song_img/up-and-down.jpg",
+  "song_lyric": "/song_lyrics/up-and-down.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74b7f3ab6c85f074d4ea"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fb4f3ab6c85f074d58c"
+  },
+  "song_name": "Brown Eyed Girl",
+  "song_path": "/song_mp3/brown-eyed-girl.mp3",
+  "song_img": "/img/db_img/song_img/brown-eyed-girl.jpg",
+  "song_lyric": "/song_lyrics/brown-eyed-girl.txt",
+  "song_duration": "3:04",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e769cf3ab6c85f074d566"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e967b03007793749e74c5"
+    }
+  ],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8012f3ab6c85f074d5a8"
+  },
+  "song_name": "Event Horizon",
+  "song_path": "/song_mp3/event-horizon.mp3",
+  "song_img": "/img/db_img/song_img/event-horizon.jpg",
+  "song_lyric": "/song_lyrics/event-horizon.txt",
+  "song_duration": "4:57",
+  "song_rating_star_total": 4,
+  "artists_id": [
+    {
+      "$oid": "641e76aef3ab6c85f074d56b"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e802bf3ab6c85f074d5b0"
+  },
+  "song_name": "Flawless",
+  "song_path": "/song_mp3/flawless.mp3",
+  "song_img": "/img/db_img/song_img/flawless.jpg",
+  "song_lyric": "/song_lyrics/flawless.txt",
+  "song_duration": "4:04",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e767cf3ab6c85f074d55d"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e966203007793749e74c4"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e804df3ab6c85f074d5bb"
+  },
+  "song_name": "Green Light",
+  "song_path": "/song_mp3/green-light.mp3",
+  "song_img": "/img/db_img/song_img/green-light.jpg",
+  "song_lyric": "/song_lyrics/green-light.txt",
+  "song_duration": "3:55",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80ccf3ab6c85f074d5df"
+  },
+  "song_name": "Ko Ko Bop",
+  "song_path": "/song_mp3/ko-ko-bop.mp3",
+  "song_img": "/img/db_img/song_img/ko-ko-bop.jpg",
+  "song_lyric": "/song_lyrics/ko-ko-bop.txt",
+  "song_duration": "3:13",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74baf3ab6c85f074d4eb"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80e8f3ab6c85f074d5e8"
+  },
+  "song_name": "Liability",
+  "song_path": "/song_mp3/liability.mp3",
+  "song_img": "/img/db_img/song_img/liability.jpg",
+  "song_lyric": "/song_lyrics/liability.txt",
+  "song_duration": "2:52",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80eff3ab6c85f074d5ea"
+  },
+  "song_name": "Lily",
+  "song_path": "/song_mp3/lily.mp3",
+  "song_img": "/img/db_img/song_img/lily.jpg",
+  "song_lyric": "/song_lyrics/lily.txt",
+  "song_duration": "3:30",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e6e50f3ab6c85f074d493"
+    },
+    {
+      "$oid": "641e74adf3ab6c85f074d4e7"
+    },
+    {
+      "$oid": "641e7528f3ab6c85f074d501"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8126f3ab6c85f074d5fb"
+  },
+  "song_name": "Midnight City",
+  "song_path": "/song_mp3/midnight-city.mp3",
+  "song_img": "/img/db_img/song_img/midnight-city.jpg",
+  "song_lyric": "/song_lyrics/midnight-city.txt",
+  "song_duration": "4:04",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7569f3ab6c85f074d513"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c5970c78a4cc8f0da1e"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e826ff3ab6c85f074d635"
+  },
+  "song_name": "Shut Down",
+  "song_path": "/song_mp3/shut-down.mp3",
+  "song_img": "/img/db_img/song_img/shut-down.jpg",
+  "song_lyric": "/song_lyrics/shut-down.txt",
+  "song_duration": "2:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7326f3ab6c85f074d4c0"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8278f3ab6c85f074d638"
+  },
+  "song_name": "Snowchild",
+  "song_path": "/song_mp3/snowchild.mp3",
+  "song_img": "/img/db_img/song_img/snowchild.jpg",
+  "song_lyric": "/song_lyrics/snowchild.txt",
+  "song_duration": "4:08",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e827ff3ab6c85f074d63a"
+  },
+  "song_name": "So Serious",
+  "song_path": "/song_mp3/so-serious.mp3",
+  "song_img": "/img/db_img/song_img/so-serious.jpg",
+  "song_lyric": "/song_lyrics/so-serious.txt",
+  "song_duration": "2:54",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82acf3ab6c85f074d648"
+  },
+  "song_name": "Talking to Yourself",
+  "song_path": "/song_mp3/talking-to-yourself.mp3",
+  "song_img": "/img/db_img/song_img/talking-to-yourself.jpg",
+  "song_lyric": "/song_lyrics/talking-to-yourself.txt",
+  "song_duration": "2:53",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7345f3ab6c85f074d4c9"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8302f3ab6c85f074d65c"
+  },
+  "song_name": "Verona",
+  "song_path": "/song_mp3/verona.mp3",
+  "song_img": "/img/db_img/song_img/verona.jpg",
+  "song_lyric": "/song_lyrics/verona.txt",
+  "song_duration": "5:09",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75b4f3ab6c85f074d529"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fecb5e56cf0f4fda2164"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8333f3ab6c85f074d668"
+  },
+  "song_name": "Whiskey On You",
+  "song_path": "/song_mp3/whiskey-on-you.mp3",
+  "song_img": "/img/db_img/song_img/whiskey-on-you.jpg",
+  "song_lyric": "/song_lyrics/whiskey-on-you.txt",
+  "song_duration": "3:02",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75bcf3ab6c85f074d52b"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e834ff3ab6c85f074d671"
+  },
+  "song_name": "You for Me",
+  "song_path": "/song_mp3/you-for-me.mp3",
+  "song_img": "/img/db_img/song_img/you-for-me.jpg",
+  "song_lyric": "/song_lyrics/you-for-me.txt",
+  "song_duration": "2:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7644f3ab6c85f074d54e"
+    },
+    {
+      "$oid": "641e760ef3ab6c85f074d541"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e801bf3ab6c85f074d5ab"
+  },
+  "song_name": "Fair Game",
+  "song_path": "/song_mp3/fair-game.mp3",
+  "song_img": "/img/db_img/song_img/fair-game.jpg",
+  "song_lyric": "/song_lyrics/fair-game.txt",
+  "song_duration": "3:53",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7640f3ab6c85f074d54d"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe185e56cf0f4fda2160"
+    }
+  ],
+  "genre_name": "Funk",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8021f3ab6c85f074d5ad"
+  },
+  "song_name": "Falling",
+  "song_path": "/song_mp3/falling.mp3",
+  "song_img": "/img/db_img/song_img/falling.jpg",
+  "song_lyric": "/song_lyrics/falling.txt",
+  "song_duration": "3:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e802ef3ab6c85f074d5b1"
+  },
+  "song_name": "Flirting with Her",
+  "song_path": "/song_mp3/flirting-with-her.mp3",
+  "song_img": "/img/db_img/song_img/flirting-with-her.jpg",
+  "song_lyric": "/song_lyrics/flirting-with-her.txt",
+  "song_duration": "3:52",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e764bf3ab6c85f074d550"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e803ef3ab6c85f074d5b6"
+  },
+  "song_name": "Frankenstein",
+  "song_path": "/song_mp3/frankenstein.mp3",
+  "song_img": "/img/db_img/song_img/frankenstein.jpg",
+  "song_lyric": "/song_lyrics/frankenstein.txt",
+  "song_duration": "3:26",
+  "song_rating_star_total": 5,
+  "artists_id": [
+    {
+      "$oid": "641e760af3ab6c85f074d540"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    },
+    {
+      "$oid": "6421767d17e951bf32d8847e"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": [
+    {
+      "$oid": "643c352dc2f8c71a70039a3f"
+    },
+    {
+      "$oid": "643cb817cf8bb1f9bf5eada9"
+    },
+    {
+      "$oid": "643cb858cf8bb1f9bf5eadb5"
+    },
+    {
+      "$oid": "643cb9f7cf8bb1f9bf5eade9"
+    },
+    {
+      "$oid": "643cb9fecf8bb1f9bf5eadf1"
+    },
+    {
+      "$oid": "643cba3ecf8bb1f9bf5eadf9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e80c5f3ab6c85f074d5dd"
+  },
+  "song_name": "Kings & Queens",
+  "song_path": "/song_mp3/kings-and-queens.mp3",
+  "song_img": "/img/db_img/song_img/kings-and-queens.jpg",
+  "song_lyric": "/song_lyrics/kings-and-queens.txt",
+  "song_duration": "2:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e729cf3ab6c85f074d4ac"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c5970c78a4cc8f0da1e"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80f2f3ab6c85f074d5eb"
+  },
+  "song_name": "Little Freak",
+  "song_path": "/song_mp3/little-freak.mp3",
+  "song_img": "/img/db_img/song_img/little-freak.jpg",
+  "song_lyric": "/song_lyrics/little-freak.txt",
+  "song_duration": "3:22",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e813ef3ab6c85f074d602"
+  },
+  "song_name": "Mystery of Love",
+  "song_path": "/song_mp3/mystery-of-love.mp3",
+  "song_img": "/img/db_img/song_img/mystery-of-love.jpg",
+  "song_lyric": "/song_lyrics/mystery-of-love.txt",
+  "song_duration": "4:11",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7652f3ab6c85f074d552"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fda15e56cf0f4fda215e"
+    },
+    {
+      "$oid": "6424ff525e56cf0f4fda2166"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e816df3ab6c85f074d60e"
+  },
+  "song_name": "nothing else I could do",
+  "song_path": "/song_mp3/nothing-else-i-could-do.mp3",
+  "song_img": "/img/db_img/song_img/nothing-else-i-could-do.jpg",
+  "song_lyric": "/song_lyrics/nothing-else-i-could-do.txt",
+  "song_duration": "2:50",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74a7f3ab6c85f074d4e5"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8297f3ab6c85f074d641"
+  },
+  "song_name": "Summertime Sadness",
+  "song_path": "/song_mp3/summertime-sadness.mp3",
+  "song_img": "/img/db_img/song_img/summertime-sadness.jpg",
+  "song_lyric": "/song_lyrics/summertime-sadness.txt",
+  "song_duration": "4:25",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7552f3ab6c85f074d50c"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7732f3ab6c85f074d578"
+  },
+  "song_name": "Another One",
+  "song_path": "/song_mp3/another-one.mp3",
+  "song_img": "/img/db_img/song_img/another-one.jpg",
+  "song_lyric": "/song_lyrics/another-one.txt",
+  "song_duration": "3:11",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f6ff3ab6c85f074d57a"
+  },
+  "song_name": "As It Was",
+  "song_path": "/song_mp3/as-it-was.mp3",
+  "song_img": "/img/db_img/song_img/as-it-was.jpg",
+  "song_lyric": "/song_lyrics/as-it-was.txt",
+  "song_duration": "2:46",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f7bf3ab6c85f074d57d"
+  },
+  "song_name": "Bad Boy",
+  "song_path": "/song_mp3/bad-boy.mp3",
+  "song_img": "/img/db_img/song_img/bad-boy.jpg",
+  "song_lyric": "/song_lyrics/bad-boy.txt",
+  "song_duration": "3:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75fbf3ab6c85f074d53c"
+    }
+  ],
+  "playlists_id": [
+    "6424ff3f5e56cf0f4fda2165"
+  ],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7ff3f3ab6c85f074d59e"
+  },
+  "song_name": "Dancing With A Stranger",
+  "song_path": "/song_mp3/dancing-with-a-stranger.mp3",
+  "song_img": "/img/db_img/song_img/dancing-with-a-stranger.jpg",
+  "song_lyric": "/song_lyrics/dancing-with-a-stranger.txt",
+  "song_duration": "3:16",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    },
+    {
+      "$oid": "641e75d1f3ab6c85f074d531"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8003f3ab6c85f074d5a3"
+  },
+  "song_name": "Doin' Time",
+  "song_path": "/song_mp3/doin-time.mp3",
+  "song_img": "/img/db_img/song_img/doin-time.jpg",
+  "song_lyric": "/song_lyrics/doin-time.txt",
+  "song_duration": "3:20",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7552f3ab6c85f074d50c"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8028f3ab6c85f074d5af"
+  },
+  "song_name": "Fire On Fire",
+  "song_path": "/song_mp3/fire-on-fire.mp3",
+  "song_img": "/img/db_img/song_img/fire-on-fire.jpg",
+  "song_lyric": "/song_lyrics/fire-on-fire.txt",
+  "song_duration": "4:08",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8040f3ab6c85f074d5b7"
+  },
+  "song_name": "Get Lucky",
+  "song_path": "/song_mp3/get-lucky.mp3",
+  "song_img": "/img/db_img/song_img/get-lucky.jpg",
+  "song_lyric": "/song_lyrics/get-lucky.txt",
+  "song_duration": "4:09",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7361f3ab6c85f074d4d1"
+    },
+    {
+      "$oid": "641e75e0f3ab6c85f074d535"
+    },
+    {
+      "$oid": "641e75cdf3ab6c85f074d530"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e809af3ab6c85f074d5d0"
+  },
+  "song_name": "I Wrote A Song",
+  "song_path": "/song_mp3/i-wrote-a-song.mp3",
+  "song_img": "/img/db_img/song_img/i-wrote-a-song.jpg",
+  "song_lyric": "/song_lyrics/i-wrote-a-song.txt",
+  "song_duration": "3:05",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7579f3ab6c85f074d518"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80ebf3ab6c85f074d5e9"
+  },
+  "song_name": "LIFE",
+  "song_path": "/song_mp3/life.mp3",
+  "song_img": "/img/db_img/song_img/life.jpg",
+  "song_lyric": "/song_lyrics/life.txt",
+  "song_duration": "3:01",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7619f3ab6c85f074d544"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80fff3ab6c85f074d5ef"
+  },
+  "song_name": "Love song",
+  "song_path": "/song_mp3/love-song.mp3",
+  "song_img": "/img/db_img/song_img/love-song.jpg",
+  "song_lyric": "/song_lyrics/love-song.txt",
+  "song_duration": "3:55",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7552f3ab6c85f074d50c"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8108f3ab6c85f074d5f2"
+  },
+  "song_name": "lovely",
+  "song_path": "/song_mp3/lovely.mp3",
+  "song_img": "/img/db_img/song_img/lovely.jpg",
+  "song_lyric": "/song_lyrics/lovely.txt",
+  "song_duration": "3:21",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e731ff3ab6c85f074d4be"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e966203007793749e74c4"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e810bf3ab6c85f074d5f3"
+  },
+  "song_name": "Low",
+  "song_path": "/song_mp3/low.mp3",
+  "song_img": "/img/db_img/song_img/low.jpg",
+  "song_lyric": "/song_lyrics/low.txt",
+  "song_duration": "3:03",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e765df3ab6c85f074d555"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe7a5e56cf0f4fda2162"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8138f3ab6c85f074d600"
+  },
+  "song_name": "My Kind of Woman",
+  "song_path": "/song_mp3/my-kind-of-woman.mp3",
+  "song_img": "/img/db_img/song_img/my-kind-of-woman.jpg",
+  "song_lyric": "/song_lyrics/my-kind-of-woman.txt",
+  "song_duration": "3:17",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7570f3ab6c85f074d515"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e966203007793749e74c4"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e817cf3ab6c85f074d612"
+  },
+  "song_name": "One Of Us",
+  "song_path": "/song_mp3/one-of-us.mp3",
+  "song_img": "/img/db_img/song_img/one-of-us.jpg",
+  "song_lyric": "/song_lyrics/one-of-us.txt",
+  "song_duration": "2:58",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e729cf3ab6c85f074d4ac"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e824af3ab6c85f074d62b"
+  },
+  "song_name": "Save Your Tears",
+  "song_path": "/song_mp3/save-your-tears.mp3",
+  "song_img": "/img/db_img/song_img/save-your-tears.jpg",
+  "song_lyric": "/song_lyrics/save-your-tears.txt",
+  "song_duration": "3:37",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8258f3ab6c85f074d62f"
+  },
+  "song_name": "Shake It Off",
+  "song_path": "/song_mp3/shake-it-off.mp3",
+  "song_img": "/img/db_img/song_img/shake-it-off.jpg",
+  "song_lyric": "/song_lyrics/shake-it-off.txt",
+  "song_duration": "3:38",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766ff3ab6c85f074d55a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": [
+    {
+      "$oid": "644368192520d08d3d833ca6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e825ff3ab6c85f074d630"
+  },
+  "song_name": "Shakira: Bzrp Music Sessions, Vol.53",
+  "song_path": "/song_mp3/shakira-bzrp-music-sessions-vol53.mp3",
+  "song_img": "/img/db_img/song_img/shakira-bzrp-music-sessions-vol53.jpg",
+  "song_lyric": "/song_lyrics/shakira-bzrp-music-sessions-vol53.txt",
+  "song_duration": "3:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7323f3ab6c85f074d4bf"
+    },
+    {
+      "$oid": "641e7633f3ab6c85f074d54b"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8342f3ab6c85f074d66d"
+  },
+  "song_name": "Woman",
+  "song_path": "/song_mp3/woman.mp3",
+  "song_img": "/img/db_img/song_img/woman.jpg",
+  "song_lyric": "/song_lyrics/woman.txt",
+  "song_duration": "2:53",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8345f3ab6c85f074d66e"
+  },
+  "song_name": "Wonder Woman",
+  "song_path": "/song_mp3/wonder-woman.mp3",
+  "song_img": "/img/db_img/song_img/wonder-woman.jpg",
+  "song_lyric": "/song_lyrics/wonder-woman.txt",
+  "song_duration": "3:05",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe695e56cf0f4fda2161"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "64187438a6a7d496089ddf3f"
+  },
+  "song_name": "24",
+  "song_path": "/song_mp3/24.mp3",
+  "song_img": "/img/db_img/song_img/24.jpg",
+  "song_lyric": "/song_lyrics/24.txt",
+  "song_duration": "2:16",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7655f3ab6c85f074d553"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Sleep",
+  "comment_id": [
+    {
+      "$oid": "642a2879f3054c91f1cb4072"
+    },
+    {
+      "$oid": "642a55bb3ab78e86d66f9c63"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e7f7ef3ab6c85f074d57e"
+  },
+  "song_name": "Bad Dreams",
+  "song_path": "/song_mp3/bad-dreams.mp3",
+  "song_img": "/img/db_img/song_img/bad-dreams.jpg",
+  "song_lyric": "/song_lyrics/bad-dreams.txt",
+  "song_duration": "3:59",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7603f3ab6c85f074d53e"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e96bf03007793749e74c7"
+    },
+    {
+      "$oid": "6424ff3f5e56cf0f4fda2165"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fc9f3ab6c85f074d592"
+  },
+  "song_name": "Carry Anne",
+  "song_path": "/song_mp3/carry-anne.mp3",
+  "song_img": "/img/db_img/song_img/carry-anne.jpg",
+  "song_lyric": "/song_lyrics/cant-help-falling-in-love.txt",
+  "song_duration": "3:35",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74aaf3ab6c85f074d4e6"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe7a5e56cf0f4fda2162"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7ff7f3ab6c85f074d59f"
+  },
+  "song_name": "Daylight",
+  "song_path": "/song_mp3/daylight.mp3",
+  "song_img": "/img/db_img/song_img/daylight.jpg",
+  "song_lyric": "/song_lyrics/daylight.txt",
+  "song_duration": "2:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80cff3ab6c85f074d5e0"
+  },
+  "song_name": "La Bachata",
+  "song_path": "/song_mp3/la-bachata.mp3",
+  "song_img": "/img/db_img/song_img/la-bachata.jpg",
+  "song_lyric": "/song_lyrics/la-bachata.txt",
+  "song_duration": "2:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7584f3ab6c85f074d51b"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8192f3ab6c85f074d618"
+  },
+  "song_name": "Photograph",
+  "song_path": "/song_mp3/photograph.mp3",
+  "song_img": "/img/db_img/song_img/photograph.jpg",
+  "song_lyric": "/song_lyrics/photograph.txt",
+  "song_duration": "4:25",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75c6f3ab6c85f074d52e"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023f770c78a4cc8f0da1a"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81aff3ab6c85f074d621"
+  },
+  "song_name": "Right Down The Line",
+  "song_path": "/song_mp3/right-down-the-line.mp3",
+  "song_img": "/img/db_img/song_img/right-down-the-line.jpg",
+  "song_lyric": "/song_lyrics/right-down-the-line.txt",
+  "song_duration": "4:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74cef3ab6c85f074d4f1"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e968e03007793749e74c6"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81b2f3ab6c85f074d622"
+  },
+  "song_name": "RISE",
+  "song_path": "/song_mp3/rise.mp3",
+  "song_img": "/img/db_img/song_img/rise.jpg",
+  "song_lyric": "/song_lyrics/rise.txt",
+  "song_duration": "4:02",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7576f3ab6c85f074d517"
+    },
+    {
+      "$oid": "6424fe185e56cf0f4fda2160"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81c0f3ab6c85f074d626"
+  },
+  "song_name": "ROXANNE",
+  "song_path": "/song_mp3/roxanne.mp3",
+  "song_img": "/img/db_img/song_img/roxanne.jpg",
+  "song_lyric": "/song_lyrics/roxanne.txt",
+  "song_duration": "2:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7290f3ab6c85f074d4aa"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82d4f3ab6c85f074d654"
+  },
+  "song_name": "Too Late",
+  "song_path": "/song_mp3/too-late.mp3",
+  "song_img": "/img/db_img/song_img/too-late.jpg",
+  "song_lyric": "/song_lyrics/too-late.txt",
+  "song_duration": "4:01",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641ad801366d292a0cc59ca3"
+  },
+  "song_name": "2 Be Loved",
+  "song_path": "/song_mp3/2-be-loved.mp3",
+  "song_img": "/img/db_img/song_img/2-be-loved.jpg",
+  "song_lyric": "/song_lyrics/2-be-loved.txt",
+  "song_duration": "3:07",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e755cf3ab6c85f074d50f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f88f3ab6c85f074d581"
+  },
+  "song_name": "Been Like This",
+  "song_path": "/song_mp3/been-like-this.mp3",
+  "song_img": "/img/db_img/song_img/been-like-this.jpg",
+  "song_lyric": "/song_lyrics/been-like-this.txt",
+  "song_duration": "2:58",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fb7f3ab6c85f074d58d"
+  },
+  "song_name": "Bumpy Ride",
+  "song_path": "/song_mp3/bumpy-ride.mp3",
+  "song_img": "/img/db_img/song_img/bumpy-ride.jpg",
+  "song_lyric": "/song_lyrics/bumpy-ride.txt",
+  "song_duration": "4:17",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75aef3ab6c85f074d527"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    },
+    {
+      "$oid": "641e966203007793749e74c4"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fcdf3ab6c85f074d593"
+  },
+  "song_name": "CHARGER",
+  "song_path": "/song_mp3/charger.mp3",
+  "song_img": "/img/db_img/song_img/charger.jpg",
+  "song_lyric": "/song_lyrics/charger.txt",
+  "song_duration": "2:27",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74a3f3ab6c85f074d4e4"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fe0f3ab6c85f074d598"
+  },
+  "song_name": "Cloud 9",
+  "song_path": "/song_mp3/cloud-9.mp3",
+  "song_img": "/img/db_img/song_img/cloud-9.jpg",
+  "song_lyric": "/song_lyrics/cloud-9.txt",
+  "song_duration": "4:39",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7695f3ab6c85f074d564"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fe9f3ab6c85f074d59b"
+  },
+  "song_name": "Creepin'",
+  "song_path": "/song_mp3/creepin.mp3",
+  "song_img": "/img/db_img/song_img/creepin.jpg",
+  "song_lyric": "/song_lyrics/creepin.txt",
+  "song_duration": "3:42",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7598f3ab6c85f074d521"
+    },
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7ff0f3ab6c85f074d59d"
+  },
+  "song_name": "Dancing Queen",
+  "song_path": "/song_mp3/dancing-queen.mp3",
+  "song_img": "/img/db_img/song_img/dancing-queen.jpg",
+  "song_lyric": "/song_lyrics/dancing-queen.txt",
+  "song_duration": "3:54",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e6e1af3ab6c85f074d48f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e968e03007793749e74c6"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8031f3ab6c85f074d5b2"
+  },
+  "song_name": "Flowers",
+  "song_path": "/song_mp3/flowers.mp3",
+  "song_img": "/img/db_img/song_img/flowers.jpg",
+  "song_lyric": "/song_lyrics/flowers.txt",
+  "song_duration": "3:18",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e963d03007793749e74c3"
+    }
+  ],
+  "genre_name": "Funk",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8050f3ab6c85f074d5bc"
+  },
+  "song_name": "GROWING UP IS",
+  "song_path": "/song_mp3/growing-up-is.mp3",
+  "song_img": "/img/db_img/song_img/growing-up-is.jpg",
+  "song_lyric": "/song_lyrics/growing-up-is.txt",
+  "song_duration": "3:58",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e761df3ab6c85f074d545"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642026f570c78a4cc8f0da1c"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": [
+    {
+      "$oid": "643cb67cd0190caf1c644cd9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e807ff3ab6c85f074d5c8"
+  },
+  "song_name": "Heroine",
+  "song_path": "/song_mp3/heroine.mp3",
+  "song_img": "/img/db_img/song_img/heroine.jpg",
+  "song_lyric": "/song_lyrics/heroine.txt",
+  "song_duration": "3:16",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7659f3ab6c85f074d554"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8083f3ab6c85f074d5c9"
+  },
+  "song_name": "Holo",
+  "song_path": "/song_mp3/holo.mp3",
+  "song_img": "/img/db_img/song_img/holo.jpg",
+  "song_lyric": "/song_lyrics/holo.txt",
+  "song_duration": "3:49",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e727cf3ab6c85f074d4a5"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    },
+    {
+      "$oid": "6424feb65e56cf0f4fda2163"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80adf3ab6c85f074d5d6"
+  },
+  "song_name": "In You Eyes",
+  "song_path": "/song_mp3/in-your-eyes.mp3",
+  "song_img": "/img/db_img/song_img/in-your-eyes.jpg",
+  "song_lyric": "/song_lyrics/in-your-eyes.txt",
+  "song_duration": "3:59",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80d2f3ab6c85f074d5e1"
+  },
+  "song_name": "La Jumpa",
+  "song_path": "/song_mp3/la-jumpa.mp3",
+  "song_img": "/img/db_img/song_img/la-jumpa.jpg",
+  "song_lyric": "/song_lyrics/la-jumpa.txt",
+  "song_duration": "4:20",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7287f3ab6c85f074d4a8"
+    },
+    {
+      "$oid": "641e7307f3ab6c85f074d4b7"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8132f3ab6c85f074d5fe"
+  },
+  "song_name": "Music For a Sushi Restaurant",
+  "song_path": "/song_mp3/music-for-a-sushi-restaurant.mp3",
+  "song_img": "/img/db_img/song_img/music-for-a-sushi-restaurant.jpg",
+  "song_lyric": "/song_lyrics/music-for-a-sushi-restaurant.txt",
+  "song_duration": "3:14",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74f9f3ab6c85f074d4f7"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8157f3ab6c85f074d607"
+  },
+  "song_name": "Never Be Alone",
+  "song_path": "/song_mp3/never-be-alone.mp3",
+  "song_img": "/img/db_img/song_img/never-be-alone.jpg",
+  "song_lyric": "/song_lyrics/never-be-alone.txt",
+  "song_duration": "4:23",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768ef3ab6c85f074d562"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8195f3ab6c85f074d619"
+  },
+  "song_name": "POPSTARS",
+  "song_path": "/song_mp3/popstars.mp3",
+  "song_img": "/img/db_img/song_img/popstars.jpg",
+  "song_lyric": "/song_lyrics/popstars.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e752cf3ab6c85f074d502"
+    },
+    {
+      "$oid": "6424fecb5e56cf0f4fda2164"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81a5f3ab6c85f074d61e"
+  },
+  "song_name": "Remember That Night?",
+  "song_path": "/song_mp3/remember-that-night.mp3",
+  "song_img": "/img/db_img/song_img/remember-that-night.jpg",
+  "song_lyric": "/song_lyrics/remember-that-night.txt",
+  "song_duration": "3:47",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e762cf3ab6c85f074d549"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023f770c78a4cc8f0da1a"
+    }
+  ],
+  "genre_name": "Sleep",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e829df3ab6c85f074d643"
+  },
+  "song_name": "Super Freaky Girl",
+  "song_path": "/song_mp3/super-freaky-girl.mp3",
+  "song_img": "/img/db_img/song_img/super-freaky-girl.jpg",
+  "song_lyric": "/song_lyrics/super-freaky-girl.txt",
+  "song_duration": "3:56",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75caf3ab6c85f074d52f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c1370c78a4cc8f0da1d"
+    }
+  ],
+  "genre_name": "Hiphop",
+  "comment_id": [
+    {
+      "$oid": "6442a813ccab8ea2a94ae8d4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e82b6f3ab6c85f074d64b"
+  },
+  "song_name": "Teenage Dream",
+  "song_path": "/song_mp3/teenage-dream.mp3",
+  "song_img": "/img/db_img/song_img/teenage-dream.jpg",
+  "song_lyric": "/song_lyrics/teenage-dream.txt",
+  "song_duration": "3:49",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7534f3ab6c85f074d504"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023f770c78a4cc8f0da1a"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82def3ab6c85f074d657"
+  },
+  "song_name": "Un-Break My Heart",
+  "song_path": "/song_mp3/un-break-my-heart.mp3",
+  "song_img": "/img/db_img/song_img/un-break-my-heart.jpg",
+  "song_lyric": "/song_lyrics/un-break-my-heart.txt",
+  "song_duration": "4:39",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7699f3ab6c85f074d565"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023d870c78a4cc8f0da19"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8336f3ab6c85f074d669"
+  },
+  "song_name": "Why Am I Like This?",
+  "song_path": "/song_mp3/why-am-i-like-this.mp3",
+  "song_img": "/img/db_img/song_img/why-am-i-like-this.jpg",
+  "song_lyric": "/song_lyrics/why-am-i-like-this.txt",
+  "song_duration": "3:34",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75dcf3ab6c85f074d534"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7704f3ab6c85f074d571"
+  },
+  "song_name": "After Hours",
+  "song_path": "/song_mp3/after-hours.mp3",
+  "song_img": "/img/db_img/song_img/after-hours.jpg",
+  "song_lyric": "/song_lyrics/after-hours.txt",
+  "song_duration": "6:02",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7735f3ab6c85f074d579"
+  },
+  "song_name": "Anti-Hero",
+  "song_path": "/song_mp3/anti-hero.mp3",
+  "song_img": "/img/db_img/song_img/anti-hero.jpg",
+  "song_lyric": "/song_lyrics/anti-hero.txt",
+  "song_duration": "3:24",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766ff3ab6c85f074d55a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    },
+    {
+      "$oid": "641e963d03007793749e74c3"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": [
+    {
+      "$oid": "64424d52440522360c087c9e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e7fbbf3ab6c85f074d58e"
+  },
+  "song_name": "Call Me Maybe",
+  "song_path": "/song_mp3/call-me-maybe.mp3",
+  "song_img": "/img/db_img/song_img/call-me-maybe.jpg",
+  "song_lyric": "/song_lyrics/call-me-maybe.txt",
+  "song_duration": "3:45",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7345f3ab6c85f074d4c9"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fe6f3ab6c85f074d59a"
+  },
+  "song_name": "Come Back Home",
+  "song_path": "/song_mp3/come-back-home.mp3",
+  "song_img": "/img/db_img/song_img/come-back-home.jpg",
+  "song_lyric": "/song_lyrics/come-back-home.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "6417f435e47bf66a8cfeaaac"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Kpop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80d8f3ab6c85f074d5e3"
+  },
+  "song_name": "Lalala",
+  "song_path": "/song_mp3/lalala.mp3",
+  "song_img": "/img/db_img/song_img/lalala.jpg",
+  "song_lyric": "/song_lyrics/lalala.txt",
+  "song_duration": "3:17",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e76a3f3ab6c85f074d568"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c5970c78a4cc8f0da1e"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80fbf3ab6c85f074d5ee"
+  },
+  "song_name": "Love Goes",
+  "song_path": "/song_mp3/love-goes.mp3",
+  "song_img": "/img/db_img/song_img/love-goes.jpg",
+  "song_lyric": "/song_lyrics/love-goes.txt",
+  "song_duration": "4:46",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    },
+    {
+      "$oid": "641e754af3ab6c85f074d50a"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8115f3ab6c85f074d5f6"
+  },
+  "song_name": "Material Girl",
+  "song_path": "/song_mp3/material-girl.mp3",
+  "song_img": "/img/db_img/song_img/material-girl.jpg",
+  "song_lyric": "/song_lyrics/material-girl.txt",
+  "song_duration": "4:04",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7581f3ab6c85f074d51a"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e96bf03007793749e74c7"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e812ef3ab6c85f074d5fd"
+  },
+  "song_name": "Muddy Feet",
+  "song_path": "/song_mp3/muddy-feet.mp3",
+  "song_img": "/img/db_img/song_img/muddy-feet.jpg",
+  "song_lyric": "/song_lyrics/muddy-feet.txt",
+  "song_duration": "2:17",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75a6f3ab6c85f074d525"
+    },
+    {
+      "$oid": "641e7640f3ab6c85f074d54d"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8135f3ab6c85f074d5ff"
+  },
+  "song_name": "My Heart Will Go On",
+  "song_path": "/song_mp3/my-heart-will-go-on.mp3",
+  "song_img": "/img/db_img/song_img/my-heart-will-go-on.jpg",
+  "song_lyric": "/song_lyrics/my-heart-will-go-on.txt",
+  "song_duration": "4:35",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e734cf3ab6c85f074d4cb"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023d870c78a4cc8f0da19"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e816af3ab6c85f074d60d"
+  },
+  "song_name": "No Woman, No Cry",
+  "song_path": "/song_mp3/no-woman-no-cry.mp3",
+  "song_img": "/img/db_img/song_img/no-woman-no-cry.jpg",
+  "song_lyric": "/song_lyrics/no-woman-no-cry.txt",
+  "song_duration": "4:33",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74cbf3ab6c85f074d4f0"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642023d870c78a4cc8f0da19"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8180f3ab6c85f074d613"
+  },
+  "song_name": "One Thing At A Time",
+  "song_path": "/song_mp3/one-thing-at-a-time.mp3",
+  "song_img": "/img/db_img/song_img/one-thing-at-a-time.jpg",
+  "song_lyric": "/song_lyrics/one-thing-at-a-time.txt",
+  "song_duration": "3:27",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75b1f3ab6c85f074d528"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81acf3ab6c85f074d620"
+  },
+  "song_name": "Rich Girl",
+  "song_path": "/song_mp3/rich-girl.mp3",
+  "song_img": "/img/db_img/song_img/rich-girl.jpg",
+  "song_lyric": "/song_lyrics/rich-girl.txt",
+  "song_duration": "2:25",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e736bf3ab6c85f074d4d4"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81c3f3ab6c85f074d627"
+  },
+  "song_name": "Rude",
+  "song_path": "/song_mp3/rude.mp3",
+  "song_img": "/img/db_img/song_img/rude.jpg",
+  "song_lyric": "/song_lyrics/rude.txt",
+  "song_duration": "3:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e757df3ab6c85f074d519"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6421767d17e951bf32d8847e"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": [
+    {
+      "$oid": "643c35f96a6d31a20f333a47"
+    },
+    {
+      "$oid": "643cf179dd0a869b54d2c480"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e81c7f3ab6c85f074d628"
+  },
+  "song_name": "Rude Boy",
+  "song_path": "/song_mp3/rude-boy.mp3",
+  "song_img": "/img/db_img/song_img/rude-boy.jpg",
+  "song_lyric": "/song_lyrics/rude-boy.txt",
+  "song_duration": "3:44",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7606f3ab6c85f074d53f"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95a303007793749e74c0"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8251f3ab6c85f074d62d"
+  },
+  "song_name": "Scared To Love",
+  "song_path": "/song_mp3/scared-to-love.mp3",
+  "song_img": "/img/db_img/song_img/scared-to-love.jpg",
+  "song_lyric": "/song_lyrics/scared-to-love.txt",
+  "song_duration": "3:12",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8262f3ab6c85f074d631"
+  },
+  "song_name": "she's all I wanna be",
+  "song_path": "/song_mp3/shes-all-i-wanna-be.mp3",
+  "song_img": "/img/db_img/song_img/shes-all-i-wanna-be.jpg",
+  "song_lyric": "/song_lyrics/shes-all-i-wanna-be.txt",
+  "song_duration": "3:27",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e766bf3ab6c85f074d559"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8269f3ab6c85f074d633"
+  },
+  "song_name": "Shine",
+  "song_path": "/song_mp3/shine.mp3",
+  "song_img": "/img/db_img/song_img/shine.jpg",
+  "song_lyric": "/song_lyrics/shine.txt",
+  "song_duration": "4:19",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e764ef3ab6c85f074d551"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82c3f3ab6c85f074d64f"
+  },
+  "song_name": "The Night We Met",
+  "song_path": "/song_mp3/the-night-we-met.mp3",
+  "song_img": "/img/db_img/song_img/the-night-we-met.jpg",
+  "song_lyric": "/song_lyrics/the-night-we-met.txt",
+  "song_duration": "3:28",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e755ff3ab6c85f074d510"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e833cf3ab6c85f074d66b"
+  },
+  "song_name": "Woke Up in Love",
+  "song_path": "/song_mp3/woke-up-in-love.mp3",
+  "song_img": "/img/db_img/song_img/woke-up-in-love.jpg",
+  "song_lyric": "/song_lyrics/woke-up-in-love.txt",
+  "song_duration": "3:38",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7543f3ab6c85f074d508"
+    },
+    {
+      "$oid": "641e733bf3ab6c85f074d4c6"
+    },
+    {
+      "$oid": "641e74eff3ab6c85f074d4f5"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe695e56cf0f4fda2161"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7727f3ab6c85f074d575"
+  },
+  "song_name": "Alone",
+  "song_path": "/song_mp3/alone.mp3",
+  "song_img": "/img/db_img/song_img/alone.jpg",
+  "song_lyric": "/song_lyrics/alone.txt",
+  "song_duration": "3:50",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748ef3ab6c85f074d4de"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f81f3ab6c85f074d57f"
+  },
+  "song_name": "Bad Habits",
+  "song_path": "/song_mp3/bad-habits.mp3",
+  "song_img": "/img/db_img/song_img/bad-habits.jpg",
+  "song_lyric": "/song_lyrics/bad-habits.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e74a0f3ab6c85f074d4e3"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "642026f570c78a4cc8f0da1c"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7f9df3ab6c85f074d585"
+  },
+  "song_name": "bellyache",
+  "song_path": "/song_mp3/bellyache.mp3",
+  "song_img": "/img/db_img/song_img/bellyache.jpg",
+  "song_lyric": "/song_lyrics/bellyache.txt",
+  "song_duration": "3:31",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e731ff3ab6c85f074d4be"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fa4f3ab6c85f074d587"
+  },
+  "song_name": "Blank",
+  "song_path": "/song_mp3/blank.mp3",
+  "song_img": "/img/db_img/song_img/blank.jpg",
+  "song_lyric": "/song_lyrics/blank.txt",
+  "song_duration": "3:29",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e748af3ab6c85f074d4dd"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95b803007793749e74c1"
+    },
+    {
+      "$oid": "6424feb65e56cf0f4fda2163"
+    }
+  ],
+  "genre_name": "Edm",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fdcf3ab6c85f074d597"
+  },
+  "song_name": "Clarity",
+  "song_path": "/song_mp3/clarity.mp3",
+  "song_img": "/img/db_img/song_img/clarity.jpg",
+  "song_lyric": "/song_lyrics/clarity.txt",
+  "song_duration": "4:32",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e76b1f3ab6c85f074d56c"
+    },
+    {
+      "$oid": "641e74c7f3ab6c85f074d4ef"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe695e56cf0f4fda2161"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7fe3f3ab6c85f074d599"
+  },
+  "song_name": "Coast",
+  "song_path": "/song_mp3/coast.mp3",
+  "song_img": "/img/db_img/song_img/coast.jpg",
+  "song_lyric": "/song_lyrics/coast.txt",
+  "song_duration": "2:52",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7280f3ab6c85f074d4a6"
+    },
+    {
+      "$oid": "641e74f5f3ab6c85f074d4f6"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e7ffaf3ab6c85f074d5a0"
+  },
+  "song_name": "De Qué Manera",
+  "song_path": "/song_mp3/de-que-manera.mp3",
+  "song_img": "/img/db_img/song_img/de-que-manera.jpg",
+  "song_lyric": "/song_lyrics/de-que-manera.txt",
+  "song_duration": "3:21",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e759ff3ab6c85f074d523"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    },
+    {
+      "$oid": "642026f570c78a4cc8f0da1c"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8006f3ab6c85f074d5a4"
+  },
+  "song_name": "Don't Call Me Up",
+  "song_path": "/song_mp3/dont-call-me-up.mp3",
+  "song_img": "/img/db_img/song_img/dont-call-me-up.jpg",
+  "song_lyric": "/song_lyrics/dont-call-me-up.txt",
+  "song_duration": "2:59",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e756cf3ab6c85f074d514"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "64202c5970c78a4cc8f0da1e"
+    }
+  ],
+  "genre_name": "Dance",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e800ff3ab6c85f074d5a7"
+  },
+  "song_name": "Emeycé",
+  "song_path": "/song_mp3/emeyce.mp3",
+  "song_img": "/img/db_img/song_img/emeyce.jpg",
+  "song_lyric": "/song_lyrics/emeyce.txt",
+  "song_duration": "3:03",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e6c60f3ab6c85f074d48c"
+    },
+    {
+      "$oid": "641e7368f3ab6c85f074d4d3"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8047f3ab6c85f074d5b9"
+  },
+  "song_name": "God Gave Me A Girl",
+  "song_path": "/song_mp3/god-gave-me-a-girl.mp3",
+  "song_img": "/img/db_img/song_img/god-gave-me-a-girl.jpg",
+  "song_lyric": "/song_lyrics/god-gave-me-a-girl.txt",
+  "song_duration": "3:09",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7621f3ab6c85f074d546"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8062f3ab6c85f074d5bf"
+  },
+  "song_name": "Happy Together",
+  "song_path": "/song_mp3/happy-together.mp3",
+  "song_img": "/img/db_img/song_img/happy-together.jpg",
+  "song_lyric": "/song_lyrics/happy-together.txt",
+  "song_duration": "2:55",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7687f3ab6c85f074d560"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e967b03007793749e74c5"
+    }
+  ],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8079f3ab6c85f074d5c6"
+  },
+  "song_name": "Her",
+  "song_path": "/song_mp3/her.mp3",
+  "song_img": "/img/db_img/song_img/her.jpg",
+  "song_lyric": "/song_lyrics/her.txt",
+  "song_duration": "2:20",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7591f3ab6c85f074d51f"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Hiphop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8086f3ab6c85f074d5ca"
+  },
+  "song_name": "Homemade Dynamite",
+  "song_path": "/song_mp3/homemade-dynamite.mp3",
+  "song_img": "/img/db_img/song_img/homemade-dynamite.jpg",
+  "song_lyric": "/song_lyrics/homemade-dynamite.txt",
+  "song_duration": "3:10",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7562f3ab6c85f074d511"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e808cf3ab6c85f074d5cc"
+  },
+  "song_name": "How Do You Sleep?",
+  "song_path": "/song_mp3/how-do-you-sleep.mp3",
+  "song_img": "/img/db_img/song_img/how-do-you-sleep.jpg",
+  "song_lyric": "/song_lyrics/how-do-you-sleep.txt",
+  "song_duration": "3:49",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7628f3ab6c85f074d548"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Pop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e80f8f3ab6c85f074d5ed"
+  },
+  "song_name": "LOST IN PARADISE",
+  "song_path": "/song_mp3/lost-in-paradise.mp3",
+  "song_img": "/img/db_img/song_img/lost-in-paradise.jpg",
+  "song_lyric": "/song_lyrics/lost-in-paradise.txt",
+  "song_duration": "5:28",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e726ef3ab6c85f074d4a1"
+    },
+    {
+      "$oid": "641e6e2af3ab6c85f074d491"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424fe185e56cf0f4fda2160"
+    }
+  ],
+  "genre_name": "Rock",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8165f3ab6c85f074d60b"
+  },
+  "song_name": "No Promise",
+  "song_path": "/song_mp3/no-promises.mp3",
+  "song_img": "/img/db_img/song_img/no-promises.jpg",
+  "song_lyric": "/song_lyrics/no-promises.txt",
+  "song_duration": "3:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7636f3ab6c85f074d54c"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e81b9f3ab6c85f074d624"
+  },
+  "song_name": "Rock and A Hard Place",
+  "song_path": "/song_mp3/rock-and-a-hard-place.mp3",
+  "song_img": "/img/db_img/song_img/rock-and-a-hard-place.jpg",
+  "song_lyric": "/song_lyrics/rock-and-a-hard-place.txt",
+  "song_duration": "3:27",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e730bf3ab6c85f074d4b8"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "Country",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8288f3ab6c85f074d63d"
+  },
+  "song_name": "Starboy",
+  "song_path": "/song_mp3/starboy.mp3",
+  "song_img": "/img/db_img/song_img/starboy.jpg",
+  "song_lyric": "/song_lyrics/starboy.txt",
+  "song_duration": "3:51",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e768af3ab6c85f074d561"
+    },
+    {
+      "$oid": "641e7361f3ab6c85f074d4d1"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e958a03007793749e74bf"
+    }
+  ],
+  "genre_name": "Rnb",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e82d1f3ab6c85f074d653"
+  },
+  "song_name": "Todo De Ti",
+  "song_path": "/song_mp3/todo-de-ti.mp3",
+  "song_img": "/img/db_img/song_img/todo-de-ti.jpg",
+  "song_lyric": "/song_lyrics/todo-de-ti.txt",
+  "song_duration": "3:20",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e75f7f3ab6c85f074d53b"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e95cc03007793749e74c2"
+    }
+  ],
+  "genre_name": "Latin",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8330f3ab6c85f074d667"
+  },
+  "song_name": "Where'd All the Time Go?",
+  "song_path": "/song_mp3/whered-all-the-time-go.mp3",
+  "song_img": "/img/db_img/song_img//whered-all-the-time-go.jpg",
+  "song_lyric": "/song_lyrics//whered-all-the-time-go.txt",
+  "song_duration": "4:35",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e7492f3ab6c85f074d4df"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "6424ff525e56cf0f4fda2166"
+    }
+  ],
+  "genre_name": "Indie",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "641e8352f3ab6c85f074d672"
+  },
+  "song_name": "You Let Me Down",
+  "song_path": "/song_mp3/you-let-me-down.mp3",
+  "song_img": "/img/db_img/song_img/you-let-me-down.jpg",
+  "song_lyric": "/song_lyrics/you-let-me-down.txt",
+  "song_duration": "3:11",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "641e726bf3ab6c85f074d4a0"
+    }
+  ],
+  "playlists_id": [
+    {
+      "$oid": "641e955c03007793749e74be"
+    }
+  ],
+  "genre_name": "Soul",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "64435fe795a9449080cd514e"
+  },
+  "song_name": "Flower",
+  "song_path": "/song_mp3/flower.mp3",
+  "song_img": "/img/db_img/song_img/flower.jpg",
+  "song_lyric": "/song_lyrics/flower.txt",
+  "song_duration": "2:54",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "643ce8868a0c9e7e89f2d4b1"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "KPop",
+  "comment_id": []
+},{
+  "_id": {
+    "$oid": "6443606a95a9449080cd514f"
+  },
+  "song_name": "All Eyes On Me",
+  "song_path": "/song_mp3/all-eyes-on-me.mp3",
+  "song_img": "/img/db_img/song_img/all-eyes-on-me.jpg",
+  "song_lyric": "/song_lyrics/all-eyes-on-me.txt",
+  "song_duration": "2:43",
+  "song_rating_star_total": 0,
+  "artists_id": [
+    {
+      "$oid": "643ce8868a0c9e7e89f2d4b1"
+    }
+  ],
+  "playlists_id": [],
+  "genre_name": "KPop",
+  "comment_id": []
+}]

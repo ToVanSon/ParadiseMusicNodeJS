@@ -1,0 +1,2927 @@
+[{
+  "_id": {
+    "$oid": "6417f435e47bf66a8cfeaaac"
+  },
+  "artist_name": "2NE1",
+  "artist_img": "/img/db_img/artist_img/2ne1.jpg",
+  "monthly_listeners": 154381,
+  "songs_id": [
+    {
+      "$oid": "641e7fe6f3ab6c85f074d59a"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e6c60f3ab6c85f074d48c"
+  },
+  "artist_name": "3AM",
+  "artist_img": "/img/db_img/artist_img/3am.jpg",
+  "monthly_listeners": 536982,
+  "songs_id": [
+    {
+      "$oid": "641e800ff3ab6c85f074d5a7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e6e1af3ab6c85f074d48f"
+  },
+  "artist_name": "ABBA",
+  "artist_img": "/img/db_img/artist_img/abba.jpg",
+  "monthly_listeners": 458531,
+  "songs_id": [
+    {
+      "$oid": "641e7ff0f3ab6c85f074d59d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e6e24f3ab6c85f074d490"
+  },
+  "artist_name": "aespa",
+  "artist_img": "/img/db_img/artist_img/aespa.jpg",
+  "monthly_listeners": 745376,
+  "songs_id": [
+    {
+      "$oid": "641e8162f3ab6c85f074d60a"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e6e2af3ab6c85f074d491"
+  },
+  "artist_name": "AKLO",
+  "artist_img": "/img/db_img/artist_img/aklo.jpg",
+  "monthly_listeners": 417082,
+  "songs_id": [
+    {
+      "$oid": "641e80f8f3ab6c85f074d5ed"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e6e50f3ab6c85f074d493"
+  },
+  "artist_name": "Alan Walker",
+  "artist_img": "/img/db_img/artist_img/alan-walker.jpg",
+  "monthly_listeners": 944745,
+  "songs_id": [
+    {
+      "$oid": "641e80eff3ab6c85f074d5ea"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e726bf3ab6c85f074d4a0"
+  },
+  "artist_name": "Alessia Cara",
+  "artist_img": "/img/db_img/artist_img/alessia-cara.jpg",
+  "monthly_listeners": 138712,
+  "songs_id": [
+    {
+      "$oid": "641e8352f3ab6c85f074d672"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e726ef3ab6c85f074d4a1"
+  },
+  "artist_name": "ALI",
+  "artist_img": "/img/db_img/artist_img/ali.jpg",
+  "monthly_listeners": 479180,
+  "songs_id": [
+    {
+      "$oid": "641e80f8f3ab6c85f074d5ed"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7272f3ab6c85f074d4a2"
+  },
+  "artist_name": "Alicia Keys",
+  "artist_img": "/img/db_img/artist_img/alicia-keys.jpg",
+  "monthly_listeners": 990462,
+  "songs_id": [
+    {
+      "$oid": "641e82daf3ab6c85f074d656"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7275f3ab6c85f074d4a3"
+  },
+  "artist_name": "Alyssa Jane",
+  "artist_img": "/img/db_img/artist_img/alyssa-jane.jpg",
+  "monthly_listeners": 355526,
+  "songs_id": [
+    {
+      "$oid": "641e815bf3ab6c85f074d608"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7279f3ab6c85f074d4a4"
+  },
+  "artist_name": "Amanda Greatorex",
+  "artist_img": "/img/db_img/artist_img/amanda-greatorex.jpg",
+  "monthly_listeners": 225311,
+  "songs_id": [
+    {
+      "$oid": "641e8043f3ab6c85f074d5b8"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e727cf3ab6c85f074d4a5"
+  },
+  "artist_name": "Ampyx",
+  "artist_img": "/img/db_img/artist_img/ampyx.jpg",
+  "monthly_listeners": 540932,
+  "songs_id": [
+    {
+      "$oid": "641e8083f3ab6c85f074d5c9"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7280f3ab6c85f074d4a6"
+  },
+  "artist_name": "Anderson .Paak",
+  "artist_img": "/img/db_img/artist_img/anderson-paak.jpg",
+  "monthly_listeners": 964480,
+  "songs_id": [
+    {
+      "$oid": "641e7fe3f3ab6c85f074d599"
+    },
+    {
+      "$oid": "641e80e5f3ab6c85f074d5e7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7283f3ab6c85f074d4a7"
+  },
+  "artist_name": "Anson Seabra",
+  "artist_img": "/img/db_img/artist_img/anson-seabra.jpg",
+  "monthly_listeners": 250274,
+  "songs_id": [
+    {
+      "$oid": "641e832af3ab6c85f074d665"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7287f3ab6c85f074d4a8"
+  },
+  "artist_name": "Arcágel",
+  "artist_img": "/img/db_img/artist_img/arcagel.jpg",
+  "monthly_listeners": 548461,
+  "songs_id": [
+    {
+      "$oid": "641e80d2f3ab6c85f074d5e1"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e728cf3ab6c85f074d4a9"
+  },
+  "artist_name": "Ariana Grande",
+  "artist_img": "/img/db_img/artist_img/ariana-grande.jpg",
+  "monthly_listeners": 316534,
+  "songs_id": [
+    {
+      "$oid": "641e7fadf3ab6c85f074d58a"
+    },
+    {
+      "$oid": "641e80b7f3ab6c85f074d5d9"
+    },
+    {
+      "$oid": "641e819ff3ab6c85f074d61c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7290f3ab6c85f074d4aa"
+  },
+  "artist_name": "Arizona Zervas",
+  "artist_img": "/img/db_img/artist_img/arizona-zervas.jpg",
+  "monthly_listeners": 301566,
+  "songs_id": [
+    {
+      "$oid": "641e81c0f3ab6c85f074d626"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7298f3ab6c85f074d4ab"
+  },
+  "artist_name": "Austin Mahone",
+  "artist_img": "/img/db_img/artist_img/austin-mahone.jpg",
+  "monthly_listeners": 459334,
+  "songs_id": [
+    {
+      "$oid": "641e7720f3ab6c85f074d573"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e729cf3ab6c85f074d4ac"
+  },
+  "artist_name": "Ava Max",
+  "artist_img": "/img/db_img/artist_img/ava-max.jpg",
+  "monthly_listeners": 937993,
+  "songs_id": [
+    {
+      "$oid": "641e80c5f3ab6c85f074d5dd"
+    },
+    {
+      "$oid": "641e811df3ab6c85f074d5f8"
+    },
+    {
+      "$oid": "641e817cf3ab6c85f074d612"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7304f3ab6c85f074d4b6"
+  },
+  "artist_name": "Baby Queen",
+  "artist_img": "/img/db_img/artist_img/baby-queen.jpg",
+  "monthly_listeners": 619815,
+  "songs_id": [
+    {
+      "$oid": "641e831af3ab6c85f074d660"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7307f3ab6c85f074d4b7"
+  },
+  "artist_name": "Bad Bunny",
+  "artist_img": "/img/db_img/artist_img/bad-bunny.jpg",
+  "monthly_listeners": 309959,
+  "songs_id": [
+    {
+      "$oid": "641e80d2f3ab6c85f074d5e1"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e730bf3ab6c85f074d4b8"
+  },
+  "artist_name": "Bailey Zimmerman",
+  "artist_img": "/img/db_img/artist_img/bailey-zimmerman.jpg",
+  "monthly_listeners": 609505,
+  "songs_id": [
+    {
+      "$oid": "641e81b9f3ab6c85f074d624"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e730ef3ab6c85f074d4b9"
+  },
+  "artist_name": "Baltimora",
+  "artist_img": "/img/db_img/artist_img/baltimora.jpg",
+  "monthly_listeners": 799543,
+  "songs_id": [
+    {
+      "$oid": "641e82b0f3ab6c85f074d649"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7311f3ab6c85f074d4ba"
+  },
+  "artist_name": "Bebe Rexha",
+  "artist_img": "/img/db_img/artist_img/bebe-rexha.jpg",
+  "monthly_listeners": 418888,
+  "songs_id": [
+    {
+      "$oid": "641e7fbff3ab6c85f074d58f"
+    },
+    {
+      "$oid": "641e80a4f3ab6c85f074d5d3"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7315f3ab6c85f074d4bb"
+  },
+  "artist_name": "Bee Gees",
+  "artist_img": "/img/db_img/artist_img/bee-gees.jpg",
+  "monthly_listeners": 564470,
+  "songs_id": [
+    {
+      "$oid": "641e8089f3ab6c85f074d5cb"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7318f3ab6c85f074d4bc"
+  },
+  "artist_name": "Beyonce",
+  "artist_img": "/img/db_img/artist_img/beyonce.jpg",
+  "monthly_listeners": 723546,
+  "songs_id": [
+    {
+      "$oid": "641e7fedf3ab6c85f074d59c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e731cf3ab6c85f074d4bd"
+  },
+  "artist_name": "BIGBANG",
+  "artist_img": "/img/db_img/artist_img/bigbang.jpg",
+  "monthly_listeners": 970767,
+  "songs_id": [
+    {
+      "$oid": "641e8291f3ab6c85f074d63f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e731ff3ab6c85f074d4be"
+  },
+  "artist_name": "Billie Eilish",
+  "artist_img": "/img/db_img/artist_img/billie-eilish.jpg",
+  "monthly_listeners": 508519,
+  "songs_id": [
+    {
+      "$oid": "641e7f9df3ab6c85f074d585"
+    },
+    {
+      "$oid": "641e8108f3ab6c85f074d5f2"
+    },
+    {
+      "$oid": "641e8274f3ab6c85f074d637"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7323f3ab6c85f074d4bf"
+  },
+  "artist_name": "Bizarrap",
+  "artist_img": "/img/db_img/artist_img/bizarrap.jpg",
+  "monthly_listeners": 952972,
+  "songs_id": [
+    {
+      "$oid": "641e825ff3ab6c85f074d630"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7326f3ab6c85f074d4c0"
+  },
+  "artist_name": "BLACKPINK",
+  "artist_img": "/img/db_img/artist_img/blackpink.jpg",
+  "monthly_listeners": 860365,
+  "songs_id": [
+    {
+      "$oid": "641e826ff3ab6c85f074d635"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e732af3ab6c85f074d4c1"
+  },
+  "artist_name": "Bon Iver",
+  "artist_img": "/img/db_img/artist_img/bon-iver.jpg",
+  "monthly_listeners": 709278,
+  "songs_id": [
+    {
+      "$oid": "641e8018f3ab6c85f074d5aa"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e732df3ab6c85f074d4c2"
+  },
+  "artist_name": "Brakbot",
+  "artist_img": "/img/db_img/artist_img/brakbot.jpg",
+  "monthly_listeners": 702369,
+  "songs_id": [
+    {
+      "$oid": "641e7f73f3ab6c85f074d57b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7330f3ab6c85f074d4c3"
+  },
+  "artist_name": "Brandi Carlile",
+  "artist_img": "/img/db_img/artist_img/brandi-carlile.jpg",
+  "monthly_listeners": 427820,
+  "songs_id": [
+    {
+      "$oid": "641e82c7f3ab6c85f074d650"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7334f3ab6c85f074d4c4"
+  },
+  "artist_name": "Bruno Mars",
+  "artist_img": "/img/db_img/artist_img/bruno-mars.jpg",
+  "monthly_listeners": 256548,
+  "songs_id": [
+    {
+      "$oid": "641e80bbf3ab6c85f074d5da"
+    },
+    {
+      "$oid": "641e80e5f3ab6c85f074d5e7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7337f3ab6c85f074d4c5"
+  },
+  "artist_name": "Burna Boy",
+  "artist_img": "/img/db_img/artist_img/burna-boy.jpg",
+  "monthly_listeners": 492163,
+  "songs_id": [
+    {
+      "$oid": "641e813bf3ab6c85f074d601"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e733bf3ab6c85f074d4c6"
+  },
+  "artist_name": "Calum Scott",
+  "artist_img": "/img/db_img/artist_img/calum-scott.jpg",
+  "monthly_listeners": 862470,
+  "songs_id": [
+    {
+      "$oid": "641e833cf3ab6c85f074d66b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e733ef3ab6c85f074d4c7"
+  },
+  "artist_name": "Camila Cebello",
+  "artist_img": "/img/db_img/artist_img/camila-cebello.jpg",
+  "monthly_listeners": 934543,
+  "songs_id": [
+    {
+      "$oid": "641e806ff3ab6c85f074d5c3"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7342f3ab6c85f074d4c8"
+  },
+  "artist_name": "Cardi B",
+  "artist_img": "/img/db_img/artist_img/cardi-b.jpg",
+  "monthly_listeners": 831970,
+  "songs_id": [
+    {
+      "$oid": "641e831df3ab6c85f074d661"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7345f3ab6c85f074d4c9"
+  },
+  "artist_name": "Carly Rae Jepsen",
+  "artist_img": "/img/db_img/artist_img/carly-rae-jepsen.jpg",
+  "monthly_listeners": 452432,
+  "songs_id": [
+    {
+      "$oid": "641e7fbbf3ab6c85f074d58e"
+    },
+    {
+      "$oid": "641e82acf3ab6c85f074d648"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7349f3ab6c85f074d4ca"
+  },
+  "artist_name": "Cartoon",
+  "artist_img": "/img/db_img/artist_img/cartoon.jpg",
+  "monthly_listeners": 431489,
+  "songs_id": [
+    {
+      "$oid": "641e8174f3ab6c85f074d610"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e734cf3ab6c85f074d4cb"
+  },
+  "artist_name": "Céline Dion",
+  "artist_img": "/img/db_img/artist_img/celine-dion.jpg",
+  "monthly_listeners": 825425,
+  "songs_id": [
+    {
+      "$oid": "641e8135f3ab6c85f074d5ff"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7350f3ab6c85f074d4cc"
+  },
+  "artist_name": "Cher",
+  "artist_img": "/img/db_img/artist_img/cher.jpg",
+  "monthly_listeners": 604030,
+  "songs_id": [
+    {
+      "$oid": "641e7f93f3ab6c85f074d584"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7354f3ab6c85f074d4cd"
+  },
+  "artist_name": "CHVRCHES",
+  "artist_img": "/img/db_img/artist_img/chvrches.jpg",
+  "monthly_listeners": 740368,
+  "songs_id": [
+    {
+      "$oid": "641e8184f3ab6c85f074d614"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7357f3ab6c85f074d4ce"
+  },
+  "artist_name": "Cigarettes After Sex",
+  "artist_img": "/img/db_img/artist_img/cigarettes-after-sex.jpg",
+  "monthly_listeners": 686221,
+  "songs_id": [
+    {
+      "$oid": "641e8024f3ab6c85f074d5ae"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e735af3ab6c85f074d4cf"
+  },
+  "artist_name": "Colbie Cillat",
+  "artist_img": "/img/db_img/artist_img/colbie-cillat.jpg",
+  "monthly_listeners": 393120,
+  "songs_id": [
+    {
+      "$oid": "641e81a2f3ab6c85f074d61d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e735ef3ab6c85f074d4d0"
+  },
+  "artist_name": "Conan Gray",
+  "artist_img": "/img/db_img/artist_img/conan-gray.jpg",
+  "monthly_listeners": 266518,
+  "songs_id": [
+    {
+      "$oid": "641e82b9f3ab6c85f074d64c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7361f3ab6c85f074d4d1"
+  },
+  "artist_name": "Daft Punk",
+  "artist_img": "/img/db_img/artist_img/daft-punk.jpg",
+  "monthly_listeners": 227597,
+  "songs_id": [
+    {
+      "$oid": "641e8040f3ab6c85f074d5b7"
+    },
+    {
+      "$oid": "641e8288f3ab6c85f074d63d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7364f3ab6c85f074d4d2"
+  },
+  "artist_name": "Damien Baby",
+  "artist_img": "/img/db_img/artist_img/damien-baby.jpg",
+  "monthly_listeners": 238311,
+  "songs_id": [
+    {
+      "$oid": "641e800cf3ab6c85f074d5a6"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7368f3ab6c85f074d4d3"
+  },
+  "artist_name": "Danny Ocean",
+  "artist_img": "/img/db_img/artist_img/danny-ocean.jpg",
+  "monthly_listeners": 479094,
+  "songs_id": [
+    {
+      "$oid": "641e800ff3ab6c85f074d5a7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e736bf3ab6c85f074d4d4"
+  },
+  "artist_name": "Daryl Hall & John Oates",
+  "artist_img": "/img/db_img/artist_img/daryl-hall-and-john-oates.jpg",
+  "monthly_listeners": 330280,
+  "songs_id": [
+    {
+      "$oid": "641e81acf3ab6c85f074d620"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e736ff3ab6c85f074d4d5"
+  },
+  "artist_name": "David Guatta",
+  "artist_img": "/img/db_img/artist_img/david-guatta.jpg",
+  "monthly_listeners": 318717,
+  "songs_id": [
+    {
+      "$oid": "641e8313f3ab6c85f074d65e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7372f3ab6c85f074d4d6"
+  },
+  "artist_name": "Dayglow",
+  "artist_img": "/img/db_img/artist_img/dayglow.jpg",
+  "monthly_listeners": 70474,
+  "songs_id": [
+    {
+      "$oid": "641e8254f3ab6c85f074d62e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7376f3ab6c85f074d4d7"
+  },
+  "artist_name": "DEAMN",
+  "artist_img": "/img/db_img/artist_img/deamn.jpg",
+  "monthly_listeners": 673548,
+  "songs_id": [
+    {
+      "$oid": "641e8271f3ab6c85f074d636"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e747af3ab6c85f074d4da"
+  },
+  "artist_name": "Dean Lewis",
+  "artist_img": "/img/db_img/artist_img/dean-lewis.jpg",
+  "monthly_listeners": 193719,
+  "songs_id": [
+    {
+      "$oid": "641e8053f3ab6c85f074d5bd"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7482f3ab6c85f074d4db"
+  },
+  "artist_name": "Deb Never",
+  "artist_img": "/img/db_img/artist_img/deb-never.jpg",
+  "monthly_listeners": 849520,
+  "songs_id": [
+    {
+      "$oid": "641e772ef3ab6c85f074d577"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7486f3ab6c85f074d4dc"
+  },
+  "artist_name": "Demi Lovato",
+  "artist_img": "/img/db_img/artist_img/demi-lovato.jpg",
+  "monthly_listeners": 813412,
+  "songs_id": [
+    {
+      "$oid": "641e80a7f3ab6c85f074d5d4"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e748af3ab6c85f074d4dd"
+  },
+  "artist_name": "Disfigure",
+  "artist_img": "/img/db_img/artist_img/disfigure.jpg",
+  "monthly_listeners": 477571,
+  "songs_id": [
+    {
+      "$oid": "641e7fa4f3ab6c85f074d587"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e748ef3ab6c85f074d4de"
+  },
+  "artist_name": "Doja Cat",
+  "artist_img": "/img/db_img/artist_img/doja-cat.jpg",
+  "monthly_listeners": 811670,
+  "songs_id": [
+    {
+      "$oid": "641e771cf3ab6c85f074d572"
+    },
+    {
+      "$oid": "641e7727f3ab6c85f074d575"
+    },
+    {
+      "$oid": "641e7f88f3ab6c85f074d581"
+    },
+    {
+      "$oid": "641e80abf3ab6c85f074d5d5"
+    },
+    {
+      "$oid": "641e80c8f3ab6c85f074d5de"
+    },
+    {
+      "$oid": "641e8105f3ab6c85f074d5f1"
+    },
+    {
+      "$oid": "641e8146f3ab6c85f074d603"
+    },
+    {
+      "$oid": "641e8146f3ab6c85f074d603"
+    },
+    {
+      "$oid": "641e8154f3ab6c85f074d606"
+    },
+    {
+      "$oid": "641e8342f3ab6c85f074d66d"
+    },
+    {
+      "$oid": "641e8355f3ab6c85f074d673"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "641e93c903007793749e74ba"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e7492f3ab6c85f074d4df"
+  },
+  "artist_name": "Dr. Dog",
+  "artist_img": "/img/db_img/artist_img/dr-dog.jpg",
+  "monthly_listeners": 182261,
+  "songs_id": [
+    {
+      "$oid": "641e8330f3ab6c85f074d667"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7495f3ab6c85f074d4e0"
+  },
+  "artist_name": "Dreamcatcher",
+  "artist_img": "/img/db_img/artist_img/dreamcatcher.jpg",
+  "monthly_listeners": 790262,
+  "songs_id": [
+    {
+      "$oid": "641e801ef3ab6c85f074d5ac"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7498f3ab6c85f074d4e1"
+  },
+  "artist_name": "Dua Lipa",
+  "artist_img": "/img/db_img/artist_img/dua-lipa.jpg",
+  "monthly_listeners": 594452,
+  "songs_id": [
+    {
+      "$oid": "641e809df3ab6c85f074d5d1"
+    },
+    {
+      "$oid": "641e815ef3ab6c85f074d609"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e749cf3ab6c85f074d4e2"
+  },
+  "artist_name": "Eagles",
+  "artist_img": "/img/db_img/artist_img/eagles.jpg",
+  "monthly_listeners": 111452,
+  "songs_id": [
+    {
+      "$oid": "641e82a3f3ab6c85f074d645"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74a0f3ab6c85f074d4e3"
+  },
+  "artist_name": "Ed Sheeran",
+  "artist_img": "/img/db_img/artist_img/ed-sheeran.jpg",
+  "monthly_listeners": 907002,
+  "songs_id": [
+    {
+      "$oid": "641e7f81f3ab6c85f074d57f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74a3f3ab6c85f074d4e4"
+  },
+  "artist_name": "ELIO",
+  "artist_img": "/img/db_img/artist_img/elio.jpg",
+  "monthly_listeners": 231742,
+  "songs_id": [
+    {
+      "$oid": "641e7fcdf3ab6c85f074d593"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74a7f3ab6c85f074d4e5"
+  },
+  "artist_name": "ella jane",
+  "artist_img": "/img/db_img/artist_img/ella-jane.jpg",
+  "monthly_listeners": 805564,
+  "songs_id": [
+    {
+      "$oid": "641e816df3ab6c85f074d60e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74aaf3ab6c85f074d4e6"
+  },
+  "artist_name": "Elvis Presley",
+  "artist_img": "/img/db_img/artist_img/elvis-presley.jpg",
+  "monthly_listeners": 564788,
+  "songs_id": [
+    {
+      "$oid": "641e7fc5f3ab6c85f074d591"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74adf3ab6c85f074d4e7"
+  },
+  "artist_name": "Emelie Hollow",
+  "artist_img": "/img/db_img/artist_img/emelie-hollow.jpg",
+  "monthly_listeners": 723803,
+  "songs_id": [
+    {
+      "$oid": "641e80eff3ab6c85f074d5ea"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74b1f3ab6c85f074d4e8"
+  },
+  "artist_name": "Eminem",
+  "artist_img": "/img/db_img/artist_img/eminem.jpg",
+  "monthly_listeners": 196138,
+  "songs_id": [
+    {
+      "$oid": "641e8102f3ab6c85f074d5f0"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74b4f3ab6c85f074d4e9"
+  },
+  "artist_name": "Eve",
+  "artist_img": "/img/db_img/artist_img/eve.jpg",
+  "monthly_listeners": 416805,
+  "songs_id": [
+    {
+      "$oid": "641e80bef3ab6c85f074d5db"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74b7f3ab6c85f074d4ea"
+  },
+  "artist_name": "EXID",
+  "artist_img": "/img/db_img/artist_img/exid.jpg",
+  "monthly_listeners": 713873,
+  "songs_id": [
+    {
+      "$oid": "641e82eff3ab6c85f074d65a"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74baf3ab6c85f074d4eb"
+  },
+  "artist_name": "EXO",
+  "artist_img": "/img/db_img/artist_img/exo.jpg",
+  "monthly_listeners": 613552,
+  "songs_id": [
+    {
+      "$oid": "641e80ccf3ab6c85f074d5df"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74bdf3ab6c85f074d4ec"
+  },
+  "artist_name": "Feid",
+  "artist_img": "/img/db_img/artist_img/feid.jpg",
+  "monthly_listeners": 663986,
+  "songs_id": [
+    {
+      "$oid": "641e834cf3ab6c85f074d670"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74c1f3ab6c85f074d4ed"
+  },
+  "artist_name": "Flo Milli",
+  "artist_img": "/img/db_img/artist_img/flo-milli.jpg",
+  "monthly_listeners": 434414,
+  "songs_id": [
+    {
+      "$oid": "641e814af3ab6c85f074d604"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74c4f3ab6c85f074d4ee"
+  },
+  "artist_name": "flor",
+  "artist_img": "/img/db_img/artist_img/flor.jpg",
+  "monthly_listeners": 319198,
+  "songs_id": [
+    {
+      "$oid": "641e8073f3ab6c85f074d5c4"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74c7f3ab6c85f074d4ef"
+  },
+  "artist_name": "Foxes",
+  "artist_img": "/img/db_img/artist_img/foxes.jpg",
+  "monthly_listeners": 255307,
+  "songs_id": [
+    {
+      "$oid": "641e7fdcf3ab6c85f074d597"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74cbf3ab6c85f074d4f0"
+  },
+  "artist_name": "Fugees",
+  "artist_img": "/img/db_img/artist_img/fugees.jpg",
+  "monthly_listeners": 667707,
+  "songs_id": [
+    {
+      "$oid": "641e816af3ab6c85f074d60d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74cef3ab6c85f074d4f1"
+  },
+  "artist_name": "Gerry Rafferty",
+  "artist_img": "/img/db_img/artist_img/gerry-rafferty.jpg",
+  "monthly_listeners": 543950,
+  "songs_id": [
+    {
+      "$oid": "641e81aff3ab6c85f074d621"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74d1f3ab6c85f074d4f2"
+  },
+  "artist_name": "girl in red",
+  "artist_img": "/img/db_img/artist_img/girrl-in-red.jpg",
+  "monthly_listeners": 295671,
+  "songs_id": [
+    {
+      "$oid": "641e8324f3ab6c85f074d663"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74d5f3ab6c85f074d4f3"
+  },
+  "artist_name": "Gracie Abrams",
+  "artist_img": "/img/db_img/artist_img/gracie-abrams.jpg",
+  "monthly_listeners": 865404,
+  "songs_id": [
+    {
+      "$oid": "641e82bcf3ab6c85f074d64d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74eff3ab6c85f074d4f5"
+  },
+  "artist_name": "Gryffin",
+  "artist_img": "/img/db_img/artist_img/gryffin.jpg",
+  "monthly_listeners": 311464,
+  "songs_id": [
+    {
+      "$oid": "641e833cf3ab6c85f074d66b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74f5f3ab6c85f074d4f6"
+  },
+  "artist_name": "Hailee Steinfeld",
+  "artist_img": "/img/db_img/artist_img/hailee-steinfeld.jpg",
+  "monthly_listeners": 473414,
+  "songs_id": [
+    {
+      "$oid": "641e7fe3f3ab6c85f074d599"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e74f9f3ab6c85f074d4f7"
+  },
+  "artist_name": "Harry Styles",
+  "artist_img": "/img/db_img/artist_img/harry-styles.jpg",
+  "monthly_listeners": 998957,
+  "songs_id": [
+    {
+      "$oid": "641e7f6ff3ab6c85f074d57a"
+    },
+    {
+      "$oid": "641e7fa7f3ab6c85f074d588"
+    },
+    {
+      "$oid": "641e7fd3f3ab6c85f074d595"
+    },
+    {
+      "$oid": "641e7ff7f3ab6c85f074d59f"
+    },
+    {
+      "$oid": "641e8021f3ab6c85f074d5ad"
+    },
+    {
+      "$oid": "641e804af3ab6c85f074d5ba"
+    },
+    {
+      "$oid": "641e80e2f3ab6c85f074d5e6"
+    },
+    {
+      "$oid": "641e80f2f3ab6c85f074d5eb"
+    },
+    {
+      "$oid": "641e811af3ab6c85f074d5f7"
+    },
+    {
+      "$oid": "641e8132f3ab6c85f074d5fe"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "641e93b603007793749e74b9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e74fcf3ab6c85f074d4f8"
+  },
+  "artist_name": "holigan.",
+  "artist_img": "/img/db_img/artist_img/holigan.jpg",
+  "monthly_listeners": 618077,
+  "songs_id": [
+    {
+      "$oid": "641e82cef3ab6c85f074d652"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e750bf3ab6c85f074d4f9"
+  },
+  "artist_name": "Honey.",
+  "artist_img": "/img/db_img/artist_img/honey..jpg",
+  "monthly_listeners": 136324,
+  "songs_id": [
+    {
+      "$oid": "641e832df3ab6c85f074d666"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e750ff3ab6c85f074d4fa"
+  },
+  "artist_name": "Hozier",
+  "artist_img": "/img/db_img/artist_img/hozier.jpg",
+  "monthly_listeners": 270846,
+  "songs_id": [
+    {
+      "$oid": "641e82a6f3ab6c85f074d646"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7512f3ab6c85f074d4fb"
+  },
+  "artist_name": "Ice Spice",
+  "artist_img": "/img/db_img/artist_img/ice-spice.jpg",
+  "monthly_listeners": 748706,
+  "songs_id": [
+    {
+      "$oid": "641e7faaf3ab6c85f074d589"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7516f3ab6c85f074d4fc"
+  },
+  "artist_name": "Illenium",
+  "artist_img": "/img/db_img/artist_img/illenium.jpg",
+  "monthly_listeners": 509073,
+  "songs_id": [
+    {
+      "$oid": "641e803af3ab6c85f074d5b5"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e751af3ab6c85f074d4fd"
+  },
+  "artist_name": "IU",
+  "artist_img": "/img/db_img/artist_img/iu.jpg",
+  "monthly_listeners": 790213,
+  "songs_id": [
+    {
+      "$oid": "641e7f85f3ab6c85f074d580"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e751ef3ab6c85f074d4fe"
+  },
+  "artist_name": "Iyaz",
+  "artist_img": "/img/db_img/artist_img/iyaz.jpg",
+  "monthly_listeners": 618301,
+  "songs_id": [
+    {
+      "$oid": "641e81a9f3ab6c85f074d61f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7521f3ab6c85f074d4ff"
+  },
+  "artist_name": "Jelly Roll",
+  "artist_img": "/img/db_img/artist_img/jelly-roll.jpg",
+  "monthly_listeners": 98786,
+  "songs_id": [
+    {
+      "$oid": "641e8150f3ab6c85f074d605"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7524f3ab6c85f074d500"
+  },
+  "artist_name": "Jennifer Lopez",
+  "artist_img": "/img/db_img/artist_img/jennifer-lopez.jpg",
+  "monthly_listeners": 242600,
+  "songs_id": [
+    {
+      "$oid": "641e8178f3ab6c85f074d611"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7528f3ab6c85f074d501"
+  },
+  "artist_name": "K-391",
+  "artist_img": "/img/db_img/artist_img/k-391.jpg",
+  "monthly_listeners": 671305,
+  "songs_id": [
+    {
+      "$oid": "641e8294f3ab6c85f074d640"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e752cf3ab6c85f074d502"
+  },
+  "artist_name": "KDA",
+  "artist_img": "/img/db_img/artist_img/k-da.jpg",
+  "monthly_listeners": 237817,
+  "songs_id": [
+    {
+      "$oid": "641e8195f3ab6c85f074d619"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7530f3ab6c85f074d503"
+  },
+  "artist_name": "Kate Bush",
+  "artist_img": "/img/db_img/artist_img/kate-bush.jpg",
+  "monthly_listeners": 354708,
+  "songs_id": [
+    {
+      "$oid": "641e81caf3ab6c85f074d629"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7534f3ab6c85f074d504"
+  },
+  "artist_name": "Katy Perry",
+  "artist_img": "/img/db_img/artist_img/katy-perry.jpg",
+  "monthly_listeners": 758090,
+  "songs_id": [
+    {
+      "$oid": "641e80dbf3ab6c85f074d5e4"
+    },
+    {
+      "$oid": "641e82b6f3ab6c85f074d64b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7538f3ab6c85f074d505"
+  },
+  "artist_name": "Kenia OS",
+  "artist_img": "/img/db_img/artist_img/kenia-os.jpg",
+  "monthly_listeners": 577291,
+  "songs_id": [
+    {
+      "$oid": "641e8111f3ab6c85f074d5f5"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e753bf3ab6c85f074d506"
+  },
+  "artist_name": "Kim Petras",
+  "artist_img": "/img/db_img/artist_img/kim-petras.jpg",
+  "monthly_listeners": 270957,
+  "songs_id": [
+    {
+      "$oid": "641e82e1f3ab6c85f074d658"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e753ff3ab6c85f074d507"
+  },
+  "artist_name": "King Princess",
+  "artist_img": "/img/db_img/artist_img/king-princess.jpg",
+  "monthly_listeners": 853401,
+  "songs_id": [
+    {
+      "$oid": "641e82a9f3ab6c85f074d647"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7543f3ab6c85f074d508"
+  },
+  "artist_name": "Kygo",
+  "artist_img": "/img/db_img/artist_img/kygo.jpg",
+  "monthly_listeners": 816458,
+  "songs_id": [
+    {
+      "$oid": "641e833cf3ab6c85f074d66b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7546f3ab6c85f074d509"
+  },
+  "artist_name": "Kylie Morgan",
+  "artist_img": "/img/db_img/artist_img/kylie-morgan.jpg",
+  "monthly_listeners": 161485,
+  "songs_id": [
+    {
+      "$oid": "641e80a0f3ab6c85f074d5d2"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e754af3ab6c85f074d50a"
+  },
+  "artist_name": "Labrinth",
+  "artist_img": "/img/db_img/artist_img/labrinth.jpg",
+  "monthly_listeners": 131579,
+  "songs_id": [
+    {
+      "$oid": "641e8034f3ab6c85f074d5b3"
+    },
+    {
+      "$oid": "641e8037f3ab6c85f074d5b4"
+    },
+    {
+      "$oid": "641e80fbf3ab6c85f074d5ee"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e754df3ab6c85f074d50b"
+  },
+  "artist_name": "Lady Gaga",
+  "artist_img": "/img/db_img/artist_img/lady-gaga.jpg",
+  "monthly_listeners": 215284,
+  "songs_id": [
+    {
+      "$oid": "641e819ff3ab6c85f074d61c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7552f3ab6c85f074d50c"
+  },
+  "artist_name": "Lana Del Rey",
+  "artist_img": "/img/db_img/artist_img/lana-del-rey.jpg",
+  "monthly_listeners": 986064,
+  "songs_id": [
+    {
+      "$oid": "641e7fb1f3ab6c85f074d58b"
+    },
+    {
+      "$oid": "641e8003f3ab6c85f074d5a3"
+    },
+    {
+      "$oid": "641e80fff3ab6c85f074d5ef"
+    },
+    {
+      "$oid": "641e8297f3ab6c85f074d641"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7555f3ab6c85f074d50d"
+  },
+  "artist_name": "Lava La Rue",
+  "artist_img": "/img/db_img/artist_img/lava-la-rue.jpg",
+  "monthly_listeners": 469921,
+  "songs_id": [
+    {
+      "$oid": "641e772ef3ab6c85f074d577"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7558f3ab6c85f074d50e"
+  },
+  "artist_name": "Leikeli47",
+  "artist_img": "/img/db_img/artist_img/leikeli47.jpg",
+  "monthly_listeners": 741829,
+  "songs_id": [
+    {
+      "$oid": "641e7fc9f3ab6c85f074d592"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e755cf3ab6c85f074d50f"
+  },
+  "artist_name": "Lizzo",
+  "artist_img": "/img/db_img/artist_img/lizzo.jpg",
+  "monthly_listeners": 949378,
+  "songs_id": [
+    {
+      "$oid": "641ad801366d292a0cc59ca3"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e755ff3ab6c85f074d510"
+  },
+  "artist_name": "Lord Huron",
+  "artist_img": "/img/db_img/artist_img/lord-huron.jpg",
+  "monthly_listeners": 756197,
+  "songs_id": [
+    {
+      "$oid": "641e82c3f3ab6c85f074d64f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7562f3ab6c85f074d511"
+  },
+  "artist_name": "Lorde",
+  "artist_img": "/img/db_img/artist_img/lorde.jpg",
+  "monthly_listeners": 761462,
+  "songs_id": [
+    {
+      "$oid": "641e804df3ab6c85f074d5bb"
+    },
+    {
+      "$oid": "641e8065f3ab6c85f074d5c0"
+    },
+    {
+      "$oid": "641e8086f3ab6c85f074d5ca"
+    },
+    {
+      "$oid": "641e80e8f3ab6c85f074d5e8"
+    },
+    {
+      "$oid": "641e818ef3ab6c85f074d617"
+    },
+    {
+      "$oid": "641e8282f3ab6c85f074d63b"
+    },
+    {
+      "$oid": "641e82a0f3ab6c85f074d644"
+    },
+    {
+      "$oid": "641e82c0f3ab6c85f074d64e"
+    },
+    {
+      "$oid": "641e8349f3ab6c85f074d66f"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "641e938903007793749e74b8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e7565f3ab6c85f074d512"
+  },
+  "artist_name": "Loreen",
+  "artist_img": "/img/db_img/artist_img/loreen.jpg",
+  "monthly_listeners": 513810,
+  "songs_id": [
+    {
+      "$oid": "641e82b3f3ab6c85f074d64a"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7569f3ab6c85f074d513"
+  },
+  "artist_name": "M83",
+  "artist_img": "/img/db_img/artist_img/m83.jpg",
+  "monthly_listeners": 97906,
+  "songs_id": [
+    {
+      "$oid": "641e8126f3ab6c85f074d5fb"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e756cf3ab6c85f074d514"
+  },
+  "artist_name": "Mabel",
+  "artist_img": "/img/db_img/artist_img/mabel.jpg",
+  "monthly_listeners": 860719,
+  "songs_id": [
+    {
+      "$oid": "641e8006f3ab6c85f074d5a4"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7570f3ab6c85f074d515"
+  },
+  "artist_name": "Mac Demarco",
+  "artist_img": "/img/db_img/artist_img/mac-demarco.jpg",
+  "monthly_listeners": 695537,
+  "songs_id": [
+    {
+      "$oid": "641e8138f3ab6c85f074d600"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7573f3ab6c85f074d516"
+  },
+  "artist_name": "Madison Beer",
+  "artist_img": "/img/db_img/artist_img/madison-beer.jpg",
+  "monthly_listeners": 434092,
+  "songs_id": [
+    {
+      "$oid": "641e826cf3ab6c85f074d634"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7576f3ab6c85f074d517"
+  },
+  "artist_name": "MADKID",
+  "artist_img": "/img/db_img/artist_img/madkid.jpg",
+  "monthly_listeners": 688336,
+  "songs_id": [
+    {
+      "$oid": "641e81b2f3ab6c85f074d622"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7579f3ab6c85f074d518"
+  },
+  "artist_name": "Mae Muller",
+  "artist_img": "/img/db_img/artist_img/mae-muller.jpg",
+  "monthly_listeners": 216576,
+  "songs_id": [
+    {
+      "$oid": "641e809af3ab6c85f074d5d0"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e757df3ab6c85f074d519"
+  },
+  "artist_name": "MAGIC!",
+  "artist_img": "/img/db_img/artist_img/magic.jpg",
+  "monthly_listeners": 559346,
+  "songs_id": [
+    {
+      "$oid": "641e81c3f3ab6c85f074d627"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7581f3ab6c85f074d51a"
+  },
+  "artist_name": "Madonna",
+  "artist_img": "/img/db_img/artist_img/mandonna.jpg",
+  "monthly_listeners": 795047,
+  "songs_id": [
+    {
+      "$oid": "641e8115f3ab6c85f074d5f6"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7584f3ab6c85f074d51b"
+  },
+  "artist_name": "Manuel Turizo",
+  "artist_img": "/img/db_img/artist_img/manuel-turizo.jpg",
+  "monthly_listeners": 564128,
+  "songs_id": [
+    {
+      "$oid": "641e80cff3ab6c85f074d5e0"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7587f3ab6c85f074d51c"
+  },
+  "artist_name": "Mariah Carey",
+  "artist_img": "/img/db_img/artist_img/mariah-carey.jpg",
+  "monthly_listeners": 871054,
+  "songs_id": [
+    {
+      "$oid": "641e82d7f3ab6c85f074d655"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e758af3ab6c85f074d51d"
+  },
+  "artist_name": "Marshmello",
+  "artist_img": "/img/db_img/artist_img/marshmello.jpg",
+  "monthly_listeners": 898335,
+  "songs_id": [
+    {
+      "$oid": "641e833ff3ab6c85f074d66c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e758ef3ab6c85f074d51e"
+  },
+  "artist_name": "Matilda Mann",
+  "artist_img": "/img/db_img/artist_img/matilda-mann.jpg",
+  "monthly_listeners": 796097,
+  "songs_id": [
+    {
+      "$oid": "641e8187f3ab6c85f074d615"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7591f3ab6c85f074d51f"
+  },
+  "artist_name": "Megan Thee Stallion",
+  "artist_img": "/img/db_img/artist_img/megan-thee-stallion.jpg",
+  "monthly_listeners": 58877,
+  "songs_id": [
+    {
+      "$oid": "641e8079f3ab6c85f074d5c6"
+    },
+    {
+      "$oid": "641e831df3ab6c85f074d661"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7595f3ab6c85f074d520"
+  },
+  "artist_name": "Meghan Trainor",
+  "artist_img": "/img/db_img/artist_img/meghan-trainor.jpg",
+  "monthly_listeners": 808054,
+  "songs_id": [
+    {
+      "$oid": "641e810ef3ab6c85f074d5f4"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7598f3ab6c85f074d521"
+  },
+  "artist_name": "Metro Boomin",
+  "artist_img": "/img/db_img/artist_img/metro-boomin.jpg",
+  "monthly_listeners": 710378,
+  "songs_id": [
+    {
+      "$oid": "641e7fe9f3ab6c85f074d59b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e759bf3ab6c85f074d522"
+  },
+  "artist_name": "MICHELLE",
+  "artist_img": "/img/db_img/artist_img/michelle.jpg",
+  "monthly_listeners": 809172,
+  "songs_id": [
+    {
+      "$oid": "641e8198f3ab6c85f074d61a"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e759ff3ab6c85f074d523"
+  },
+  "artist_name": "Mike Bahía",
+  "artist_img": "/img/db_img/artist_img/mike-bahia.jpg",
+  "monthly_listeners": 933712,
+  "songs_id": [
+    {
+      "$oid": "641e7ffaf3ab6c85f074d5a0"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75a3f3ab6c85f074d524"
+  },
+  "artist_name": "Miki Matsubara",
+  "artist_img": "/img/db_img/artist_img/miki-matsubara.jpg",
+  "monthly_listeners": 887281,
+  "songs_id": [
+    {
+      "$oid": "641e8120f3ab6c85f074d5f9"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75a6f3ab6c85f074d525"
+  },
+  "artist_name": "Miley Cyrus",
+  "artist_img": "/img/db_img/artist_img/miley-cyrus.jpg",
+  "monthly_listeners": 215403,
+  "songs_id": [
+    {
+      "$oid": "641e8031f3ab6c85f074d5b2"
+    },
+    {
+      "$oid": "641e8056f3ab6c85f074d5be"
+    },
+    {
+      "$oid": "641e80b4f3ab6c85f074d5d8"
+    },
+    {
+      "$oid": "641e812ef3ab6c85f074d5fd"
+    },
+    {
+      "$oid": "641e818bf3ab6c85f074d616"
+    },
+    {
+      "$oid": "641e81b6f3ab6c85f074d623"
+    },
+    {
+      "$oid": "641e81bdf3ab6c85f074d625"
+    },
+    {
+      "$oid": "641e82c7f3ab6c85f074d650"
+    },
+    {
+      "$oid": "641e8305f3ab6c85f074d65d"
+    },
+    {
+      "$oid": "641e8339f3ab6c85f074d66a"
+    },
+    {
+      "$oid": "641e8345f3ab6c85f074d66e"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "641196757f6e755fa8a07602"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e75aaf3ab6c85f074d526"
+  },
+  "artist_name": "MISSIO",
+  "artist_img": "/img/db_img/artist_img/missio.jpg",
+  "monthly_listeners": 216095,
+  "songs_id": [
+    {
+      "$oid": "641e8097f3ab6c85f074d5cf"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75aef3ab6c85f074d527"
+  },
+  "artist_name": "Mohombi",
+  "artist_img": "/img/db_img/artist_img/mohombi.jpg",
+  "monthly_listeners": 682731,
+  "songs_id": [
+    {
+      "$oid": "641e7fb7f3ab6c85f074d58d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75b1f3ab6c85f074d528"
+  },
+  "artist_name": "Morgan Wallen",
+  "artist_img": "/img/db_img/artist_img/morgan-wallen.jpg",
+  "monthly_listeners": 530955,
+  "songs_id": [
+    {
+      "$oid": "641e80def3ab6c85f074d5e5"
+    },
+    {
+      "$oid": "641e8180f3ab6c85f074d613"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75b4f3ab6c85f074d529"
+  },
+  "artist_name": "Muse",
+  "artist_img": "/img/db_img/artist_img/muse.jpg",
+  "monthly_listeners": 668227,
+  "songs_id": [
+    {
+      "$oid": "641e8302f3ab6c85f074d65c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75b8f3ab6c85f074d52a"
+  },
+  "artist_name": "My Buddy Mike",
+  "artist_img": "/img/db_img/artist_img/my-buddy-mike.jpg",
+  "monthly_listeners": 381271,
+  "songs_id": [
+    {
+      "$oid": "641e8358f3ab6c85f074d674"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75bcf3ab6c85f074d52b"
+  },
+  "artist_name": "Nate Smith",
+  "artist_img": "/img/db_img/artist_img/nate-smith.jpg",
+  "monthly_listeners": 925894,
+  "songs_id": [
+    {
+      "$oid": "641e8333f3ab6c85f074d668"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75c0f3ab6c85f074d52c"
+  },
+  "artist_name": "Naughty Boy",
+  "artist_img": "/img/db_img/artist_img/nauhty-boy.jpg",
+  "monthly_listeners": 980680,
+  "songs_id": [
+    {
+      "$oid": "641e80d5f3ab6c85f074d5e2"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75c3f3ab6c85f074d52d"
+  },
+  "artist_name": "Nelly Furtado",
+  "artist_img": "/img/db_img/artist_img/nelly-furtado.jpg",
+  "monthly_listeners": 593031,
+  "songs_id": [
+    {
+      "$oid": "641e824df3ab6c85f074d62c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75c6f3ab6c85f074d52e"
+  },
+  "artist_name": "Nickeback",
+  "artist_img": "/img/db_img/artist_img/nickeback.jpg",
+  "monthly_listeners": 770794,
+  "songs_id": [
+    {
+      "$oid": "641e8192f3ab6c85f074d618"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75caf3ab6c85f074d52f"
+  },
+  "artist_name": "Nicki Minaj",
+  "artist_img": "/img/db_img/artist_img/nicki-minaj.jpg",
+  "monthly_listeners": 553008,
+  "songs_id": [
+    {
+      "$oid": "641e812bf3ab6c85f074d5fc"
+    },
+    {
+      "$oid": "641e829df3ab6c85f074d643"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75cdf3ab6c85f074d530"
+  },
+  "artist_name": "Nile Rodgers",
+  "artist_img": "/img/db_img/artist_img/nile-rodgers.jpg",
+  "monthly_listeners": 822181,
+  "songs_id": [
+    {
+      "$oid": "641e8040f3ab6c85f074d5b7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75d1f3ab6c85f074d531"
+  },
+  "artist_name": "Normani",
+  "artist_img": "/img/db_img/artist_img/normani.jpg",
+  "monthly_listeners": 933321,
+  "songs_id": [
+    {
+      "$oid": "641e7ff3f3ab6c85f074d59e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75d4f3ab6c85f074d532"
+  },
+  "artist_name": "Oasis",
+  "artist_img": "/img/db_img/artist_img/oasis.jpg",
+  "monthly_listeners": 69138,
+  "songs_id": [
+    {
+      "$oid": "641e8009f3ab6c85f074d5a5"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75d9f3ab6c85f074d533"
+  },
+  "artist_name": "Old Dominion",
+  "artist_img": "/img/db_img/artist_img/old-dominion.jpg",
+  "monthly_listeners": 756495,
+  "songs_id": [
+    {
+      "$oid": "641e8123f3ab6c85f074d5fa"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75dcf3ab6c85f074d534"
+  },
+  "artist_name": "Orla Gartland",
+  "artist_img": "/img/db_img/artist_img/orla-gartland.jpg",
+  "monthly_listeners": 168022,
+  "songs_id": [
+    {
+      "$oid": "641e8336f3ab6c85f074d669"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75e0f3ab6c85f074d535"
+  },
+  "artist_name": "Pharrell Williams",
+  "artist_img": "/img/db_img/artist_img/pharrell-williams.jpg",
+  "monthly_listeners": 581262,
+  "songs_id": [
+    {
+      "$oid": "641e8040f3ab6c85f074d5b7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75e4f3ab6c85f074d536"
+  },
+  "artist_name": "PinkPantheress",
+  "artist_img": "/img/db_img/artist_img/pinkpantheress.jpg",
+  "monthly_listeners": 726747,
+  "songs_id": [
+    {
+      "$oid": "641e7faaf3ab6c85f074d589"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75e7f3ab6c85f074d537"
+  },
+  "artist_name": "Pitbull",
+  "artist_img": "/img/db_img/artist_img/pitbull.jpg",
+  "monthly_listeners": 144220,
+  "songs_id": [
+    {
+      "$oid": "641e8178f3ab6c85f074d611"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75ebf3ab6c85f074d538"
+  },
+  "artist_name": "Post Malone",
+  "artist_img": "/img/db_img/artist_img/post-malone.jpg",
+  "monthly_listeners": 97884,
+  "songs_id": [
+    {
+      "$oid": "641e7fa0f3ab6c85f074d586"
+    },
+    {
+      "$oid": "641e7fd6f3ab6c85f074d596"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75eff3ab6c85f074d539"
+  },
+  "artist_name": "Quevedo",
+  "artist_img": "/img/db_img/artist_img/quevedo.jpg",
+  "monthly_listeners": 675031,
+  "songs_id": [
+    {
+      "$oid": "641e831af3ab6c85f074d660"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75f3f3ab6c85f074d53a"
+  },
+  "artist_name": "Rauf & Faik",
+  "artist_img": "/img/db_img/artist_img/rauf-and-faik.jpg",
+  "monthly_listeners": 796185,
+  "songs_id": [
+    {
+      "$oid": "641e7fc2f3ab6c85f074d590"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75f7f3ab6c85f074d53b"
+  },
+  "artist_name": "Rauw Alejandro",
+  "artist_img": "/img/db_img/artist_img/rauw-alejandro.jpg",
+  "monthly_listeners": 407081,
+  "songs_id": [
+    {
+      "$oid": "641e7fc2f3ab6c85f074d590"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75fbf3ab6c85f074d53c"
+  },
+  "artist_name": "Red Velvet",
+  "artist_img": "/img/db_img/artist_img/red-velvet.jpg",
+  "monthly_listeners": 72720,
+  "songs_id": [
+    {
+      "$oid": "641e7f7bf3ab6c85f074d57d"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e75fff3ab6c85f074d53d"
+  },
+  "artist_name": "Restless Road",
+  "artist_img": "/img/db_img/artist_img/restless-road.jpg",
+  "monthly_listeners": 332300,
+  "songs_id": [
+    {
+      "$oid": "641e829af3ab6c85f074d642"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7603f3ab6c85f074d53e"
+  },
+  "artist_name": "Retrofile",
+  "artist_img": "/img/db_img/artist_img/retrofile.jpg",
+  "monthly_listeners": 81113,
+  "songs_id": [
+    {
+      "$oid": "641e7f7ef3ab6c85f074d57e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7606f3ab6c85f074d53f"
+  },
+  "artist_name": "Rihanna",
+  "artist_img": "/img/db_img/artist_img/rihanna.jpg",
+  "monthly_listeners": 779017,
+  "songs_id": [
+    {
+      "$oid": "641e8102f3ab6c85f074d5f0"
+    },
+    {
+      "$oid": "641e81c7f3ab6c85f074d628"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e760af3ab6c85f074d540"
+  },
+  "artist_name": "Rina Sawayama",
+  "artist_img": "/img/db_img/artist_img/rina-sawayama.jpg",
+  "monthly_listeners": 662999,
+  "songs_id": [
+    {
+      "$oid": "641e7fd0f3ab6c85f074d594"
+    },
+    {
+      "$oid": "641e803ef3ab6c85f074d5b6"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e760ef3ab6c85f074d541"
+  },
+  "artist_name": "Rita Ora",
+  "artist_img": "/img/db_img/artist_img/rita-ora.jpg",
+  "monthly_listeners": 622060,
+  "songs_id": [
+    {
+      "$oid": "641e834ff3ab6c85f074d671"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7612f3ab6c85f074d542"
+  },
+  "artist_name": "ROSALÍA",
+  "artist_img": "/img/db_img/artist_img/rosalia.jpg",
+  "monthly_listeners": 331046,
+  "songs_id": [
+    {
+      "$oid": "641e80f4f3ab6c85f074d5ec"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7615f3ab6c85f074d543"
+  },
+  "artist_name": "Roy Orbison",
+  "artist_img": "/img/db_img/artist_img/roy-orbison.jpg",
+  "monthly_listeners": 919898,
+  "songs_id": [
+    {
+      "$oid": "641e8171f3ab6c85f074d60f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7619f3ab6c85f074d544"
+  },
+  "artist_name": "Rude-a",
+  "artist_img": "/img/db_img/artist_img/rude-a.jpg",
+  "monthly_listeners": 562329,
+  "songs_id": [
+    {
+      "$oid": "641e80ebf3ab6c85f074d5e9"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e761df3ab6c85f074d545"
+  },
+  "artist_name": "Ruel",
+  "artist_img": "/img/db_img/artist_img/ruel.jpg",
+  "monthly_listeners": 765839,
+  "songs_id": [
+    {
+      "$oid": "641e8050f3ab6c85f074d5bc"
+    },
+    {
+      "$oid": "641e8068f3ab6c85f074d5c1"
+    },
+    {
+      "$oid": "641e8093f3ab6c85f074d5ce"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7621f3ab6c85f074d546"
+  },
+  "artist_name": "Russell Dickerson",
+  "artist_img": "/img/db_img/artist_img/russell-dickerson.jpg",
+  "monthly_listeners": 115798,
+  "songs_id": [
+    {
+      "$oid": "641e8047f3ab6c85f074d5b9"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7625f3ab6c85f074d547"
+  },
+  "artist_name": "Sam Hunt",
+  "artist_img": "/img/db_img/artist_img/sam-hunt.jpg",
+  "monthly_listeners": 124106,
+  "songs_id": [
+    {
+      "$oid": "641e8320f3ab6c85f074d662"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7628f3ab6c85f074d548"
+  },
+  "artist_name": "Sam Smith",
+  "artist_img": "/img/db_img/artist_img/sam-smith.jpg",
+  "monthly_listeners": 997015,
+  "songs_id": [
+    {
+      "$oid": "641e7732f3ab6c85f074d578"
+    },
+    {
+      "$oid": "641e7ff3f3ab6c85f074d59e"
+    },
+    {
+      "$oid": "641e7ffdf3ab6c85f074d5a1"
+    },
+    {
+      "$oid": "641e8028f3ab6c85f074d5af"
+    },
+    {
+      "$oid": "641e808cf3ab6c85f074d5cc"
+    },
+    {
+      "$oid": "641e80a7f3ab6c85f074d5d4"
+    },
+    {
+      "$oid": "641e80d5f3ab6c85f074d5e2"
+    },
+    {
+      "$oid": "641e80fbf3ab6c85f074d5ee"
+    },
+    {
+      "$oid": "641e813bf3ab6c85f074d601"
+    },
+    {
+      "$oid": "641e827ff3ab6c85f074d63a"
+    },
+    {
+      "$oid": "641e82cbf3ab6c85f074d651"
+    },
+    {
+      "$oid": "641e82e1f3ab6c85f074d658"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "641e93f103007793749e74bc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e762cf3ab6c85f074d549"
+  },
+  "artist_name": "Sara Kays",
+  "artist_img": "/img/db_img/artist_img/sara-kays.jpg",
+  "monthly_listeners": 952864,
+  "songs_id": [
+    {
+      "$oid": "641e81a5f3ab6c85f074d61e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e762ff3ab6c85f074d54a"
+  },
+  "artist_name": "Selena Gomez",
+  "artist_img": "/img/db_img/artist_img/selena-gomez.jpg",
+  "monthly_listeners": 956647,
+  "songs_id": [
+    {
+      "$oid": "641e833ff3ab6c85f074d66c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7633f3ab6c85f074d54b"
+  },
+  "artist_name": "Shakira",
+  "artist_img": "/img/db_img/artist_img/shakira.jpg",
+  "monthly_listeners": 359769,
+  "songs_id": [
+    {
+      "$oid": "641e825ff3ab6c85f074d630"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7636f3ab6c85f074d54c"
+  },
+  "artist_name": "Shayne Ward",
+  "artist_img": "/img/db_img/artist_img/shayne-ward.jpg",
+  "monthly_listeners": 229580,
+  "songs_id": [
+    {
+      "$oid": "641e8165f3ab6c85f074d60b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7640f3ab6c85f074d54d"
+  },
+  "artist_name": "Sia",
+  "artist_img": "/img/db_img/artist_img/sia.jpg",
+  "monthly_listeners": 51904,
+  "songs_id": [
+    {
+      "$oid": "641e801bf3ab6c85f074d5ab"
+    },
+    {
+      "$oid": "641e812ef3ab6c85f074d5fd"
+    },
+    {
+      "$oid": "641e827cf3ab6c85f074d639"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7644f3ab6c85f074d54e"
+  },
+  "artist_name": "Sigala",
+  "artist_img": "/img/db_img/artist_img/sigala.jpg",
+  "monthly_listeners": 976515,
+  "songs_id": [
+    {
+      "$oid": "641e828cf3ab6c85f074d63e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7647f3ab6c85f074d54f"
+  },
+  "artist_name": "Silk Sonic",
+  "artist_img": "/img/db_img/artist_img/silk-sonic.jpg",
+  "monthly_listeners": 375328,
+  "songs_id": [
+    {
+      "$oid": "641e834ff3ab6c85f074d671"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e764bf3ab6c85f074d550"
+  },
+  "artist_name": "Sir Babygirl",
+  "artist_img": "/img/db_img/artist_img/sir-babygirl.jpg",
+  "monthly_listeners": 754916,
+  "songs_id": [
+    {
+      "$oid": "641e802ef3ab6c85f074d5b1"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e764ef3ab6c85f074d551"
+  },
+  "artist_name": "Spektrem",
+  "artist_img": "/img/db_img/artist_img/spektrem.jpg",
+  "monthly_listeners": 305436,
+  "songs_id": [
+    {
+      "$oid": "641e8269f3ab6c85f074d633"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7652f3ab6c85f074d552"
+  },
+  "artist_name": "Sufjan Stevens",
+  "artist_img": "/img/db_img/artist_img/sufjan-stevens.jpg",
+  "monthly_listeners": 159006,
+  "songs_id": [
+    {
+      "$oid": "641e813ef3ab6c85f074d602"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7655f3ab6c85f074d553"
+  },
+  "artist_name": "sundial",
+  "artist_img": "/img/db_img/artist_img/sundial.jpg",
+  "monthly_listeners": 121699,
+  "songs_id": [
+    {
+      "$oid": "64187438a6a7d496089ddf3f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7659f3ab6c85f074d554"
+  },
+  "artist_name": "SUNMI",
+  "artist_img": "/img/db_img/artist_img/sunmi.jpg",
+  "monthly_listeners": 231566,
+  "songs_id": [
+    {
+      "$oid": "641e807ff3ab6c85f074d5c8"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e765df3ab6c85f074d555"
+  },
+  "artist_name": "SZA",
+  "artist_img": "/img/db_img/artist_img/sza.jpg",
+  "monthly_listeners": 299298,
+  "songs_id": [
+    {
+      "$oid": "641e80c2f3ab6c85f074d5dc"
+    },
+    {
+      "$oid": "641e80c8f3ab6c85f074d5de"
+    },
+    {
+      "$oid": "641e810bf3ab6c85f074d5f3"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7660f3ab6c85f074d556"
+  },
+  "artist_name": "Taeyeon",
+  "artist_img": "/img/db_img/artist_img/taeyeon.jpg",
+  "monthly_listeners": 575769,
+  "songs_id": [
+    {
+      "$oid": "641e819bf3ab6c85f074d61b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7664f3ab6c85f074d557"
+  },
+  "artist_name": "Tal Bachman",
+  "artist_img": "/img/db_img/artist_img/tal-bachman.jpg",
+  "monthly_listeners": 279322,
+  "songs_id": [
+    {
+      "$oid": "641e8327f3ab6c85f074d664"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7667f3ab6c85f074d558"
+  },
+  "artist_name": "Talia Mar",
+  "artist_img": "/img/db_img/artist_img/talia-mar.jpg",
+  "monthly_listeners": 487660,
+  "songs_id": [
+    {
+      "$oid": "641e828cf3ab6c85f074d63e"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e766bf3ab6c85f074d559"
+  },
+  "artist_name": "Tate McRae",
+  "artist_img": "/img/db_img/artist_img/tate-mcrae.jpg",
+  "monthly_listeners": 363310,
+  "songs_id": [
+    {
+      "$oid": "641e8262f3ab6c85f074d631"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e766ff3ab6c85f074d55a"
+  },
+  "artist_name": "Taylor Swift",
+  "artist_img": "/img/db_img/artist_img/taylor-swift.jpg",
+  "monthly_listeners": 999828,
+  "songs_id": [
+    {
+      "$oid": "641e7724f3ab6c85f074d574"
+    },
+    {
+      "$oid": "641e7735f3ab6c85f074d579"
+    },
+    {
+      "$oid": "641e7f77f3ab6c85f074d57c"
+    },
+    {
+      "$oid": "641e8018f3ab6c85f074d5aa"
+    },
+    {
+      "$oid": "641e8258f3ab6c85f074d62f"
+    },
+    {
+      "$oid": "641e8285f3ab6c85f074d63c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7673f3ab6c85f074d55b"
+  },
+  "artist_name": "The Beatles",
+  "artist_img": "/img/db_img/artist_img/the-beatles.jpg",
+  "monthly_listeners": 450363,
+  "songs_id": [
+    {
+      "$oid": "641e807cf3ab6c85f074d5c7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7677f3ab6c85f074d55c"
+  },
+  "artist_name": "The Chainsmokers",
+  "artist_img": "/img/db_img/artist_img/the-chainsmokers.jpg",
+  "monthly_listeners": 689243,
+  "songs_id": [
+    {
+      "$oid": "641e7fbff3ab6c85f074d58f"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e767cf3ab6c85f074d55d"
+  },
+  "artist_name": "The Neighbourhood",
+  "artist_img": "/img/db_img/artist_img/the-neighbourhood.jpg",
+  "monthly_listeners": 525231,
+  "songs_id": [
+    {
+      "$oid": "641e802bf3ab6c85f074d5b0"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e767ff3ab6c85f074d55e"
+  },
+  "artist_name": "The Police",
+  "artist_img": "/img/db_img/artist_img/the-police.jpg",
+  "monthly_listeners": 256316,
+  "songs_id": [
+    {
+      "$oid": "641e8015f3ab6c85f074d5a9"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7683f3ab6c85f074d55f"
+  },
+  "artist_name": "The Space Ocean",
+  "artist_img": "/img/db_img/artist_img/the-space-ocean.jpg",
+  "monthly_listeners": 326773,
+  "songs_id": [
+    {
+      "$oid": "641e81cef3ab6c85f074d62a"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7687f3ab6c85f074d560"
+  },
+  "artist_name": "The Turtles",
+  "artist_img": "/img/db_img/artist_img/the-turtles.jpg",
+  "monthly_listeners": 118110,
+  "songs_id": [
+    {
+      "$oid": "641e8062f3ab6c85f074d5bf"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e768af3ab6c85f074d561"
+  },
+  "artist_name": "The Weeknd",
+  "artist_img": "/img/db_img/artist_img/the-weeknd.jpg",
+  "monthly_listeners": 762089,
+  "songs_id": [
+    {
+      "$oid": "641e7704f3ab6c85f074d571"
+    },
+    {
+      "$oid": "641e772bf3ab6c85f074d576"
+    },
+    {
+      "$oid": "641e7fe9f3ab6c85f074d59b"
+    },
+    {
+      "$oid": "641e8000f3ab6c85f074d5a2"
+    },
+    {
+      "$oid": "641e806cf3ab6c85f074d5c2"
+    },
+    {
+      "$oid": "641e8076f3ab6c85f074d5c5"
+    },
+    {
+      "$oid": "641e80adf3ab6c85f074d5d6"
+    },
+    {
+      "$oid": "641e824af3ab6c85f074d62b"
+    },
+    {
+      "$oid": "641e8251f3ab6c85f074d62d"
+    },
+    {
+      "$oid": "641e8278f3ab6c85f074d638"
+    },
+    {
+      "$oid": "641e8288f3ab6c85f074d63d"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "641e93df03007793749e74bb"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e768ef3ab6c85f074d562"
+  },
+  "artist_name": "Thefatrat",
+  "artist_img": "/img/db_img/artist_img/thefatrat.jpg",
+  "monthly_listeners": 254185,
+  "songs_id": [
+    {
+      "$oid": "641e8157f3ab6c85f074d607"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7691f3ab6c85f074d563"
+  },
+  "artist_name": "Thomas Headon",
+  "artist_img": "/img/db_img/artist_img/thomas-headon.jpg",
+  "monthly_listeners": 375208,
+  "songs_id": [
+    {
+      "$oid": "641e82f2f3ab6c85f074d65b"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7695f3ab6c85f074d564"
+  },
+  "artist_name": "Tobu & Itro",
+  "artist_img": "/img/db_img/artist_img/tobu-and-itro.jpg",
+  "monthly_listeners": 596889,
+  "songs_id": [
+    {
+      "$oid": "641e7fe0f3ab6c85f074d598"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e7699f3ab6c85f074d565"
+  },
+  "artist_name": "Toni Braxton",
+  "artist_img": "/img/db_img/artist_img/toni-braxton.jpg",
+  "monthly_listeners": 669220,
+  "songs_id": [
+    {
+      "$oid": "641e82def3ab6c85f074d657"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e769cf3ab6c85f074d566"
+  },
+  "artist_name": "Van Morrison",
+  "artist_img": "/img/db_img/artist_img/van-morrison.jpg",
+  "monthly_listeners": 89085,
+  "songs_id": [
+    {
+      "$oid": "641e7fb4f3ab6c85f074d58c"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76a0f3ab6c85f074d567"
+  },
+  "artist_name": "Whitney Houston",
+  "artist_img": "/img/db_img/artist_img/whitney-houston.jpg",
+  "monthly_listeners": 358961,
+  "songs_id": [
+    {
+      "$oid": "641e80b1f3ab6c85f074d5d7"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76a3f3ab6c85f074d568"
+  },
+  "artist_name": "Y2K",
+  "artist_img": "/img/db_img/artist_img/y2k.jpg",
+  "monthly_listeners": 873465,
+  "songs_id": [
+    {
+      "$oid": "641e80d8f3ab6c85f074d5e3"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76a7f3ab6c85f074d569"
+  },
+  "artist_name": "Yandel",
+  "artist_img": "/img/db_img/artist_img/yandel.jpg",
+  "monthly_listeners": 923544,
+  "songs_id": [
+    {
+      "$oid": "641e834cf3ab6c85f074d670"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76aaf3ab6c85f074d56a"
+  },
+  "artist_name": "Young Thug",
+  "artist_img": "/img/db_img/artist_img/young-thug.jpg",
+  "monthly_listeners": 440090,
+  "songs_id": [
+    {
+      "$oid": "641e806ff3ab6c85f074d5c3"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76aef3ab6c85f074d56b"
+  },
+  "artist_name": "Younha",
+  "artist_img": "/img/db_img/artist_img/younha.jpg",
+  "monthly_listeners": 805094,
+  "songs_id": [
+    {
+      "$oid": "641e8012f3ab6c85f074d5a8"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76b1f3ab6c85f074d56c"
+  },
+  "artist_name": "Zedd",
+  "artist_img": "/img/db_img/artist_img/zedd.jpg",
+  "monthly_listeners": 380486,
+  "songs_id": [
+    {
+      "$oid": "641e7fadf3ab6c85f074d58a"
+    },
+    {
+      "$oid": "641e7fdcf3ab6c85f074d597"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "641e76b5f3ab6c85f074d56d"
+  },
+  "artist_name": "ZICO",
+  "artist_img": "/img/db_img/artist_img/zico.jpg",
+  "monthly_listeners": 290782,
+  "songs_id": [
+    {
+      "$oid": "641e808ff3ab6c85f074d5cd"
+    }
+  ],
+  "albums_id": []
+},{
+  "_id": {
+    "$oid": "643ce8868a0c9e7e89f2d4b1"
+  },
+  "artist_name": "Jisoo",
+  "artist_img": "/img/db_img/artist_img/jisoo.jpg",
+  "monthly_listeners": 779186,
+  "songs_id": [
+    {
+      "$oid": "6443606a95a9449080cd514f"
+    },
+    {
+      "$oid": "64435fe795a9449080cd514e"
+    }
+  ],
+  "albums_id": [
+    {
+      "$oid": "643ce8398a0c9e7e89f2d4b0"
+    }
+  ]
+}]

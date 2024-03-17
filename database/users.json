@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "641aed3a46ce4b349a606ce3"
+  },
+  "username": "nhattan",
+  "user_fullname": "nhat tan",
+  "user_email": "tan@gmail.com",
+  "user_password": "098765",
+  "user_img": "/img/default.png",
+  "user_type": "admin",
+  "premium": false,
+  "liked_songs": [
+    {
+      "$oid": "641e819ff3ab6c85f074d61c"
+    },
+    {
+      "$oid": "641e813ef3ab6c85f074d602"
+    },
+    {
+      "$oid": "641e80f8f3ab6c85f074d5ed"
+    },
+    {
+      "$oid": "641e82bcf3ab6c85f074d64d"
+    },
+    {
+      "$oid": "641e81c3f3ab6c85f074d627"
+    }
+  ],
+  "created_playlists": [
+    {
+      "$oid": "643c013d03953e34f2f7f727"
+    },
+    {
+      "$oid": "643e7199b48c04d2605adfe4"
+    },
+    {
+      "$oid": "643e79a23f2043177c3a54ef"
+    },
+    {
+      "$oid": "64425b18d6a6c42288be6a9f"
+    },
+    {
+      "$oid": "6442a53f9b6de3723b34478d"
+    }
+  ],
+  "liked_playlists": [
+    {
+      "$oid": "641899521fb0f47d9d9793d9"
+    },
+    {
+      "$oid": "641e95a303007793749e74c0"
+    },
+    {
+      "$oid": "643c013d03953e34f2f7f727"
+    },
+    {
+      "$oid": "642023d870c78a4cc8f0da19"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641aeea346ce4b349a606ced"
+  },
+  "username": "user",
+  "user_fullname": "nhat tan",
+  "user_email": "tan1@gmail.com",
+  "user_password": "12345",
+  "user_img": "/img/default.png",
+  "user_type": "user",
+  "premium": false,
+  "liked_songs": [],
+  "created_playlists": [],
+  "liked_playlists": []
+},{
+  "_id": {
+    "$oid": "642fc3b53f5620e29b8ddbe7"
+  },
+  "username": "test",
+  "user_fullname": "test1",
+  "user_email": "test@gmail.com",
+  "user_password": "1234567",
+  "user_img": "/img/default.png",
+  "user_type": "admin",
+  "premium": true,
+  "liked_songs": [
+    {
+      "$oid": "641e82b9f3ab6c85f074d64c"
+    },
+    {
+      "$oid": "641e81c3f3ab6c85f074d627"
+    }
+  ],
+  "created_playlists": [],
+  "liked_playlists": []
+},{
+  "_id": {
+    "$oid": "643d5d09edbe2981cd203061"
+  },
+  "username": "sown1371",
+  "user_fullname": "Tô Văn Sơn",
+  "user_email": "tvson1371@gmail.com",
+  "user_password": "123456",
+  "user_img": "/img/default.png",
+  "user_type": "user",
+  "premium": false,
+  "liked_songs": [
+    {
+      "$oid": "641e8050f3ab6c85f074d5bc"
+    },
+    {
+      "$oid": "641e818bf3ab6c85f074d616"
+    },
+    {
+      "$oid": "641e829df3ab6c85f074d643"
+    }
+  ],
+  "created_playlists": [
+    {
+      "$oid": "6442a6359b6de3723b344859"
+    },
+    {
+      "$oid": "6442a847ccab8ea2a94ae938"
+    }
+  ],
+  "liked_playlists": [
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    },
+    {
+      "$oid": "6424fdbd5e56cf0f4fda215f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6442c1566a9b6ddd108e5d41"
+  },
+  "username": "bimu",
+  "user_fullname": "Lương Hỷ Vinh",
+  "user_email": "vinhanime1@gmail.com",
+  "user_password": "12345",
+  "user_img": "/img/default.png",
+  "user_type": "user",
+  "premium": false,
+  "liked_songs": [],
+  "created_playlists": [],
+  "liked_playlists": []
+},{
+  "_id": {
+    "$oid": "644343446d05dffe4525f255"
+  },
+  "username": "quocvinh712",
+  "user_fullname": "Pham Van Quoc Vinh",
+  "user_email": "phamvanquocvinh712@gmail.com",
+  "user_password": "quocvinh712",
+  "user_img": "/img/default.png",
+  "user_type": "user",
+  "premium": false,
+  "liked_songs": [],
+  "created_playlists": [
+    {
+      "$oid": "64437caf4b4fa981c32a8ebd"
+    }
+  ],
+  "liked_playlists": []
+}]

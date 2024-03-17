@@ -1,0 +1,872 @@
+[{
+  "_id": {
+    "$oid": "64119b08d0375a258ffb9207"
+  },
+  "genre_name": "Pop",
+  "songs_id": [
+    {
+      "$oid": "641ad801366d292a0cc59ca3"
+    },
+    {
+      "$oid": "641e7727f3ab6c85f074d575"
+    },
+    {
+      "$oid": "641e7732f3ab6c85f074d578"
+    },
+    {
+      "$oid": "641e7735f3ab6c85f074d579"
+    },
+    {
+      "$oid": "641e7f6ff3ab6c85f074d57a"
+    },
+    {
+      "$oid": "641e7f81f3ab6c85f074d57f"
+    },
+    {
+      "$oid": "641e7f88f3ab6c85f074d581"
+    },
+    {
+      "$oid": "641e7f93f3ab6c85f074d584"
+    },
+    {
+      "$oid": "641e7f9df3ab6c85f074d585"
+    },
+    {
+      "$oid": "641e7fa0f3ab6c85f074d586"
+    },
+    {
+      "$oid": "641e7fa7f3ab6c85f074d588"
+    },
+    {
+      "$oid": "641e7fadf3ab6c85f074d58a"
+    },
+    {
+      "$oid": "641e7fbbf3ab6c85f074d58e"
+    },
+    {
+      "$oid": "641e7fcdf3ab6c85f074d593"
+    },
+    {
+      "$oid": "641e7fd0f3ab6c85f074d594"
+    },
+    {
+      "$oid": "641e7fd3f3ab6c85f074d595"
+    },
+    {
+      "$oid": "641e7fedf3ab6c85f074d59c"
+    },
+    {
+      "$oid": "641e7ff0f3ab6c85f074d59d"
+    },
+    {
+      "$oid": "641e7ff3f3ab6c85f074d59e"
+    },
+    {
+      "$oid": "641e7ff7f3ab6c85f074d59f"
+    },
+    {
+      "$oid": "641e800cf3ab6c85f074d5a6"
+    },
+    {
+      "$oid": "641e8028f3ab6c85f074d5af"
+    },
+    {
+      "$oid": "641e802bf3ab6c85f074d5b0"
+    },
+    {
+      "$oid": "641e802ef3ab6c85f074d5b1"
+    },
+    {
+      "$oid": "641e804df3ab6c85f074d5bb"
+    },
+    {
+      "$oid": "641e8062f3ab6c85f074d5bf"
+    },
+    {
+      "$oid": "641e8065f3ab6c85f074d5c0"
+    },
+    {
+      "$oid": "641e807cf3ab6c85f074d5c7"
+    },
+    {
+      "$oid": "641e8086f3ab6c85f074d5ca"
+    },
+    {
+      "$oid": "641e808cf3ab6c85f074d5cc"
+    },
+    {
+      "$oid": "641e80a7f3ab6c85f074d5d4"
+    },
+    {
+      "$oid": "641e80abf3ab6c85f074d5d5"
+    },
+    {
+      "$oid": "641e80b4f3ab6c85f074d5d8"
+    },
+    {
+      "$oid": "641e80bbf3ab6c85f074d5da"
+    },
+    {
+      "$oid": "641e80c8f3ab6c85f074d5de"
+    },
+    {
+      "$oid": "641e80e2f3ab6c85f074d5e6"
+    },
+    {
+      "$oid": "641e80e8f3ab6c85f074d5e8"
+    },
+    {
+      "$oid": "641e80fbf3ab6c85f074d5ee"
+    },
+    {
+      "$oid": "641e8102f3ab6c85f074d5f0"
+    },
+    {
+      "$oid": "641e8105f3ab6c85f074d5f1"
+    },
+    {
+      "$oid": "641e810ef3ab6c85f074d5f4"
+    },
+    {
+      "$oid": "641e811af3ab6c85f074d5f7"
+    },
+    {
+      "$oid": "641e812ef3ab6c85f074d5fd"
+    },
+    {
+      "$oid": "641e8135f3ab6c85f074d5ff"
+    },
+    {
+      "$oid": "641e813bf3ab6c85f074d601"
+    },
+    {
+      "$oid": "641e8108f3ab6c85f074d5f2"
+    },
+    {
+      "$oid": "641e816af3ab6c85f074d60d"
+    },
+    {
+      "$oid": "641e817cf3ab6c85f074d612"
+    },
+    {
+      "$oid": "641e818ef3ab6c85f074d617"
+    },
+    {
+      "$oid": "641e8192f3ab6c85f074d618"
+    },
+    {
+      "$oid": "641e81aff3ab6c85f074d621"
+    },
+    {
+      "$oid": "641e81b6f3ab6c85f074d623"
+    },
+    {
+      "$oid": "641e81bdf3ab6c85f074d625"
+    },
+    {
+      "$oid": "641e81c7f3ab6c85f074d628"
+    },
+    {
+      "$oid": "641e81caf3ab6c85f074d629"
+    },
+    {
+      "$oid": "641e8262f3ab6c85f074d631"
+    },
+    {
+      "$oid": "641e8266f3ab6c85f074d632"
+    },
+    {
+      "$oid": "641e827ff3ab6c85f074d63a"
+    },
+    {
+      "$oid": "641e82a0f3ab6c85f074d644"
+    },
+    {
+      "$oid": "641e82a9f3ab6c85f074d647"
+    },
+    {
+      "$oid": "641e82acf3ab6c85f074d648"
+    },
+    {
+      "$oid": "641e82b3f3ab6c85f074d64a"
+    },
+    {
+      "$oid": "641e82b6f3ab6c85f074d64b"
+    },
+    {
+      "$oid": "641e82bcf3ab6c85f074d64d"
+    },
+    {
+      "$oid": "641e82c0f3ab6c85f074d64e"
+    },
+    {
+      "$oid": "641e82cbf3ab6c85f074d651"
+    },
+    {
+      "$oid": "641e82d7f3ab6c85f074d655"
+    },
+    {
+      "$oid": "641e82daf3ab6c85f074d656"
+    },
+    {
+      "$oid": "641e82def3ab6c85f074d657"
+    },
+    {
+      "$oid": "641e8305f3ab6c85f074d65d"
+    },
+    {
+      "$oid": "641e832df3ab6c85f074d666"
+    },
+    {
+      "$oid": "641e8336f3ab6c85f074d669"
+    },
+    {
+      "$oid": "641e8339f3ab6c85f074d66a"
+    },
+    {
+      "$oid": "641e833ff3ab6c85f074d66c"
+    },
+    {
+      "$oid": "641e8342f3ab6c85f074d66d"
+    },
+    {
+      "$oid": "641e8349f3ab6c85f074d66f"
+    },
+    {
+      "$oid": "641e8355f3ab6c85f074d673"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8df603007793749e749e"
+  },
+  "genre_name": "Country",
+  "songs_id": [
+    {
+      "$oid": "641e7724f3ab6c85f074d574"
+    },
+    {
+      "$oid": "641e7f77f3ab6c85f074d57c"
+    },
+    {
+      "$oid": "641e7fb4f3ab6c85f074d58c"
+    },
+    {
+      "$oid": "641e8047f3ab6c85f074d5b9"
+    },
+    {
+      "$oid": "641e80a0f3ab6c85f074d5d2"
+    },
+    {
+      "$oid": "641e8123f3ab6c85f074d5fa"
+    },
+    {
+      "$oid": "641e8150f3ab6c85f074d605"
+    },
+    {
+      "$oid": "641e8171f3ab6c85f074d60f"
+    },
+    {
+      "$oid": "641e8180f3ab6c85f074d613"
+    },
+    {
+      "$oid": "641e81b9f3ab6c85f074d624"
+    },
+    {
+      "$oid": "641e8285f3ab6c85f074d63c"
+    },
+    {
+      "$oid": "641e829af3ab6c85f074d642"
+    },
+    {
+      "$oid": "641e8320f3ab6c85f074d662"
+    },
+    {
+      "$oid": "641e8333f3ab6c85f074d668"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8e4003007793749e749f"
+  },
+  "genre_name": "Hiphop",
+  "songs_id": [
+    {
+      "$oid": "641e7faaf3ab6c85f074d589"
+    },
+    {
+      "$oid": "641e7fc9f3ab6c85f074d592"
+    },
+    {
+      "$oid": "641e7fe9f3ab6c85f074d59b"
+    },
+    {
+      "$oid": "641e8079f3ab6c85f074d5c6"
+    },
+    {
+      "$oid": "641e80a4f3ab6c85f074d5d3"
+    },
+    {
+      "$oid": "641e80c2f3ab6c85f074d5dc"
+    },
+    {
+      "$oid": "641e80ebf3ab6c85f074d5e9"
+    },
+    {
+      "$oid": "641e810bf3ab6c85f074d5f3"
+    },
+    {
+      "$oid": "641e812bf3ab6c85f074d5fc"
+    },
+    {
+      "$oid": "641e8146f3ab6c85f074d603"
+    },
+    {
+      "$oid": "641e814af3ab6c85f074d604"
+    },
+    {
+      "$oid": "641e829df3ab6c85f074d643"
+    },
+    {
+      "$oid": "641e82e1f3ab6c85f074d658"
+    },
+    {
+      "$oid": "641e831df3ab6c85f074d661"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8e4803007793749e74a0"
+  },
+  "genre_name": "Rock",
+  "songs_id": [
+    {
+      "$oid": "641e8009f3ab6c85f074d5a5"
+    },
+    {
+      "$oid": "641e8024f3ab6c85f074d5ae"
+    },
+    {
+      "$oid": "641e803ef3ab6c85f074d5b6"
+    },
+    {
+      "$oid": "641e804af3ab6c85f074d5ba"
+    },
+    {
+      "$oid": "641e8097f3ab6c85f074d5cf"
+    },
+    {
+      "$oid": "641e80bef3ab6c85f074d5db"
+    },
+    {
+      "$oid": "641e80f2f3ab6c85f074d5eb"
+    },
+    {
+      "$oid": "641e80f8f3ab6c85f074d5ed"
+    },
+    {
+      "$oid": "641e8132f3ab6c85f074d5fe"
+    },
+    {
+      "$oid": "641e81acf3ab6c85f074d620"
+    },
+    {
+      "$oid": "641e81b2f3ab6c85f074d622"
+    },
+    {
+      "$oid": "641e81c3f3ab6c85f074d627"
+    },
+    {
+      "$oid": "641e82b0f3ab6c85f074d649"
+    },
+    {
+      "$oid": "641e8302f3ab6c85f074d65c"
+    },
+    {
+      "$oid": "641e8313f3ab6c85f074d65e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8ea503007793749e74a5"
+  },
+  "genre_name": "Indie",
+  "songs_id": [
+    {
+      "$oid": "641e772ef3ab6c85f074d577"
+    },
+    {
+      "$oid": "641e7f7ef3ab6c85f074d57e"
+    },
+    {
+      "$oid": "641e7fb1f3ab6c85f074d58b"
+    },
+    {
+      "$oid": "641e7fc2f3ab6c85f074d590"
+    },
+    {
+      "$oid": "641e8018f3ab6c85f074d5aa"
+    },
+    {
+      "$oid": "641e8073f3ab6c85f074d5c4"
+    },
+    {
+      "$oid": "641e8126f3ab6c85f074d5fb"
+    },
+    {
+      "$oid": "641e813ef3ab6c85f074d602"
+    },
+    {
+      "$oid": "641e816df3ab6c85f074d60e"
+    },
+    {
+      "$oid": "641e8184f3ab6c85f074d614"
+    },
+    {
+      "$oid": "641e8187f3ab6c85f074d615"
+    },
+    {
+      "$oid": "641e826cf3ab6c85f074d634"
+    },
+    {
+      "$oid": "641e827cf3ab6c85f074d639"
+    },
+    {
+      "$oid": "641e8282f3ab6c85f074d63b"
+    },
+    {
+      "$oid": "641e8297f3ab6c85f074d641"
+    },
+    {
+      "$oid": "641e82a6f3ab6c85f074d646"
+    },
+    {
+      "$oid": "641e82c3f3ab6c85f074d64f"
+    },
+    {
+      "$oid": "641e82cef3ab6c85f074d652"
+    },
+    {
+      "$oid": "641e82f2f3ab6c85f074d65b"
+    },
+    {
+      "$oid": "641e831af3ab6c85f074d660"
+    },
+    {
+      "$oid": "641e8324f3ab6c85f074d663"
+    },
+    {
+      "$oid": "641e8330f3ab6c85f074d667"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8e5503007793749e74a1"
+  },
+  "genre_name": "Funk",
+  "songs_id": [
+    {
+      "$oid": "641e7f73f3ab6c85f074d57b"
+    },
+    {
+      "$oid": "641e801bf3ab6c85f074d5ab"
+    },
+    {
+      "$oid": "641e8031f3ab6c85f074d5b2"
+    },
+    {
+      "$oid": "641e80e5f3ab6c85f074d5e7"
+    },
+    {
+      "$oid": "641e8120f3ab6c85f074d5f9"
+    },
+    {
+      "$oid": "641e8198f3ab6c85f074d61a"
+    },
+    {
+      "$oid": "641e8254f3ab6c85f074d62e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8e8303007793749e74a2"
+  },
+  "genre_name": "Sleep",
+  "songs_id": [
+    {
+      "$oid": "64187438a6a7d496089ddf3f"
+    },
+    {
+      "$oid": "641e8021f3ab6c85f074d5ad"
+    },
+    {
+      "$oid": "641e8053f3ab6c85f074d5bd"
+    },
+    {
+      "$oid": "641e8068f3ab6c85f074d5c1"
+    },
+    {
+      "$oid": "641e80b7f3ab6c85f074d5d9"
+    },
+    {
+      "$oid": "641e80fff3ab6c85f074d5ef"
+    },
+    {
+      "$oid": "641e81a5f3ab6c85f074d61e"
+    },
+    {
+      "$oid": "641e8274f3ab6c85f074d637"
+    },
+    {
+      "$oid": "641e832af3ab6c85f074d665"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8e8d03007793749e74a3"
+  },
+  "genre_name": "Dance",
+  "songs_id": [
+    {
+      "$oid": "641e7fb7f3ab6c85f074d58d"
+    },
+    {
+      "$oid": "641e7fbff3ab6c85f074d58f"
+    },
+    {
+      "$oid": "641e7fdcf3ab6c85f074d597"
+    },
+    {
+      "$oid": "641e7fe3f3ab6c85f074d599"
+    },
+    {
+      "$oid": "641e7ffdf3ab6c85f074d5a1"
+    },
+    {
+      "$oid": "641e8006f3ab6c85f074d5a4"
+    },
+    {
+      "$oid": "641e8040f3ab6c85f074d5b7"
+    },
+    {
+      "$oid": "641e8056f3ab6c85f074d5be"
+    },
+    {
+      "$oid": "641e8089f3ab6c85f074d5cb"
+    },
+    {
+      "$oid": "641e80c5f3ab6c85f074d5dd"
+    },
+    {
+      "$oid": "641e80d5f3ab6c85f074d5e2"
+    },
+    {
+      "$oid": "641e80dbf3ab6c85f074d5e4"
+    },
+    {
+      "$oid": "641e811df3ab6c85f074d5f8"
+    },
+    {
+      "$oid": "641e8178f3ab6c85f074d611"
+    },
+    {
+      "$oid": "641e818bf3ab6c85f074d616"
+    },
+    {
+      "$oid": "641e819ff3ab6c85f074d61c"
+    },
+    {
+      "$oid": "641e81a9f3ab6c85f074d61f"
+    },
+    {
+      "$oid": "641e8258f3ab6c85f074d62f"
+    },
+    {
+      "$oid": "641e828cf3ab6c85f074d63e"
+    },
+    {
+      "$oid": "641e82b9f3ab6c85f074d64c"
+    },
+    {
+      "$oid": "641e82c7f3ab6c85f074d650"
+    },
+    {
+      "$oid": "641e833cf3ab6c85f074d66b"
+    },
+    {
+      "$oid": "641e8345f3ab6c85f074d66e"
+    },
+    {
+      "$oid": "641e834ff3ab6c85f074d671"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8e9d03007793749e74a4"
+  },
+  "genre_name": "KPop",
+  "songs_id": [
+    {
+      "$oid": "641e7f7bf3ab6c85f074d57d"
+    },
+    {
+      "$oid": "641e7f85f3ab6c85f074d580"
+    },
+    {
+      "$oid": "641e7fe6f3ab6c85f074d59a"
+    },
+    {
+      "$oid": "641e8012f3ab6c85f074d5a8"
+    },
+    {
+      "$oid": "641e801ef3ab6c85f074d5ac"
+    },
+    {
+      "$oid": "641e807ff3ab6c85f074d5c8"
+    },
+    {
+      "$oid": "641e808ff3ab6c85f074d5cd"
+    },
+    {
+      "$oid": "641e80ccf3ab6c85f074d5df"
+    },
+    {
+      "$oid": "641e8162f3ab6c85f074d60a"
+    },
+    {
+      "$oid": "641e8195f3ab6c85f074d619"
+    },
+    {
+      "$oid": "641e819bf3ab6c85f074d61b"
+    },
+    {
+      "$oid": "641e826ff3ab6c85f074d635"
+    },
+    {
+      "$oid": "641e8291f3ab6c85f074d63f"
+    },
+    {
+      "$oid": "641e82eff3ab6c85f074d65a"
+    },
+    {
+      "$oid": "641e8327f3ab6c85f074d664"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8ead03007793749e74a6"
+  },
+  "genre_name": "Latin",
+  "songs_id": [
+    {
+      "$oid": "641e7ffaf3ab6c85f074d5a0"
+    },
+    {
+      "$oid": "641e800ff3ab6c85f074d5a7"
+    },
+    {
+      "$oid": "641e80cff3ab6c85f074d5e0"
+    },
+    {
+      "$oid": "641e80d2f3ab6c85f074d5e1"
+    },
+    {
+      "$oid": "641e80f4f3ab6c85f074d5ec"
+    },
+    {
+      "$oid": "641e8111f3ab6c85f074d5f5"
+    },
+    {
+      "$oid": "641e825ff3ab6c85f074d630"
+    },
+    {
+      "$oid": "641e82d1f3ab6c85f074d653"
+    },
+    {
+      "$oid": "641e82d4f3ab6c85f074d654"
+    },
+    {
+      "$oid": "641e8317f3ab6c85f074d65f"
+    },
+    {
+      "$oid": "641e834cf3ab6c85f074d670"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8eb503007793749e74a7"
+  },
+  "genre_name": "Soul",
+  "songs_id": [
+    {
+      "$oid": "641e7720f3ab6c85f074d573"
+    },
+    {
+      "$oid": "641e8003f3ab6c85f074d5a3"
+    },
+    {
+      "$oid": "641e8015f3ab6c85f074d5a9"
+    },
+    {
+      "$oid": "641e8034f3ab6c85f074d5b3"
+    },
+    {
+      "$oid": "641e8037f3ab6c85f074d5b4"
+    },
+    {
+      "$oid": "641e8043f3ab6c85f074d5b8"
+    },
+    {
+      "$oid": "641e8050f3ab6c85f074d5bc"
+    },
+    {
+      "$oid": "641e8093f3ab6c85f074d5ce"
+    },
+    {
+      "$oid": "641e809af3ab6c85f074d5d0"
+    },
+    {
+      "$oid": "641e80def3ab6c85f074d5e5"
+    },
+    {
+      "$oid": "641e8138f3ab6c85f074d600"
+    },
+    {
+      "$oid": "641e815bf3ab6c85f074d608"
+    },
+    {
+      "$oid": "641e8165f3ab6c85f074d60b"
+    },
+    {
+      "$oid": "641e81cef3ab6c85f074d62a"
+    },
+    {
+      "$oid": "641e8352f3ab6c85f074d672"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8ebf03007793749e74a8"
+  },
+  "genre_name": "Rnb",
+  "songs_id": [
+    {
+      "$oid": "641e7704f3ab6c85f074d571"
+    },
+    {
+      "$oid": "641e771cf3ab6c85f074d572"
+    },
+    {
+      "$oid": "641e772bf3ab6c85f074d576"
+    },
+    {
+      "$oid": "641e7fc5f3ab6c85f074d591"
+    },
+    {
+      "$oid": "641e7fd6f3ab6c85f074d596"
+    },
+    {
+      "$oid": "641e8000f3ab6c85f074d5a2"
+    },
+    {
+      "$oid": "641e806cf3ab6c85f074d5c2"
+    },
+    {
+      "$oid": "641e806ff3ab6c85f074d5c3"
+    },
+    {
+      "$oid": "641e8076f3ab6c85f074d5c5"
+    },
+    {
+      "$oid": "641e809df3ab6c85f074d5d1"
+    },
+    {
+      "$oid": "641e80adf3ab6c85f074d5d6"
+    },
+    {
+      "$oid": "641e80b1f3ab6c85f074d5d7"
+    },
+    {
+      "$oid": "641e80d8f3ab6c85f074d5e3"
+    },
+    {
+      "$oid": "641e8108f3ab6c85f074d5f2"
+    },
+    {
+      "$oid": "641e8115f3ab6c85f074d5f6"
+    },
+    {
+      "$oid": "641e8154f3ab6c85f074d606"
+    },
+    {
+      "$oid": "641e815ef3ab6c85f074d609"
+    },
+    {
+      "$oid": "641e81a2f3ab6c85f074d61d"
+    },
+    {
+      "$oid": "641e81c0f3ab6c85f074d626"
+    },
+    {
+      "$oid": "641e824af3ab6c85f074d62b"
+    },
+    {
+      "$oid": "641e824df3ab6c85f074d62c"
+    },
+    {
+      "$oid": "641e8251f3ab6c85f074d62d"
+    },
+    {
+      "$oid": "641e8278f3ab6c85f074d638"
+    },
+    {
+      "$oid": "641e8288f3ab6c85f074d63d"
+    },
+    {
+      "$oid": "641e82a3f3ab6c85f074d645"
+    },
+    {
+      "$oid": "641e82e5f3ab6c85f074d659"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e8ec703007793749e74a9"
+  },
+  "genre_name": "Edm",
+  "songs_id": [
+    {
+      "$oid": "641e7fa4f3ab6c85f074d587"
+    },
+    {
+      "$oid": "641e7fe0f3ab6c85f074d598"
+    },
+    {
+      "$oid": "641e803af3ab6c85f074d5b5"
+    },
+    {
+      "$oid": "641e8083f3ab6c85f074d5c9"
+    },
+    {
+      "$oid": "641e80eff3ab6c85f074d5ea"
+    },
+    {
+      "$oid": "641e8157f3ab6c85f074d607"
+    },
+    {
+      "$oid": "641e8174f3ab6c85f074d610"
+    },
+    {
+      "$oid": "641e8269f3ab6c85f074d633"
+    },
+    {
+      "$oid": "641e8271f3ab6c85f074d636"
+    },
+    {
+      "$oid": "641e8294f3ab6c85f074d640"
+    },
+    {
+      "$oid": "641e8358f3ab6c85f074d674"
+    }
+  ]
+}]

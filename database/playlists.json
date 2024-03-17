@@ -1,0 +1,778 @@
+[{
+  "_id": {
+    "$oid": "641899521fb0f47d9d9793d9"
+  },
+  "playlist_name": "sad girl staters pack",
+  "playlist_img": "/img/db_img/playlist_img/sad-girl-starter-pack.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8336f3ab6c85f074d669"
+    },
+    {
+      "$oid": "641e8324f3ab6c85f074d663"
+    },
+    {
+      "$oid": "641e802ef3ab6c85f074d5b1"
+    },
+    {
+      "$oid": "641e81caf3ab6c85f074d629"
+    },
+    {
+      "$oid": "641e8187f3ab6c85f074d615"
+    },
+    {
+      "$oid": "641e816df3ab6c85f074d60e"
+    },
+    {
+      "$oid": "641e772ef3ab6c85f074d577"
+    },
+    {
+      "$oid": "641e7f9df3ab6c85f074d585"
+    },
+    {
+      "$oid": "641e819bf3ab6c85f074d61b"
+    },
+    {
+      "$oid": "641e82a9f3ab6c85f074d647"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e955c03007793749e74be"
+  },
+  "playlist_name": "Dancing On Our Own",
+  "playlist_img": "/img/db_img/playlist_img/dancing-on-our-own.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e82bcf3ab6c85f074d64d"
+    },
+    {
+      "$oid": "641e82b9f3ab6c85f074d64c"
+    },
+    {
+      "$oid": "64187438a6a7d496089ddf3f"
+    },
+    {
+      "$oid": "641e8262f3ab6c85f074d631"
+    },
+    {
+      "$oid": "641e7fe3f3ab6c85f074d599"
+    },
+    {
+      "$oid": "641e7fcdf3ab6c85f074d593"
+    },
+    {
+      "$oid": "641e817cf3ab6c85f074d612"
+    },
+    {
+      "$oid": "641e7724f3ab6c85f074d574"
+    },
+    {
+      "$oid": "641e82acf3ab6c85f074d648"
+    },
+    {
+      "$oid": "641e8352f3ab6c85f074d672"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e958a03007793749e74bf"
+  },
+  "playlist_name": "Throwback Party",
+  "playlist_img": "/img/db_img/playlist_img/throwback-party.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e80dbf3ab6c85f074d5e4"
+    },
+    {
+      "$oid": "641e7fadf3ab6c85f074d58a"
+    },
+    {
+      "$oid": "641e8258f3ab6c85f074d62f"
+    },
+    {
+      "$oid": "641e8178f3ab6c85f074d611"
+    },
+    {
+      "$oid": "641e7fbbf3ab6c85f074d58e"
+    },
+    {
+      "$oid": "641e8288f3ab6c85f074d63d"
+    },
+    {
+      "$oid": "641e7fb7f3ab6c85f074d58d"
+    },
+    {
+      "$oid": "641e8040f3ab6c85f074d5b7"
+    },
+    {
+      "$oid": "641e818bf3ab6c85f074d616"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e95a303007793749e74c0"
+  },
+  "playlist_name": "OBSSESED",
+  "playlist_img": "/img/db_img/playlist_img/obsessed.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e809af3ab6c85f074d5d0"
+    },
+    {
+      "$oid": "641e8305f3ab6c85f074d65d"
+    },
+    {
+      "$oid": "641e8358f3ab6c85f074d674"
+    },
+    {
+      "$oid": "641e82b3f3ab6c85f074d64a"
+    },
+    {
+      "$oid": "641e832df3ab6c85f074d666"
+    },
+    {
+      "$oid": "641e8184f3ab6c85f074d614"
+    },
+    {
+      "$oid": "641e803ef3ab6c85f074d5b6"
+    },
+    {
+      "$oid": "641ad801366d292a0cc59ca3"
+    },
+    {
+      "$oid": "641e826cf3ab6c85f074d634"
+    },
+    {
+      "$oid": "641e7735f3ab6c85f074d579"
+    },
+    {
+      "$oid": "641e81c7f3ab6c85f074d628"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e95b803007793749e74c1"
+  },
+  "playlist_name": "EDM For Life",
+  "playlist_img": "/img/db_img/playlist_img/edm-for-life.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8271f3ab6c85f074d636"
+    },
+    {
+      "$oid": "641e8358f3ab6c85f074d674"
+    },
+    {
+      "$oid": "641e803af3ab6c85f074d5b5"
+    },
+    {
+      "$oid": "641e8157f3ab6c85f074d607"
+    },
+    {
+      "$oid": "641e8174f3ab6c85f074d610"
+    },
+    {
+      "$oid": "641e8269f3ab6c85f074d633"
+    },
+    {
+      "$oid": "641e7fa4f3ab6c85f074d587"
+    },
+    {
+      "$oid": "641e7fe0f3ab6c85f074d598"
+    },
+    {
+      "$oid": "641e8294f3ab6c85f074d640"
+    },
+    {
+      "$oid": "641e8083f3ab6c85f074d5c9"
+    },
+    {
+      "$oid": "641e80eff3ab6c85f074d5ea"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e95cc03007793749e74c2"
+  },
+  "playlist_name": "Viva Latino",
+  "playlist_img": "/img/db_img/playlist_img/viva-latino.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e834cf3ab6c85f074d670"
+    },
+    {
+      "$oid": "641e80d2f3ab6c85f074d5e1"
+    },
+    {
+      "$oid": "641e825ff3ab6c85f074d630"
+    },
+    {
+      "$oid": "641e80cff3ab6c85f074d5e0"
+    },
+    {
+      "$oid": "641e82d1f3ab6c85f074d653"
+    },
+    {
+      "$oid": "641e7ffaf3ab6c85f074d5a0"
+    },
+    {
+      "$oid": "641e80f4f3ab6c85f074d5ec"
+    },
+    {
+      "$oid": "641e8111f3ab6c85f074d5f5"
+    },
+    {
+      "$oid": "641e800ff3ab6c85f074d5a7"
+    },
+    {
+      "$oid": "641e8317f3ab6c85f074d65f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e963d03007793749e74c3"
+  },
+  "playlist_name": "Top 10",
+  "playlist_img": "/img/db_img/playlist_img/top10.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e7735f3ab6c85f074d579"
+    },
+    {
+      "$oid": "641e8031f3ab6c85f074d5b2"
+    },
+    {
+      "$oid": "641e80c2f3ab6c85f074d5dc"
+    },
+    {
+      "$oid": "641e7faaf3ab6c85f074d589"
+    },
+    {
+      "$oid": "641e7fe9f3ab6c85f074d59b"
+    },
+    {
+      "$oid": "641e80def3ab6c85f074d5e5"
+    },
+    {
+      "$oid": "641e8000f3ab6c85f074d5a2"
+    },
+    {
+      "$oid": "641e82e1f3ab6c85f074d658"
+    },
+    {
+      "$oid": "641e7fedf3ab6c85f074d59c"
+    },
+    {
+      "$oid": "641e80a4f3ab6c85f074d5d3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e966203007793749e74c4"
+  },
+  "playlist_name": "Sadness",
+  "playlist_img": "/img/db_img/playlist_img/sadness.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e81cef3ab6c85f074d62a"
+    },
+    {
+      "$oid": "641e8138f3ab6c85f074d600"
+    },
+    {
+      "$oid": "641e8108f3ab6c85f074d5f2"
+    },
+    {
+      "$oid": "641e7fb1f3ab6c85f074d58b"
+    },
+    {
+      "$oid": "641e8024f3ab6c85f074d5ae"
+    },
+    {
+      "$oid": "641e802bf3ab6c85f074d5b0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e967b03007793749e74c5"
+  },
+  "playlist_name": "1960s",
+  "playlist_img": "/img/db_img/playlist_img/1960s.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8171f3ab6c85f074d60f"
+    },
+    {
+      "$oid": "641e7fc5f3ab6c85f074d591"
+    },
+    {
+      "$oid": "641e7fb4f3ab6c85f074d58c"
+    },
+    {
+      "$oid": "641e807cf3ab6c85f074d5c7"
+    },
+    {
+      "$oid": "641e8062f3ab6c85f074d5bf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e968e03007793749e74c6"
+  },
+  "playlist_name": "1970s",
+  "playlist_img": "/img/db_img/playlist_img/1970s.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e7ff0f3ab6c85f074d59d"
+    },
+    {
+      "$oid": "641e82a3f3ab6c85f074d645"
+    },
+    {
+      "$oid": "641e81aff3ab6c85f074d621"
+    },
+    {
+      "$oid": "641e8089f3ab6c85f074d5cb"
+    },
+    {
+      "$oid": "641e800cf3ab6c85f074d5a6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "641e96bf03007793749e74c7"
+  },
+  "playlist_name": "1980s",
+  "playlist_img": "/img/db_img/playlist_img/1980s.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8015f3ab6c85f074d5a9"
+    },
+    {
+      "$oid": "641e82b0f3ab6c85f074d649"
+    },
+    {
+      "$oid": "641e7f7ef3ab6c85f074d57e"
+    },
+    {
+      "$oid": "641e8115f3ab6c85f074d5f6"
+    },
+    {
+      "$oid": "641e7f93f3ab6c85f074d584"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "642023d870c78a4cc8f0da19"
+  },
+  "playlist_name": "1990s",
+  "playlist_img": "/img/db_img/playlist_img/1990s.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e80b1f3ab6c85f074d5d7"
+    },
+    {
+      "$oid": "641e8135f3ab6c85f074d5ff"
+    },
+    {
+      "$oid": "641e82def3ab6c85f074d657"
+    },
+    {
+      "$oid": "641e8266f3ab6c85f074d632"
+    },
+    {
+      "$oid": "641e816af3ab6c85f074d60d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "642023f770c78a4cc8f0da1a"
+  },
+  "playlist_name": "2000s",
+  "playlist_img": "/img/db_img/playlist_img/2000s.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e82d7f3ab6c85f074d655"
+    },
+    {
+      "$oid": "641e824df3ab6c85f074d62c"
+    },
+    {
+      "$oid": "641e81a2f3ab6c85f074d61d"
+    },
+    {
+      "$oid": "641e82b6f3ab6c85f074d64b"
+    },
+    {
+      "$oid": "641e8192f3ab6c85f074d618"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6420240770c78a4cc8f0da1b"
+  },
+  "playlist_name": "2010s",
+  "playlist_img": "/img/db_img/playlist_img/2010s.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e80bbf3ab6c85f074d5da"
+    },
+    {
+      "$oid": "641e8102f3ab6c85f074d5f0"
+    },
+    {
+      "$oid": "641e7f77f3ab6c85f074d57c"
+    },
+    {
+      "$oid": "641e82daf3ab6c85f074d656"
+    },
+    {
+      "$oid": "641e81a9f3ab6c85f074d61f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "642026f570c78a4cc8f0da1c"
+  },
+  "playlist_name": "Confidence Boost",
+  "playlist_img": "/img/db_img/playlist_img/confidence-boost.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e827cf3ab6c85f074d639"
+    },
+    {
+      "$oid": "641e8050f3ab6c85f074d5bc"
+    },
+    {
+      "$oid": "641e810ef3ab6c85f074d5f4"
+    },
+    {
+      "$oid": "641e7ffaf3ab6c85f074d5a0"
+    },
+    {
+      "$oid": "641e7f81f3ab6c85f074d57f"
+    },
+    {
+      "$oid": "641e7fedf3ab6c85f074d59c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64202c1370c78a4cc8f0da1d"
+  },
+  "playlist_name": "Sensual Lounge",
+  "playlist_img": "/img/db_img/playlist_img/sensual-lounge.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e829df3ab6c85f074d643"
+    },
+    {
+      "$oid": "641e8111f3ab6c85f074d5f5"
+    },
+    {
+      "$oid": "641e831df3ab6c85f074d661"
+    },
+    {
+      "$oid": "641e82b3f3ab6c85f074d64a"
+    },
+    {
+      "$oid": "641e819ff3ab6c85f074d61c"
+    },
+    {
+      "$oid": "641e806ff3ab6c85f074d5c3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64202c5970c78a4cc8f0da1e"
+  },
+  "playlist_name": "Colors Show",
+  "playlist_img": "/img/db_img/playlist_img/colors-show.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8006f3ab6c85f074d5a4"
+    },
+    {
+      "$oid": "641e80d8f3ab6c85f074d5e3"
+    },
+    {
+      "$oid": "641e8068f3ab6c85f074d5c1"
+    },
+    {
+      "$oid": "641e8178f3ab6c85f074d611"
+    },
+    {
+      "$oid": "641e8126f3ab6c85f074d5fb"
+    },
+    {
+      "$oid": "641e80c5f3ab6c85f074d5dd"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6421767d17e951bf32d8847e"
+  },
+  "playlist_name": "New Track Releases",
+  "playlist_img": "/img/db_img/playlist_img/new-track-releases.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e82b9f3ab6c85f074d64c"
+    },
+    {
+      "$oid": "641e803ef3ab6c85f074d5b6"
+    },
+    {
+      "$oid": "641e81c3f3ab6c85f074d627"
+    },
+    {
+      "$oid": "641e8254f3ab6c85f074d62e"
+    },
+    {
+      "$oid": "641e8012f3ab6c85f074d5a8"
+    },
+    {
+      "$oid": "641e8262f3ab6c85f074d631"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424fda15e56cf0f4fda215e"
+  },
+  "playlist_name": "Dopamine",
+  "playlist_img": "/img/db_img/playlist_img/dopamine.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e7fb1f3ab6c85f074d58b"
+    },
+    {
+      "$oid": "641e804af3ab6c85f074d5ba"
+    },
+    {
+      "$oid": "641e8187f3ab6c85f074d615"
+    },
+    {
+      "$oid": "641e8009f3ab6c85f074d5a5"
+    },
+    {
+      "$oid": "641e813ef3ab6c85f074d602"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424fdbd5e56cf0f4fda215f"
+  },
+  "playlist_name": "Red Moon In Venus",
+  "playlist_img": "/img/db_img/playlist_img/red-moon-in-venus.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e818bf3ab6c85f074d616"
+    },
+    {
+      "$oid": "641e8324f3ab6c85f074d663"
+    },
+    {
+      "$oid": "641e8258f3ab6c85f074d62f"
+    },
+    {
+      "$oid": "641e82def3ab6c85f074d657"
+    },
+    {
+      "$oid": "641e82acf3ab6c85f074d648"
+    },
+    {
+      "$oid": "641e8115f3ab6c85f074d5f6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424fe185e56cf0f4fda2160"
+  },
+  "playlist_name": "ADE Guest List",
+  "playlist_img": "/img/db_img/playlist_img/ade-guest-list.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e81b2f3ab6c85f074d622"
+    },
+    {
+      "$oid": "641e82b0f3ab6c85f074d649"
+    },
+    {
+      "$oid": "641e80f8f3ab6c85f074d5ed"
+    },
+    {
+      "$oid": "641e80bef3ab6c85f074d5db"
+    },
+    {
+      "$oid": "641e801bf3ab6c85f074d5ab"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424fe695e56cf0f4fda2161"
+  },
+  "playlist_name": "Dance Fever",
+  "playlist_img": "/img/db_img/playlist_img/dance-fever.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e833cf3ab6c85f074d66b"
+    },
+    {
+      "$oid": "641e8345f3ab6c85f074d66e"
+    },
+    {
+      "$oid": "641e7ffdf3ab6c85f074d5a1"
+    },
+    {
+      "$oid": "641e819ff3ab6c85f074d61c"
+    },
+    {
+      "$oid": "641e7fdcf3ab6c85f074d597"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424fe7a5e56cf0f4fda2162"
+  },
+  "playlist_name": "Limelight",
+  "playlist_img": "/img/db_img/playlist_img/limelight.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e814af3ab6c85f074d604"
+    },
+    {
+      "$oid": "641e82e1f3ab6c85f074d658"
+    },
+    {
+      "$oid": "641e7fc9f3ab6c85f074d592"
+    },
+    {
+      "$oid": "641e810bf3ab6c85f074d5f3"
+    },
+    {
+      "$oid": "641e7faaf3ab6c85f074d589"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424feb65e56cf0f4fda2163"
+  },
+  "playlist_name": "Neon Lights",
+  "playlist_img": "/img/db_img/playlist_img/neon-lights.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8083f3ab6c85f074d5c9"
+    },
+    {
+      "$oid": "641e8294f3ab6c85f074d640"
+    },
+    {
+      "$oid": "641e8174f3ab6c85f074d610"
+    },
+    {
+      "$oid": "641e803af3ab6c85f074d5b5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424fecb5e56cf0f4fda2164"
+  },
+  "playlist_name": "Psytrance Supernova",
+  "playlist_img": "/img/db_img/playlist_img/psytrance-supernova.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8123f3ab6c85f074d5fa"
+    },
+    {
+      "$oid": "641e8162f3ab6c85f074d60a"
+    },
+    {
+      "$oid": "641e8195f3ab6c85f074d619"
+    },
+    {
+      "$oid": "641e8097f3ab6c85f074d5cf"
+    },
+    {
+      "$oid": "641e82bcf3ab6c85f074d64d"
+    },
+    {
+      "$oid": "641e8302f3ab6c85f074d65c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424ff3f5e56cf0f4fda2165"
+  },
+  "playlist_name": "Fresh Finds",
+  "playlist_img": "/img/db_img/playlist_img/fresh-finds.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e7f7ef3ab6c85f074d57e"
+    },
+    {
+      "$oid": "641e80c2f3ab6c85f074d5dc"
+    },
+    {
+      "$oid": "641e7f7bf3ab6c85f074d57d"
+    },
+    {
+      "$oid": "641e8093f3ab6c85f074d5ce"
+    },
+    {
+      "$oid": "641e831af3ab6c85f074d660"
+    },
+    {
+      "$oid": "641e7fd0f3ab6c85f074d594"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6424ff525e56cf0f4fda2166"
+  },
+  "playlist_name": "Noir",
+  "playlist_img": "/img/db_img/playlist_img/noir.jpg",
+  "username": "Paradise",
+  "songs_id": [
+    {
+      "$oid": "641e8254f3ab6c85f074d62e"
+    },
+    {
+      "$oid": "641e831af3ab6c85f074d660"
+    },
+    {
+      "$oid": "641e8330f3ab6c85f074d667"
+    },
+    {
+      "$oid": "641e813ef3ab6c85f074d602"
+    },
+    {
+      "$oid": "641e8097f3ab6c85f074d5cf"
+    }
+  ]
+}]
